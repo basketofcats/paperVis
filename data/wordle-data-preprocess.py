@@ -1,53 +1,35 @@
 import json
 import os
+from collections import *
 
-# 节点信息
-nodes = []
-# 链接信息
-links = []
-# author to paper
-rela_a2p = {}
-# paper to author
-rela_p2a = {}
+# 关键词信息
+keywords_cnt = {}
 
 def parse_dir(datapath):
     infos = json.load(open("./organized/" + datapath))
     year = datapath[4: 8]
+    t = set()
     for info in infos:
         if not info:
             continue
+        t.clear()
+        for conference in info['keywords'].keys():
+            for keyword in info['keywords'][conference]:
+                t.add(keyword.title())
+        for s in t:
+            if s not in keywords_cnt:
+                keywords_cnt[s] = 0
+            keywords_cnt[s] += 1
 
-        node = {}
-        # 使用索引来找到a2p p2a关系
-        idx = len(nodes)
+def word_filter(key_cnt):
+    # removelist去掉无关但是频率较高的词语
+    removelist = ["秒拍", "视频", "网页", "分享", "全文", "链接"]
+    for word in removelist:
         try:
-            paper_id = "paper" + "-" + year + "-" + str(info['id'])
-        except:
-            print(info)
-        # 添加 paper 信息
-        node['node_id'] = paper_id
-        node['node_name'] = info['title']
-        node['node_cite'] = sum(info['citation'].values())
-        nodes.append(node.copy())
-        for author in info['authors']:
-            node = {}
-            author_id = "author" + "-" + author
-            node['node_id'] = author_id
-            node['node_name'] = author
-            nodes.append(node.copy())
-
-            link = {}
-            link['source'] = author_id
-            link['target'] = paper_id
-            links.append(link.copy())
-
-            # 使用nodes的索引来保存关系
-            if author not in rela_a2p:
-                rela_a2p[author] = []
-            rela_a2p[author].append(idx)
-            if info['title'] not in rela_p2a:
-                rela_p2a[info['title']] = []
-            rela_p2a[info['title']].append(len(nodes) - 1)
+            del key_cnt[word]
+            print("delet", word)
+        except Exception:
+            pass
 
 if __name__ == '__main__':
     dir_name = sorted(os.listdir('./organized'))
@@ -59,13 +41,22 @@ if __name__ == '__main__':
 
     # parse_dir('iccv2015_paper_infos.json')
 
-    info = {}
-    info['nodes'] = nodes
-    info['links'] = links
-    info['rela_a2p'] = rela_a2p
-    info['rela_p2a'] = rela_p2a
+    count = Counter(keywords_cnt)
+    rank = count.most_common()[:100]
 
-    json.dump(info, open('FDG-info.json', "w"));
+    info = []
+    m = {}
+
+    for items in rank:
+        # m = []
+        # m.append(items[0])
+        # m.append(items[1])
+        m.clear()
+        m["text"] = items[0]
+        m["size"] = items[1]
+        info.append(m.copy())
+
+    json.dump(info, open('wordle-info.json', "w"));
 
     # # author 有6471人
     # print(len(info['rela_a2p'].keys()))
