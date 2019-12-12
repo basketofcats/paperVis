@@ -44,14 +44,27 @@ function dragended(d) {
     d.fy = null;
 }
 
+function clearFDG(){
+    nodes = []
+    links = []
+    links = links.map(d => Object.create(d));
+    nodes = nodes.map(d => Object.create(d));
+
+    link = link.data(links);
+    link.exit().remove();
+
+    node = node.data(nodes);
+    node.exit().remove();
+}
+
 // node_name : info['title']
 // node_id : "paper" + "-" + year + "-" + str(info['id'])
 function click_update(node_name, node_id){
-    help();
-
     if (node_id[0] == 'a'){
         return;
     }
+
+    clearFDG();
 
     nodes = [];
     links = [];
@@ -80,11 +93,11 @@ function click_update(node_name, node_id){
         .duration(200)
         .style("opacity", 0);
 
-    console.log(nodes);
-    console.log(links);
+    // console.log(nodes);
+    // console.log(links);
 
     // update();
-    showForce();
+    showForce(-1000);
 }
 
 function simulate(strengh_force){
@@ -119,170 +132,11 @@ function simulate(strengh_force){
     });
 }
 
-function help(){
-    nodes = []
-    links = []
+function showForce(strengh_force = -10){
     links = links.map(d => Object.create(d));
     nodes = nodes.map(d => Object.create(d));
 
-    link = link.data(links);
-    link.exit().remove();
-
-    node = node.data(nodes);
-    node.exit().remove();
-}
-
-function update(){
-    links = links.map(d => Object.create(d));
-    nodes = nodes.map(d => Object.create(d));
-
-    simulate(-1000);
-
-    link = link.data(links);
-    link.exit().remove();
-    var linkEnter = link
-        .enter()
-        .append("line")
-        .attr("class","link")
-        .attr("id",function(d,i) {
-            return 'line'+i
-        })
-        .attr('marker-end','url(#end)')
-        .style("stroke","#ccc")
-        .style("pointer-events", "none");
-    link = linkEnter.merge(link);
-    
-    node = node.data(nodes);
-    node.exit().remove();
-
-    let nodeEnter = node.enter()
-        // .data(nodes)
-        .append("g")
-        .attr("class","node")
-        .on("mouseover", function(d) {
-            // 额外增加一个标签
-            div.transition()
-                .duration(200)
-                .style("opacity", .9);
-            // 细节：增加论文的引用数
-            // div.html(d.node_name)
-            div.html(() => {
-                    if (d.node_id[0] == 'p'){
-                        return d.node_name + "<br>year: " + d.node_id.substring(6, 10) + " cite: " + d.node_cite;
-                    }else{
-                        return d.node_name;
-                    }
-                })
-                .style("left", (d3.event.pageX + 10) + "px")
-                .style("top", (d3.event.pageY) + "px");
-
-            d3.select(this).select("image").transition()
-                .duration(200)
-                .attr("x", -2 * image_size)
-                .attr("y", -2 * image_size)
-                .attr("width", 4 * image_size)
-                .attr("height", 4 * image_size); 
-
-            // 将已有的text内容上移
-            d3.select(this).select("text")
-                // .transition()
-                // .duration(200)
-                .attr("dx", -10)
-                .attr("dy",-10)
-                .style("fill", "blue")
-                .style("stroke", "blue")
-                .style("stroke-width", ".5px")
-                .style("font-size", font_size_highlight)
-                .style("opacity", 0);
-                // .style("z-index",999);
-        })
-        .on("mouseout", function () {
-            div.transition()
-                .duration(200)
-                .style("opacity", 0);
-
-            d3.select(this).select("image").transition()
-                .duration(200)
-                .attr("x", -image_size)
-                .attr("y", -image_size)
-                .attr("width", 2 * image_size)
-                .attr("height", 2 * image_size); 
-
-            d3.select(this).select("text")
-                // .transition()
-                // .duration(200)
-                .attr("dx",5)
-                .attr("dy",5)
-                .style("fill", "black")
-                .style("stroke", null)
-                .style("stroke-width", "0px")
-                .style("font-size", font_size)
-                .style("opacity", 1)
-                .style("z-index", null);
-        })
-        .on("click", function (d){
-            click_update(d.node_name, d.node_id);
-        })
-        .call(d3.drag()
-                .on("start", dragstarted)
-                .on("drag", dragged)
-                .on("end", dragended)
-        ).merge(node);
-    
-    // update
-    let nodeText = node.select("text").text(function(d) {
-        if (d.node_id[0] == "a") {
-            return d.node_name;
-        } else{
-            return "";
-        }
-    }).merge(node);
-
-    // update
-    let nodeCircle = node.select("circle")
-    .style("stroke", function(d,i){
-        if (d.node_id[0] == 'p'){
-            return paper_color;
-        }else{
-            return author_color;
-        }
-    })
-    .attr("r", function(d,i){
-        if (d.node_id[0] == 'p'){
-            return Math.min(6, Math.max(2, Math.sqrt(d.node_cite / 2)));
-        }else{
-            return 3;
-        }
-    })
-    .style("fill", function(d,i){
-        if (d.node_id[0] == 'p'){
-            return paper_color;
-        }else{
-            return author_color;
-        }
-    })
-    .style("opacity", function(d,i){
-        if (d.node_id[0] == 'p'){
-            return 1;
-        }else{
-            return 0;
-        }
-    }).merge(node);
-
-    let nodeImg = node.select("image").attr("xlink:href", function(d, i) {
-        if (d.node_id[0] == 'a') {
-            return "./img/people.png";
-        } else {
-            return null;
-        }
-    }).merge(node);
-}
-
-function showForce(){
-    links = links.map(d => Object.create(d));
-    nodes = nodes.map(d => Object.create(d));
-
-    simulate(-1000);
+    simulate(strengh_force);
 
     link = link.data(links);
     link.exit().remove();
@@ -437,16 +291,6 @@ function showForce(){
     .attr("height", 2 * image_size); 
 
     node = nodeEnter.merge(node);
-
-    // simulation.stop();
-                
-    // simulation.nodes(nodes);
-
-    // // 设定边之间的距离
-    // // simulation.force("link").links(links).distance(120);
-
-    // simulation.alpha(1);
-    // simulation.restart();
 }
 
 // 读取json文件
@@ -455,20 +299,16 @@ d3.json("./data/FDG-info.json", function(data){
     total_links = data.links;
     total_nodes = data.nodes;
 
-    nodes = total_nodes;
-    links = total_links;
-
     // nodes = [{"node_id": "paper-2001-45", "node_name": "Human tracking in multiple cameras", "node_cite": 110}, {"node_id": "author-S. Khan", "node_name": "S. Khan"}];
     // links = [{"source": "author-S. Khan", "target": "paper-2001-45"}];
 
     // console.log(nodes);
 
-    // links = total_links;
-    // nodes = total_nodes;
+    links = total_links;
+    nodes = total_nodes;
 
     rela_p2a = data.rela_p2a;
     rela_a2p = data.rela_a2p;
-
 
     div = d3.select("body").append("div")
         .attr("class", "tooltip")
@@ -491,5 +331,4 @@ d3.json("./data/FDG-info.json", function(data){
     link = force_svg.select("#link_group").selectAll(".line");
 
     showForce();
-
 });
