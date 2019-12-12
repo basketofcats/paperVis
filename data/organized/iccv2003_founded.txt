@@ -1,0 +1,204 @@
+CONF!!! The variable bandwidth mean shift and data-driven scale selection,iccv eigth intl conf., vol. 1, pp. 438-445, 2001. 
+title: thevariablebandwidthmeanshiftanddatadrivenscalesel year: ['2001'] span:(0,4) 
+CONF!!! A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics,iccv '01, vol. 2, pp. 416-423, 2001. 
+title: adatabaseofhumansegmentednaturalimagesanditsapplic year: ['2001'] span:(0,4) 
+CONF!!! Image segmentation by data driven markov chain monte carlo,iccv '01, vol. 2, pp. 131-138, 2001. 
+title: imagesegmentationbydatadrivenmarkovchainmontecarlo year: ['2001'] span:(0,4) 
+CONF!!! Matching shapes,proc. of iccv, 2001. 
+title: matchingshapes year: ['2001'] span:(9,13) 
+CONF!!! A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics,proc. of iccv, 2001. 
+title: adatabaseofhumansegmentednaturalimagesanditsapplic year: ['2001'] span:(9,13) 
+CONF!!! Interactive graph cuts for optimal boundary & region segmentation of objects in N-D images,international conference on computer vision, vol. i, pp. 105-112, july 2001. 
+title: interactivegraphcutsforoptimalboundaryandregionseg year: ['2001'] span:(0,43) 
+CONF!!! Probabilistic tracking in a metric space,proc. iccv, 2001. 
+title: probabilistictrackinginametricspace year: ['2001'] span:(6,10) 
+CONF!!! Robust principal component analysis for computer vision,proc. iccv, pp. 362-369, 2001. 
+title: robustprincipalcomponentanalysisforcomputervision year: ['2001'] span:(6,10) 
+CONF!!! Dynamic Textures,proc. iccv, pp. 439-446, 2001. 
+title: dynamictextures year: ['2001'] span:(6,10) 
+CONF!!! A background model initialization algorithm for video surveillance,proc. iccv, pp. 733-740, 2001. 
+title: abackgroundmodelinitializationalgorithmforvideosur year: ['2001'] span:(6,10) 
+CONF!!! Occlusion robust adaptive template tracking,proc. international conf. computer vision, vol. 1, pp. 678-683, 2001. 
+title: occlusionrobustadaptivetemplatetracking year: ['2001'] span:(6,41) 
+CONF!!! An EM Algorithm for Video Summarization Generative Model Approach,int. conf. on computer vision, 2001. 
+title: anemalgorithmforvideosummarizationgenerativemodela year: ['2001'] span:(0,29) 
+CONF!!! BraMBLe: A Bayesian Multiple-Blob Tracker,iccv, vol. 2, pp. 34-41, 2001. 
+title: brambleabayesianmultipleblobtracker year: ['2001'] span:(0,4) 
+CONF!!! Camera calibration and 3D reconstruction from single images using parallelepipeds,proceedings of the 8th international conference on computer vision, pp. 142-148, 2001. 
+title: cameracalibrationand3dreconstructionfromsingleimag year: ['2001'] span:(23,66) 
+CONF!!! Parallel-perspective stereo mosaics,iccv 2001, july 2001. 
+title: parallelperspectivestereomosaics year: ['2001', '2001'] span:(0,4) 
+CONF!!! Photometric image-based rendering for image generation in arbitrary illumination,proc. 8th int. conf. on computer vision, pp. 643-649, july 2001. 
+title: photometricimagebasedrenderingforimagegenerationin year: ['2001'] span:(10,39) 
+CONF!!! Very high accuracy velocity estimation using orientation tensors parametric motion and simultaneous segmentation of the motion field,computer vision 2001 iccv 2001. proceedings. eighth ieee international conference on, pp. 171-177, 2001. 
+title: veryhighaccuracyvelocityestimationusingorientation year: ['2001', '2001', '2001'] span:(21,25) 
+CONF!!! Structure and motion from silhouettes,8th ieee international conference on computer vision, vol. 2, pp. 217-222, july 2001. 
+title: structureandmotionfromsilhouettes year: ['2001'] span:(9,52) 
+CONF!!! Real-time Feature Tracking and Outlier Rejection with Changes in Illumination,international conference on computer vision, pp. 684-689, 2001. 
+title: realtimefeaturetrackingandoutlierrejectionwithchan year: ['2001'] span:(0,43) 
+CONF!!! Document restoration using 3D shape: a general deskewing algorithm for arbitrarily warped documents,proc. international conference on computer vision, july 2001. 
+title: documentrestorationusing3dshapeageneraldeskewingal year: ['2001'] span:(6,49) 
+CONF!!! Recognition of shapes by editing shock graphs,iccv, 2001. 
+title: recognitionofshapesbyeditingshockgraphs year: ['2001'] span:(0,4) 
+CONF!!! Matching Shapes,proc. iccv'01, 2001. 
+title: matchingshapes year: ['2001'] span:(6,10) 
+CONF!!! Illumination insensitive eigenspaces,proc. of iccv'01, 2001. 
+title: illuminationinsensitiveeigenspaces year: ['2001'] span:(9,13) 
+CONF!!! Kernel machine based learning for multi-view face detection and pose estimation,proc. iccv'01, 2001. 
+title: kernelmachinebasedlearningformultiviewfacedetectio year: ['2001'] span:(6,10) 
+CONF!!! Viewpoint invariant texture matching and wide baseline stereo,proc. iccv'01, 2001. 
+title: viewpointinvarianttexturematchingandwidebaselinest year: ['2001'] span:(6,10) 
+CONF!!! A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics,iccv, 2001. 
+title: adatabaseofhumansegmentednaturalimagesanditsapplic year: ['2001'] span:(0,4) 
+CONF!!! Human tracking with mixtures of trees,int. conf. on computer vision, 2001. 
+title: humantrackingwithmixturesoftrees year: ['2001'] span:(0,29) 
+CONF!!! Computationally efficient face detection,proc. int. conf. on computer vision, vol. 2, pp. 524-531, 2001. 
+title: computationallyefficientfacedetection year: ['2001'] span:(6,35) 
+CONF!!! Trust-region methods for real-time tracking,international conference on computer vision, vol. 2, pp. 717-722, 2001. 
+title: trustregionmethodsforrealtimetracking year: ['2001'] span:(0,43) 
+CONF!!! Indexing based on scale invariant interest points,proc. iccv, vol. 1, pp. 525-531, 2001. 
+title: indexingbasedonscaleinvariantinterestpoints year: ['2001'] span:(6,10) 
+CONF!!! The variable bandwidth mean shift and data-driven scale selection,proc. 8th intl. conf. on computer vision, vol. i, pp. 438-445, july 2001. 
+title: thevariablebandwidthmeanshiftanddatadrivenscalesel year: ['2001'] span:(10,40) 
+CONF!!! Fast pose estimation with parameter-sensitive hashing,proc. 9th intl. conf. on computer vision, 2003. 
+title: fastposeestimationwithparametersensitivehashing year: ['2003'] span:(10,40) 
+CONF!!! On the complexity of probabilistic Image Retrieval,proc. of the int. conference on computer vision, 2001. 
+title: onthecomplexityofprobabilisticimageretrieval year: ['2001'] span:(13,47) 
+CONF!!! Car detection in low resolution aerial image,proc. ieee intl. conf. computer vision, 2001. 
+title: cardetectioninlowresolutionaerialimage year: ['2001'] span:(11,38) 
+CONF!!! A Probabilistic Framework for Space Carving,proceedings of international conference on computer vision (iccv), pp. 388-393, 2001. 
+title: aprobabilisticframeworkforspacecarving year: ['2001'] span:(60,64) 
+CONF!!! Multi-View Scene Capture by Surfel Sampling: From Video Streams to Non-Rigid 3D MotionShape and Reflectance,proceedings of international conference on computer vision (iccv), 2001. 
+title: multiviewscenecapturebysurfelsamplingfromvideostre year: ['2001'] span:(60,64) 
+CONF!!! Alignment of Non-Overlapping Sequences,iccv, pp. 76-83, 2001. 
+title: alignmentofnonoverlappingsequences year: ['2001'] span:(0,4) 
+CONF!!! Multi-view scene capture by surfel sampling: From video streams to non-rigid 3d motion shape & reflectance,proceedings of the 8th international conference on computer vision, pp. 60-67, 2001. 
+title: multiviewscenecapturebysurfelsamplingfromvideostre year: ['2001'] span:(23,66) 
+CONF!!! Real-Time Feature Tracking and Outlier Rejection with Changes in Illumination,iccv, 2001. 
+title: realtimefeaturetrackingandoutlierrejectionwithchan year: ['2001'] span:(0,4) 
+CONF!!! Real-time feature tracking and outlier rejection with changes in illumination,iccv, pp. 684-689, 2001. 
+title: realtimefeaturetrackingandoutlierrejectionwithchan year: ['2001'] span:(0,4) 
+CONF!!! Indexing based on scale invariant interest points,iccv, pp. 525-531, 2001. 
+title: indexingbasedonscaleinvariantinterestpoints year: ['2001'] span:(0,4) 
+CONF!!! Indexing Based on Scale Invariant Interest Points,proc. iccv, pp. 525-531, 2001. 
+title: indexingbasedonscaleinvariantinterestpoints year: ['2001'] span:(6,10) 
+CONF!!! Viewpoint Invariant Texture Matching and Wide Baseline Stereo,proc. iccv, vol. 2, pp. 636-643, 2001. 
+title: viewpointinvarianttexturematchingandwidebaselinest year: ['2001'] span:(6,10) 
+CONF!!! Stereoscopic segmentation,proc. of the intl. conf. on computer vision, pp. 59-66, 2001. 
+title: stereoscopicsegmentation year: ['2001'] span:(13,43) 
+CONF!!! Capturing natural hand articulation,international conference on computer vision, pp. 426-432, 2001. 
+title: capturingnaturalhandarticulation year: ['2001'] span:(0,43) 
+CONF!!! Accurate catadioptric calibration for real-time pose estimation in room-size environments,proc. int. conf. on computer vision, pp. 127-134, jul. 9-12, 2001. 
+title: accuratecatadioptriccalibrationforrealtimeposeesti year: ['2001'] span:(6,35) 
+CONF!!! Lambertian Reflectance and Linear Subspaces,proc. ieee inti. conf. computer vision 01, pp. 383-389, 2001. 
+title: lambertianreflectanceandlinearsubspaces year: ['2001'] span:(11,38) 
+CONF!!! Determining reflectance parameters and illumination distribution from a sparse set of images for view-dependent image analysis,proc. iccv, vol. i, pp. 599-606, 2001. 
+title: determiningreflectanceparametersandilluminationdis year: ['2001'] span:(6,10) 
+CONF!!! Image detection under varying illumination and pose,proc. iccv, vol. ii, pp. 668-673, 2001. 
+title: imagedetectionundervaryingilluminationandpose year: ['2001'] span:(6,10) 
+BOOK!!! H. Sidenbladh, M. Black, Learning image statistics for Bayesian tracking ICCV, vol. II, pp. 709-716, 2001.,in image sequence analysis to investigate dynamic processes lncs, springer, 2003. 
+title: learningimagestatisticsforbayesiantracking year: ['2001'] span:(73,77) 
+CONF!!! Very high accuracy velocity estimation using orientation tensors parametric motion and segmentation of the motion field,iccv, vol. 1, pp. 171-177, 2001. 
+title: veryhighaccuracyvelocityestimationusingorientation year: ['2001'] span:(0,4) 
+CONF!!! Articulated soft objects for video-based body modeling,ieee international conference on computer vision, pp. 394-401, 2001. 
+title: articulatedsoftobjectsforvideobasedbodymodeling year: ['2001'] span:(5,48) 
+CONF!!! Shape deformation: SVM regression and application to medical image segmentation,in proc. iccv, no. 11, pp. 209-216, 2001. 
+title: shapedeformationsvmregressionandapplicationtomedic year: ['2001'] span:(9,13) 
+CONF!!! Alignment of Non-Overlapping sequences,iccv'01, pp. 76-83, 2001. 
+title: alignmentofnonoverlappingsequences year: ['2001'] span:(0,4) 
+CONF!!! Human tracking in multiple cameras,proceedings of iccv, 2001. 
+title: humantrackinginmultiplecameras year: ['2001'] span:(15,19) 
+CONF!!! A non-iterative greedy algorithm for multi-frame point correspondence,proceedings of iccv, 2003. 
+title: anoniterativegreedyalgorithmformultiframepointcorr year: ['2003'] span:(15,19) 
+CONF!!! Beyond lambert: reconstructing surfaces with arbitrary brdfs,proc. of the iccv, pp. 391-398, 2001. 
+title: beyondlambertreconstructingsurfaceswitharbitrarybr year: ['2001'] span:(13,17) 
+CONF!!! Determining Reflectance Parameters and Illumination Distribution from a Sparse Set of Images for View-dependent Image Synthesis,proc. ieee inti. conf. computer vision, pp. 599-606, 2001. 
+title: determiningreflectanceparametersandilluminationdis year: ['2001'] span:(11,38) 
+CONF!!! Determining Reflectance and Light Position from a Single Image Without Distant Illumination Assumption,proc. ieee intl. conf. computer vision, 2003. 
+title: determiningreflectanceandlightpositionfromasinglei year: ['2003'] span:(11,38) 
+CONF!!! Polarization-based Transparent Surface Modeling from Two Views,proc. ieee intl. conf. computer vision, 2003. 
+title: polarizationbasedtransparentsurfacemodelingfromtwo year: ['2003'] span:(11,38) 
+CONF!!! The Space of All Stereo Images,proc. of iccv'01, pp. 26-33, 2001. 
+title: thespaceofallstereoimages year: ['2001'] span:(9,13) 
+CONF!!! Combining single view recognition and multiple view stereo for architectural scenes,iccv'0i, pp. 268-274, 2001. 
+title: combiningsingleviewrecognitionandmultipleviewstere year: ['2001'] span:(0,4) 
+CONF!!! Euclidean reconstruction and auto-calibration from continuous motion,in int. conf. computer vision, vol. ii, pp. 572-577, 2001. 
+title: euclideanreconstructionandautocalibrationfromconti year: ['2001'] span:(3,29) 
+CONF!!! Multiple view geometry of non-planar algebraic curves,in int. conf. computer vision, vol. ii, pp. 181-186, 2001. 
+title: multipleviewgeometryofnonplanaralgebraiccurves year: ['2001'] span:(3,29) 
+CONF!!! Probabilistic tracking in a metric space,proc. iccv, 2001. 
+title: probabilistictrackinginametricspace year: ['2001'] span:(6,10) 
+CONF!!! People tracking using hybrid monte carlo filtering,proc. 8th int. conf. on computer vision, vol. ii, pp. 321-328, july 2001. 
+title: peopletrackingusinghybridmontecarlofiltering year: ['2001'] span:(10,39) 
+CONF!!! Capturing natural hand articulation,proc. 8th int. conf. on computer vision, vol. ii, pp. 426-432, july 2001. 
+title: capturingnaturalhandarticulation year: ['2001'] span:(10,39) 
+CONF!!! Plan-view trajectory estimation with dense stereo background models,international conference on computer vision, 2001. 
+title: planviewtrajectoryestimationwithdensestereobackgro year: ['2001'] span:(0,43) 
+CONF!!! Stochastic rigidity: Image registration for Nowhere-Static scenes,proc. ieee international conference on computer vision, vol. 1, pp. 662-669, 2001. 
+title: stochasticrigidityimageregistrationfornowherestati year: ['2001'] span:(11,54) 
+CONF!!! 3D hand pose reconstruction using specialized mappings,proc. ieee international conference on computer vision, july 2001. 
+title: 3dhandposereconstructionusingspecializedmappings year: ['2001'] span:(11,54) 
+CONF!!! Dynamic textures,proc. ieee international conference on computer vision, vol. 2, pp. 439-446, 2001. 
+title: dynamictextures year: ['2001'] span:(11,54) 
+CONF!!! Capturing natural hand articulation,proc. of international conference on computer vision, pp. 426-432, july 2001. 
+title: capturingnaturalhandarticulation year: ['2001'] span:(9,52) 
+CONF!!! A data-driven model for monocular face tracking,proc. int. conf. computer vision, pp. 701-708, 2001. 
+title: adatadrivenmodelformonocularfacetracking year: ['2001'] span:(6,32) 
+CONF!!! BraMBLe: A Bayesian multiple-blob tracker,proc. int. conf. computer vision pages ii, pp. 34-41, 2001. 
+title: brambleabayesianmultipleblobtracker year: ['2001'] span:(6,32) 
+CONF!!! High dynamic range panoramic imaging,proc. int. conf. computer vision, pp. 2-9, 2001. 
+title: highdynamicrangepanoramicimaging year: ['2001'] span:(6,32) 
+CONF!!! A general imaging model and a method for finding its parameters,proc. international conference on computer vision, pp. 108-115, 2001. 
+title: ageneralimagingmodelandamethodforfindingitsparamet year: ['2001'] span:(6,49) 
+CONF!!! The space of all stereo images,proc. international conference on computer vision, pp. 307-314, 2001. 
+title: thespaceofallstereoimages year: ['2001'] span:(6,49) 
+CONF!!! High Dynamic Range Panoramic Imaging,proc. of international conference on computer vision (iccv), vol. 1, 2–9, 2001. 
+title: highdynamicrangepanoramicimaging year: ['2001'] span:(54,58) 
+CONF!!! Generalized Mosaicing,proc. of international conference on computer vision (iccv), vol. 1, 17–24, 2001. 
+title: generalizedmosaicing year: ['2001'] span:(54,58) 
+CONF!!! Multi-View scene capture by surfel sampling: From video streams to Non-Rigid 3D motion shape & reflectance,iccv, pp. 60-67, june 2001. 
+title: multiviewscenecapturebysurfelsamplingfromvideostre year: ['2001'] span:(0,4) 
+CONF!!! Real-time feature tracking and outlier rejection with changes in illumination,iccv, pp. 684-689, july 2001. 
+title: realtimefeaturetrackingandoutlierrejectionwithchan year: ['2001'] span:(0,4) 
+CONF!!! Plane-based Projective Reconstruction,in iccv, canada, pp. 420-427, 2001. 
+title: planebasedprojectivereconstruction year: ['2001'] span:(3,7) 
+CONF!!! Linear Multi View Reconstruction and Camera Recovery,in iccv, canada, pp. 42-51, 2001. 
+title: linearmultiviewreconstructionandcamerarecovery year: ['2001'] span:(3,7) 
+CONF!!! Stochastic rigidity: image registration for nowhere-static scenes,in proc. int. conf on computer vision, vol. 1, pp. 662-669, july 2001. 
+title: stochasticrigidityimageregistrationfornowherestati year: ['2001'] span:(9,37) 
+CONF!!! Dynamic textures,in proc. int. conf. on computer vision, vol. 2, pp. 439-446, july 2001. 
+title: dynamictextures year: ['2001'] span:(9,38) 
+CONF!!! Robust principal component analysis for computer vision,in iccv, vol. i, pp. 362-369, july 2001. 
+title: robustprincipalcomponentanalysisforcomputervision year: ['2001'] span:(3,7) 
+CONF!!! A statistical approach to background subtraction for surveillance systems,in iccv, vol. ii, pp. 481-486, june 2001. 
+title: astatisticalapproachtobackgroundsubtractionforsurv year: ['2001'] span:(3,7) 
+CONF!!! Dynamic textures,in iccv, vol. ii, pp. 439-446, july 2001. 
+title: dynamictextures year: ['2001'] span:(3,7) 
+CONF!!! Topology free hidden markov models: Application to background modeling,in iccv, vol. i, pp. 294-301, 2001. 
+title: topologyfreehiddenmarkovmodelsapplicationtobackgro year: ['2001'] span:(3,7) 
+CONF!!! A probabilistic framework for space carving,proc. iccv, vol. 1, pp. 388-393, 2001. 
+title: aprobabilisticframeworkforspacecarving year: ['2001'] span:(6,10) 
+CONF!!! Lambertian reflectance and linear subspaces,iccv, pp. 383-390, 2001. 
+title: lambertianreflectanceandlinearsubspaces year: ['2001'] span:(0,4) 
+CONF!!! Accurate Catadioptric Calibration for Realtime Pose Estimation of Room-size Environments,proc. international conference on computer vision, pp. 127-134, 2001. 
+title: accuratecatadioptriccalibrationforrealtimeposeesti year: ['2001'] span:(6,49) 
+CONF!!! Brdf/btf measurement device,international conference on computer vision, vol. 2, pp. 460-6, july 2001. 
+title: brdfbtfmeasurementdevice year: ['2001'] span:(0,43) 
+CONF!!! Polarization-based Inverse Rendering from a Single View,proc. ieee intl. conf. computer vision, 2003. 
+title: polarizationbasedinverserenderingfromasingleview year: ['2003'] span:(11,38) 
+CONF!!! Deriving intrinsic images from image sequences,proc. iccv, 2001. 
+title: derivingintrinsicimagesfromimagesequences year: ['2001'] span:(6,10) 
+CONF!!! Beyond Lambert: Reconstructing surfaces with arbitrary BRDFs,in proc. int. conf. on computer vision, pp. 391-398, 2001. 
+title: beyondlambertreconstructingsurfaceswitharbitrarybr year: ['2001'] span:(9,38) 
+CONF!!! Alignment of Non-Overlapping Sequences,iccv 2001. 
+title: alignmentofnonoverlappingsequences year: ['2001'] span:(0,4) 
+CONF!!! Video Phase-locked Loops in Gait Recognition,proc. of intl. conf. on computer vision i:, pp. 696-703, 2001. 
+title: videophaselockedloopsingaitrecognition year: ['2001'] span:(9,39) 
+CONF!!! Robust principal component analysis for computer vision,iccv '01, vol. i, pp. 362-369, 2001. 
+title: robustprincipalcomponentanalysisforcomputervision year: ['2001'] span:(0,4) 
+CONF!!! Robust principal component analysis for computer vision,iccv'01, vol. i, pp. 362-369, 2001. 
+title: robustprincipalcomponentanalysisforcomputervision year: ['2001'] span:(0,4) 
+CONF!!! Lambertian reflectance and linear subspaces,proc. of iccv, vol. ii, pp. 283-390, 2001. 
+title: lambertianreflectanceandlinearsubspaces year: ['2001'] span:(9,13) 
+CONF!!! Determining Reflectance Parameters and Illumination Distribution from a Sparse Set of Images for View-dependent Image Synthesis,iccvol, vol. 1, pp. 599-606, 2001. 
+title: determiningreflectanceparametersandilluminationdis year: ['2001'] span:(0,4) 

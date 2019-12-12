@@ -1,0 +1,14 @@
+CONF!!! Plane-based Projective Reconstruction,int. conf. computer vision, 2001. 
+title: planebasedprojectivereconstruction year: ['2001'] span:(0,26) 
+CONF!!! Recognition of shapes by editing shock graphs,iccv, 2001. 
+title: recognitionofshapesbyeditingshockgraphs year: ['2001'] span:(0,4) 
+CONF!!! Linear multi view reconstruction and camera recovery,proc. 8th int. conf. on computer vision, 2001. 
+title: linearmultiviewreconstructionandcamerarecovery year: ['2001'] span:(10,39) 
+CONF!!! Caustics of Catadioptric Cameras,these proceedings proc. iccv, 2001. 
+title: causticsofcatadioptriccameras year: ['2001'] span:(24,28) 
+CONF!!! Parallel-perspective stereo mosaics,in iccv'01, vancouver, canada, july 2001. 
+title: parallelperspectivestereomosaics year: ['2001'] span:(3,7) 
+CONF!!! Model-Based Bundle Adjustment with Application to Face Modeling,in proc. international conference on computer vision (iccv'01), july 2001. 
+title: modelbasedbundleadjustmentwithapplicationtofacemod year: ['2001'] span:(54,58) 
+CONF!!! Smarter presentations: Exploiting homography in camera-projector systems,in proceedings of iccv, 2001. 
+title: smarterpresentationsexploitinghomographyincamerapr year: ['2001'] span:(18,22) 

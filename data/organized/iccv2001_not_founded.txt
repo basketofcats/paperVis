@@ -1,0 +1,10 @@
+CONF!!!cannot find On Projection Matrices pk → p2 k = 3… 6 and their Applications in Computer Vision,in proceedings of the international conference on computer vision, july 2001. 
+title: onprojectionmatricespkp2k36andtheirapplicationsinc year: ['2001'] span:(22,65) 
+CONF!!!cannot find Independent view-subspace analysis of multi-view face patterns,ieee iccv workshop on recognition analysis and tracking of faces and gestures in real-time systems, july 13 2001. 
+title: independentviewsubspaceanalysisofmultiviewfacepatt year: ['2001'] span:(5,9) 
+CONF!!!cannot find Learning illumination-invariant signature of 3-d object from 2-d multi-view appearances,proceedings of ieee international conference on computer vision, july 9–12 2001. 
+title: learningilluminationinvariantsignatureof3dobjectfr year: ['2001'] span:(20,63) 
+CONF!!!cannot find Limits on super-resolution and how to break them,int. conf. computer vision & pattern recognition, vol. 2, pp. 372-379, 2000. 
+title: limitsonsuperresolutionandhowtobreakthem year: ['2000'] span:(0,26) 
+CONF!!!cannot find Indexing based on scale invariant points,proc. iccv, 2001. 
+title: indexingbasedonscaleinvariantpoints year: ['2001'] span:(6,10) 

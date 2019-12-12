@@ -1,0 +1,320 @@
+BOOK!!!cannot find A. Tatu, F. Lauze, M. Nielsen, and B. Kimia. Exploring the representation capabilities of hog descriptors. In ICCV WIT, 2011. 
+title: exploringtherepresentationcapabilitiesofhogdescrip year: ['2011'] span:(110,114) 
+BOOK!!!cannot find M.-E. Nilsback and A. Zisserman. Automated flower classification over a large number of classes. In Indian Conf. Computer Vision Graphics and Image Processing, 2008. 
+title: automatedflowerclassificationoveralargenumberofcla year: ['2008'] span:(100,128) 
+BOOK!!!cannot find Rahul Raguram, Jan-Michael Frahm: RECON: Scale-adaptive robust estimation via Residual Consensus. ICCV 2011: 1299-1306 
+title: janmichaelfrahmreconscaleadaptiverobustestimationv year: ['2011'] span:(98,102) 
+BOOK!!!cannot find F. Kahl. Multiple view geometry and the L-infmity norm. In ICCV 2005: 1002-1009. 
+title: multipleviewgeometryandthelinfmitynorm year: ['2005'] span:(59,63) 
+BOOK!!!cannot find Y. Sun, X. Wang, and X. Tang. Hybrid deep learning for computing face similarities. In ICCV, 2013. 
+title: hybriddeeplearningforcomputingfacesimilarities year: ['2013'] span:(87,91) 
+BOOK!!!cannot find L. Feng, Y. Sugano, T. Okabe, and Y. Sato. Inferring human gaze from appearance via adaptive linear regression. IEEE International Conference on Computer Vision (ICCV), p. 153-160, 2011. 
+title: ieeeinternationalconferenceoncomputervision year: ['2011'] span:(162,166) 
+BOOK!!!cannot find T. Judd, K. Ehinger, F. Durand, and A. Torralba. Learning to predict where humans look. IEEE International Conference on Computer Vision (ICCV), p. 2106-2113, 2009. 
+title: ieeeinternationalconferenceoncomputervision year: ['2009'] span:(138,142) 
+BOOK!!!cannot find J. Chen and Q. Ji. Probabilistic gaze estimation without active personal calibration. IEEE International Conference on Computer Vision (ICCV), p. 609-616, 2011. 
+title: ieeeinternationalconferenceoncomputervision year: ['2011'] span:(136,140) 
+CONF!!!cannot find streetlight effect,: tracking by exploring likelihood modes. in iccv, 2005. 
+title: streetlighteffect year: ['2005'] span:(45,49) 
+BOOK!!!cannot find C. Vondrick, A. Khosla, T. Malisiewicz, and A. Torralba. Inverting and visualizing features for object detection. ICCV, 2013. 
+title: invertingandvisualizingfeaturesforobjectdetection year: ['2013'] span:(114,118) 
+BOOK!!!cannot find R. J. Lopez-Sastre, T. Tuytelaars, and S. Savarese. Deformable part models revisited: A performance evaluation for object category pose estimation. In ICCV WS, 2011. 
+title: deformablepartmodelsrevisitedaperformanceevaluatio year: ['2011'] span:(151,155) 
+BOOK!!!cannot find J. Sivic, B. Russell, A. Efros, A. Zisserman, and W. Freeman. Discovering objects and their location in images. In ICCV, 2005. 
+title: discoveringobjectsandtheirlocationinimages year: ['2005'] span:(115,119) 
+BOOK!!!cannot find L. Bourdev and J. Malik. Poselets: Body part detectors training using 3d human pose annotations. In ICCV, 2009. 
+title: poseletsbodypartdetectorstrainingusing3dhumanposea year: ['2009'] span:(100,104) 
+BOOK!!!cannot find M. U. G. Khan, L. Zhang, and Y. Gotoh. Human focused video description. In ICCV Workshops, 2011. 
+title: humanfocusedvideodescription year: ['2011'] span:(75,79) 
+BOOK!!!cannot find B. Klingner, D. Martin, and J. Roseborough. Street view structure-from-motion. In ICCV, 2013. 
+title: streetviewstructurefrommotion year: ['2013'] span:(82,86) 
+BOOK!!!cannot find J. Smisek, M. Jancosek, and T. Pajdla. 3D with Kinect. In ICCV Workshops, 2011. 
+title: 3dwithkinect year: ['2011'] span:(58,62) 
+BOOK!!!cannot find F. Kahl. Multiple view geometry and the l∞ norm. In Proc. ICCV, 2005. 
+title: multipleviewgeometryandthelnorm year: ['2005'] span:(58,62) 
+BOOK!!!cannot find R. L. Carceroni and K. N. Kutalakos. Multi-view scene capture by surfel sampling: from video streams to non-rigid 3D motion, shape and reflectance. ICCV, 2001. 
+title: shapeandreflectance year: ['2001'] span:(148,152) 
+BOOK!!!cannot find O. Enqvist, F. Kahl, and C. Olsson. Non-sequential structure from motion. In ICCV Workshops, 2011. 
+title: nonsequentialstructurefrommotion year: ['2011'] span:(77,81) 
+BOOK!!!cannot find J. A. Hesch and S. I. Roumeliotis. A direct least-squares (dls) method for pnp. In International Conference on Computer Vision (ICCV), pages 383-390. IEEE, 2011. 
+title: ininternationalconferenceoncomputervision year: ['2011'] span:(128,132) 
+BOOK!!!cannot find B. Johansson, M. Oskarsson, and K. A? stro?. Structure and motion estimation from complex features in three views. In Indian Conference on Computer Vision, Graphics and Image Processing, 2002. 
+title: structureandmotionestimationfromcomplexfeaturesint year: ['2002'] span:(118,154) 
+BOOK!!!cannot find J. M. Saragih, S. Lucey, and J. Cohn. Face alignment through subspace constrained mean-shifts. In International Conference of Computer Vision (ICCV), September 2009. 
+title: ininternationalconferenceofcomputervision year: ['2009'] span:(143,147) 
+BOOK!!!cannot find C. Desai et al. Discriminative models for multi-class object layout. Computer Vision-ICCV 2009. 
+title: computervision year: ['2009'] span:(85,89) 
+BOOK!!!cannot find O. M. Parkhi et al. The truth about cats and dogs. IEEE International Conference on Computer Vision (ICCV), 2011. 
+title: ieeeinternationalconferenceoncomputervision year: ['2011'] span:(101,105) 
+BOOK!!!cannot find M. Roser and A. Geiger. Video-based raindrop detection for improved image registration. In ICCV Workshop on Video-Oriented Object and Event Classification, Kyoto, Japan, September 2009. 
+title: videobasedraindropdetectionforimprovedimageregistr year: ['2009'] span:(91,95) 
+BOOK!!!cannot find X. Mei and H. Ling. Robust visual tracking using l1 minimization. In ICCV, pages 1436-1443, 2009. 
+title: robustvisualtrackingusingl1minimization year: ['2009'] span:(69,73) 
+BOOK!!!cannot find X. Mei and H. Ling. Robust visual tracking using-1 minimization. In ICCV, 2009. 
+title: robustvisualtrackingusing1minimization year: ['2009'] span:(68,72) 
+BOOK!!!cannot find A. Janoch, S. Karayev, Y. Jia, J. Barron, M. Fritz, K. Saenko, and T. Darrell. A catergory-level 3D object dataset: putting the kinect to work. In ICCV, 2011. 
+title: acatergorylevel3dobjectdatasetputtingthekinecttowo year: ['2011'] span:(147,151) 
+BOOK!!!cannot find L. Bourdev, S. Maji, and J. Malik. Describing people: Poselet-based attribute classification. In ICCV, 2011. 
+title: describingpeopleposeletbasedattributeclassificatio year: ['2011'] span:(97,101) 
+BOOK!!!cannot find L. Bourdev, S. Maji, and J. Malik. Describing People: Poselet-Based Approach to Attribute Classification. In ICCV, 2011. 
+title: describingpeopleposeletbasedapproachtoattributecla year: ['2011'] span:(109,113) 
+BOOK!!!cannot find M. Aubry, U. Schlickewei, and D. Cremers. The wave kernel signature: A quantum mechanical approach to shape analysis. In ICCV Workshops, pages 1626-1633, 2011. 
+title: thewavekernelsignatureaquantummechanicalapproachto year: ['2011'] span:(121,125) 
+BOOK!!!cannot find L. Cao and L. Fei-Fei. Spatially Coherent Latent Topic Model for Concurrent Object Segmentation and Classification. In Proc. of ICCV'07, 2007. 
+title: spatiallycoherentlatenttopicmodelforconcurrentobje year: ['2007'] span:(128,132) 
+BOOK!!!cannot find P. Merrell, A. Akbarzadeh, L. Wang, P. Mordohai, J.-M. Frahm, R. Yang, D. Nister, and M. Pollefeys. Real-time visibility-based fusion of depth maps. In Proceedings of the International Conference on Computer Vision (ICCV), pages 1-8. IEEE, 2007. 
+title: inproceedingsoftheinternationalconferenceoncompute year: ['2007'] span:(216,220) 
+BOOK!!!cannot find R. A. Newcombe, S. J. Lovegrove, and A. J. Davison. DTAM: Dense tracking and mapping in real-time. In Proceedings of the International Conference on Computer Vision (ICCV), pages 2320-2327. IEEE, 2011. 
+title: inproceedingsoftheinternationalconferenceoncompute year: ['2011'] span:(166,170) 
+BOOK!!!cannot find C. Zach, T. Pock, and H. Bischof. A globally optimal algorithm for robust TV-L1 range image integration. In Proceedings of the International Conference on Computer Vision (ICCV), pages 1-8. IEEE, 2007. 
+title: inproceedingsoftheinternationalconferenceoncompute year: ['2007'] span:(172,176) 
+BOOK!!!cannot find X. Mei and H. Ling. Robust visual tracking using l1 minimization. In ICCV, 2009. 
+title: robustvisualtrackingusingl1minimization year: ['2009'] span:(69,73) 
+BOOK!!!cannot find Y. Liu, R. Jin, R. Sukthankar, and F. Jurie. Unifying discriminative visual codebook generation with classifier training for object category recognition. In ICCV, june 2008. 
+title: unifyingdiscriminativevisualcodebookgenerationwith year: ['2008'] span:(157,161) 
+BOOK!!!cannot find H. Wang, F. Nie, H. Huang, S. L. Risacher, C. Ding, A. J. Saykin, L. Shen, and ADNI. A new sparse multi-task regression and feature selection method to identify brain imaging predictors for memory performance. IEEE Conference on Computer Vision (ICCV), pages 557-562, 2011. 
+title: ieeeconferenceoncomputervision year: ['2011'] span:(246,250) 
+BOOK!!!cannot find O. Pele and M. Werman. Fast and robust earth mover's distances. In 2009 IEEE 12th ICCV, pages 460-467. IEEE, 2009. 
+title: in2009ieee12th year: ['2009', '2009'] span:(82,86) 
+BOOK!!!cannot find L. Zhang, B. Curless, A. Hertzmann, and S. M. Seitz. Shape and motion under varying illumination: Unifying structure from motion, photometric stereo, and multi-view stereo. In Proc. of Int'l Conf. on Computer Vision (ICCV), pages 618-625, 2003. 
+title: oncomputervision year: ['2003'] span:(217,221) 
+BOOK!!!cannot find H. Bay, T. Tuytelaars, and L. Van Gool. SURF: Speeded Up Robust Features. In ICCV, 2006. 
+title: surfspeededuprobustfeatures year: ['2006'] span:(77,81) 
+BOOK!!!cannot find R. Urtasun, D. Fleet, A. Hertzmann, and P. Fua. Priors for people tracking in small training sets. In ICCV, 2005. 
+title: priorsforpeopletrackinginsmalltrainingsets year: ['2005'] span:(102,106) 
+BOOK!!!cannot find M. Amer and S. Todorovic. A Chains model for localizing group activities in videos. In ICCV, 2011. 
+title: achainsmodelforlocalizinggroupactivitiesinvideos year: ['2011'] span:(87,91) 
+BOOK!!!cannot find W. Choi, K. Shahid, and S. Savarese. What are they doing? : Collective activity classification using spatiotemporal relationship among people. In ICCV, 2009. 
+title: whataretheydoingcollectiveactivityclassificationus year: ['2009'] span:(146,150) 
+BOOK!!!cannot find P. Matikainen, M. Hebert, and R. Sukthankar. Trajectons: Action recognition through the motion analysis of tracked features. In ICCV Work., 2009. 
+title: trajectonsactionrecognitionthroughthemotionanalysi year: ['2009'] span:(128,132) 
+CONF!!!cannot find Indoor scene segmentation using a structured light sensor,,in iccv workshop (3drr), 2011. 
+title: indoorscenesegmentationusingastructuredlightsensor year: ['2011'] span:(3,7) 
+BOOK!!!cannot find V. Couture, N. Martin, and S. Roy. Unstructured light scanning to overcome interreflections. In D. N. Metaxas, L. Quan, A. Sanfeliu, and L. J. V. Gool, editors, ICCV, pages 1895-1902. IEEE, 2011. 
+title: sanfeliu year: ['2011'] span:(161,165) 
+BOOK!!!cannot find C. J. Schuler, M. Hirsch, S. Harmeling, and B. Scholkopf. Non-stationary correction of optical aberrations. In Computer Vision (ICCV), 2011 IEEE International Conference on, pages 659-666. IEEE, 2011. 
+title: incomputervision year: ['2011', '2011'] span:(128,132) 
+BOOK!!!cannot find O. Whyte, J. Sivic, and A. Zisserman. Deblurring shaken and partially saturated images. In ICCV Workshops, pages 745-752, 2011. 
+title: deblurringshakenandpartiallysaturatedimages year: ['2011'] span:(91,95) 
+BOOK!!!cannot find T. Pfister, X. Li, G. Zhao, and M. Pietikainen. Differentiating spontaneous from posed facial expressions within a generic facial expression recognition framework. In ICCV Workshops, pages 868-875, 2011. 
+title: differentiatingspontaneousfromposedfacialexpressio year: ['2011'] span:(167,171) 
+BOOK!!!cannot find X. Wang, X. Han, and S. Yan. HOG-LBP human detector with partial occlusion handling. In ICCV, 2009. 
+title: hoglbphumandetectorwithpartialocclusionhandling year: ['2009'] span:(88,92) 
+BOOK!!!cannot find C. Wah, S. Branson, P. Perona, and B. S. Multiclass. Recog and part localiz. with humans in the loop. In ICCV, 2011. 
+title: withhumansintheloop year: ['2011'] span:(105,109) 
+BOOK!!!cannot find N. Pugeault and R. Bowden. Spelling it out: Real-time ASL fingerspelling recognition. In ICCV, 2011. 
+title: spellingitoutrealtimeaslfingerspellingrecognition year: ['2011'] span:(89,93) 
+BOOK!!!cannot find P. Li and Q. Sun. Tensor-based covariance matrices for object tracking. In ICCV Workshops, 2011. 
+title: tensorbasedcovariancematricesforobjecttracking year: ['2011'] span:(75,79) 
+BOOK!!!cannot find X. Mei and H. Ling. Robust visual tracking using 1 minimization. In ICCV, 2009. 
+title: robustvisualtrackingusing1minimization year: ['2009'] span:(68,72) 
+BOOK!!!cannot find R. Caseiro, J. F. Henriques, P. Martins, and J. Batista. A nonparametric Riemannian framework on tensor-eld with application to foreground segmentation. In ICCV, pages 1-8, 2011. 
+title: anonparametricriemannianframeworkontensoreldwithap year: ['2011'] span:(156,160) 
+BOOK!!!cannot find R. Sivalingam, D. Boley, V. Morellas, and N. Papanikolopoulos. Positive de-nite dictionary learning for region covariances. In ICCV, pages 1013-1019, 2011. 
+title: positivedenitedictionarylearningforregioncovarianc year: ['2011'] span:(127,131) 
+BOOK!!!cannot find R. Anderson, B. Stenger, and R. Cipolla. Color photometric stereo for multicolored surfaces. In Proceedings of International Conference on Computer Vision (ICCV), pages 2182-2189, 2011. 
+title: inproceedingsofinternationalconferenceoncomputervi year: ['2011'] span:(156,160) 
+BOOK!!!cannot find C. Hernandez, G. Vogiatzis, G. J. Brostow, B. Stenger, and R. Cipolla. Non-rigid photometric stereo with colored lights. In Proceedings of International Conference on Computer Vision (ICCV), pages 1-8, 2007. 
+title: inproceedingsofinternationalconferenceoncomputervi year: ['2007'] span:(184,188) 
+BOOK!!!cannot find C. Wu, K. Varanasi, Y. Liu, H.-P. Seidel, and C. Theobalt. Shading-based dynamic shape refinement from multi-view video under general illumination. In Proceedings of International Conference on Computer Vision (ICCV), pages 1108-1115, 2011. 
+title: inproceedingsofinternationalconferenceoncomputervi year: ['2011'] span:(211,215) 
+BOOK!!!cannot find A. Janoch, S. Karayev, Y. Jia, J. T. Barron, M. Fritz, K. Saenko, and T. Darrell. A category-level 3-d object dataset: Putting the kinect to work. In ICCV Workshop, 2011. 
+title: acategorylevel3dobjectdatasetputtingthekinecttowor year: ['2011'] span:(150,154) 
+BOOK!!!cannot find P. Turcot and D. G. Lowe. Better matching with fewer features: the selection of useful features in large database recognition problems. In ICCV Workshop, 2009. 
+title: bettermatchingwithfewerfeaturestheselectionofusefu year: ['2009'] span:(139,143) 
+BOOK!!!cannot find L. Liu, P. Fieguth, G. Kuang, and H. Zha. Sorted random projections for robust texture classication. In ICCV, 2011. 
+title: sortedrandomprojectionsforrobusttextureclassicatio year: ['2011'] span:(104,108) 
+BOOK!!!cannot find V. Kolmogorov and R. Zabih. Computing visual correspondence with occlusions using graph cuts. In ICCV, 2001. 
+title: computingvisualcorrespondencewithocclusionsusinggr year: ['2001'] span:(97,101) 
+BOOK!!!cannot find P. Kohli and P. H. Torr. Efficiently solving dynamic markov random fields using graph cuts. In ICCV, October 2005. 
+title: efficientlysolvingdynamicmarkovrandomfieldsusinggr year: ['2005'] span:(95,99) 
+BOOK!!!cannot find R. Yan, J. Yang, and A. Hauptmann. Automatically Labeling Data Using Multi-Class Active Learning. In ICCV, 2003. 
+title: automaticallylabelingdatausingmulticlassactivelear year: ['2003'] span:(101,105) 
+BOOK!!!cannot find X. Ren. Multi-scale improves boundary detection in natural images. In ICCV, 2008. 
+title: multiscaleimprovesboundarydetectioninnaturalimages year: ['2008'] span:(70,74) 
+BOOK!!!cannot find X. Ren, C. Fowlkes, and J. Malik. Scale-invariant contour completion using cond. random fields. In ICCV, 2005. 
+title: randomfields year: ['2005'] span:(99,103) 
+BOOK!!!cannot find N. Silberman and R. Fergus. Indoor scene segmentation using a structured light sensor. In ICCV Workshop on 3D Representation and Recognition, 2011. 
+title: indoorscenesegmentationusingastructuredlightsensor year: ['2011'] span:(90,94) 
+BOOK!!!cannot find J. Jancsary, S. Nowozin, and C. Rother. Loss-specific training of non-parametric image restoration models: A new state of the art. In ICCV, 2012. 
+title: lossspecifictrainingofnonparametricimagerestoratio year: ['2012'] span:(134,138) 
+BOOK!!!cannot find J. Sivic, B.Russell, A.Efros, A.Zisserman, and W.Freeman. Discovering object categories in image collections. In ICCV, 2005. 
+title: discoveringobjectcategoriesinimagecollections year: ['2005'] span:(113,117) 
+BOOK!!!cannot find C. Wah, S. Branson, P. Perona, and S. Belongie. Multiclass recognition part localization with humans in the loop. In ICCV, 2011. 
+title: multiclassrecognitionpartlocalizationwithhumansint year: ['2011'] span:(117,121) 
+BOOK!!!cannot find N. Dalal and B. Triggs. Histograms of oriented gradients for human detection. In ICCV, 2005. 
+title: histogramsoforientedgradientsforhumandetection year: ['2005'] span:(81,85) 
+BOOK!!!cannot find G. D. Finlayson, P. A. Troncoso-Rey, and E. Trezzi. General P constrained approach for colour constancy. In ICCV Work-shopon Color and Photoemtry in Computer Vision, pages 790-797,2011. 
+title: generalpconstrainedapproachforcolourconstancy year: ['2011'] span:(108,112) 
+BOOK!!!cannot find S. Roweis and L. Saul. Nonlinear dimensionality reduction by locally linear embedding. In ICCV, 2001. 
+title: nonlineardimensionalityreductionbylocallylinearemb year: ['2001'] span:(90,94) 
+BOOK!!!cannot find H. Zhou and T. Huang. Okapi-chamfer matching for articulate object recognition. ICCV, 2:1026-1033, 2005. 
+title: okapichamfermatchingforarticulateobjectrecognition year: ['2005'] span:(80,84) 
+BOOK!!!cannot find M. Kostinger, P. Wohlhart, P. Roth, and H. Bischof. Annotated facial landmarks in the wild: A large-scale, real-world database for facial landmark localization. In ICCV Workshops, 2011. 
+title: realworlddatabaseforfaciallandmarklocalization year: ['2011'] span:(164,168) 
+BOOK!!!cannot find K. Garg and S. K. Nayar. When does a camera see rain? In Proc. ICCV, 2005. 
+title: whendoesacameraseeraininproc year: ['2005'] span:(63,67) 
+BOOK!!!cannot find Y. Baveye, F. Urban, and C. Chamaret. Image and Video Saliency Models Improvement by Blur Identification. In ICCVG, 280-287, 2012. 
+title: imageandvideosaliencymodelsimprovementbybluridenti year: ['2012'] span:(109,113) 
+BOOK!!!cannot find O. Ait-Aider, N. Andreff, J. Lavest, and P. Martinet. Exploiting rolling shutter distortions for simultaneous object pose and velocity computation using a single view. In IEEE Int. Conf. on Computer Vision Systems, 2006. 
+title: exploitingrollingshutterdistortionsforsimultaneous year: ['2006'] span:(176,205) 
+BOOK!!!cannot find A. Saffari, C. Leistner, J. Santner, M. Godec, and H. Bischof. On-line random forests. In ICCV, 2009. 
+title: onlinerandomforests year: ['2009'] span:(90,94) 
+BOOK!!!cannot find T. Malisiewicz, A. Gupta, and A. A. Efros. Ensemble of exemplar-svms for object detection and beyond. In IEEE Int. Conf. on Computer Vision (ICCV), 2011. 
+title: oncomputervision year: ['2011'] span:(141,145) 
+BOOK!!!cannot find Y. Sun, X. Wang, and X. Tang. Hybrid deep learning for computing face similarities. In ICCV, 2013. 
+title: hybriddeeplearningforcomputingfacesimilarities year: ['2013'] span:(87,91) 
+BOOK!!!cannot find C. Cabrera, R. Sastre, J. Rodr, and S. Bas. Surfing the point clouds: Selective 3D spatial pyramids for category-level object recognition. ICCV, 2011. 
+title: surfingthepointcloudsselective3dspatialpyramidsfor year: ['2011'] span:(139,143) 
+BOOK!!!cannot find V. Gulshan, V. Lempitsky, and A. Zisserman. Humanising grabcut: Learning to segment humans using the kinect. In IEEE Workshop on Consumer Depth Cameras for Computer Vision, ICCV, 2011. 
+title: humanisinggrabcutlearningtosegmenthumansusingtheki year: ['2011'] span:(173,177) 
+BOOK!!!cannot find M. P. Kumar, P. H. S. Torr, and A. Zisserman. Learning layered motion segmentations of video. In ICCV, 2005. 
+title: learninglayeredmotionsegmentationsofvideo year: ['2005'] span:(97,101) 
+BOOK!!!cannot find N. Turakhia and D. Parikh. Attribute dominance: What pops out In ICCV, 2013. 
+title: attributedominancewhatpopsoutin year: ['2013'] span:(65,69) 
+BOOK!!!cannot find Y. Aytar and A. Zisserman. Tabula rasa: Model transfer for object category detection. In Proceedings of ICCV, 2011. 
+title: inproceedingsof year: ['2011'] span:(104,108) 
+BOOK!!!cannot find N. FarajiDavar, T. de Campos, J. Kittler, and F. Yan. Transductive transfer learning for action recognition in tennis games. In Proceedings of ICCVW, 2011. 
+title: inproceedingsof year: ['2011'] span:(143,147) 
+BOOK!!!cannot find R. Gopalan, R. Li, and R. Chellappa. Domain adaptation for object recognition: An unsupervised approach. In Proceedings of ICCV, 2011. 
+title: inproceedingsof year: ['2011'] span:(123,127) 
+BOOK!!!cannot find H. Wang, F. Nie, H. Huang, and C. Ding. Dyadic transfer learning for cross-domain image classification. In Proceedings of ICCV, 2011. 
+title: inproceedingsof year: ['2011'] span:(122,126) 
+BOOK!!!cannot find S. Sadanand and J. J. Corso. Action bank: A high-level representation of activity in video. In ICCV, 2009. 
+title: actionbankahighlevelrepresentationofactivityinvide year: ['2009'] span:(95,99) 
+BOOK!!!cannot find Y. Sheikh, O. Javed, and T. Kanade. Background subtraction for freely moving camera. In ICCV, 2009. 
+title: backgroundsubtractionforfreelymovingcamera year: ['2009'] span:(88,92) 
+BOOK!!!cannot find H. Wang, A. Kl̈aser, C. Schmid, and C. Liu. Action recognition by dense trajectories. In ICCV, 2009. 
+title: actionrecognitionbydensetrajectories year: ['2009'] span:(89,93) 
+BOOK!!!cannot find X. Mei and H. Ling. Robust visual tracking using l1 minimization. In ICCV, 2009. 
+title: robustvisualtrackingusingl1minimization year: ['2009'] span:(69,73) 
+BOOK!!!cannot find P. Kohli and P. H. S. Torr. Efficiently solving dynamic Markov random fields using graph cuts. In ICCV, 2005. 
+title: efficientlysolvingdynamicmarkovrandomfieldsusinggr year: ['2005'] span:(98,102) 
+BOOK!!!cannot find T. Pock, D. Cremers, H. Bischof, and A. Chambolle. An algorithm for minimizing the piecewise smooth mumfordshah functional. In ICCV, 2009. 
+title: analgorithmforminimizingthepiecewisesmoothmumfords year: ['2009'] span:(127,131) 
+BOOK!!!cannot find X. Bai and G. Sapiro. A geodesic framework for fast interactive image and video segmentation and matting. In Computer Vision, 2007. ICCV 2007. IEEE 11th International Conference on, pages 1-8. IEEE, 2007. 
+title: incomputervision year: ['2007', '2007', '2007'] span:(132,136) 
+BOOK!!!cannot find T. Pock, D. Cremers, H. Bischof, and A. Chambolle. An algorithm for minimizing the piecewise smooth mumford-shah functional. In IEEE International Conference on Computer Vision (ICCV), Kyoto, Japan, 2009. 
+title: analgorithmforminimizingthepiecewisesmoothmumfords year: ['2009'] span:(178,182) 
+BOOK!!!cannot find O. Whyte, J. Sivic, and A. Zisserman. Deblurring shaken and partially saturated images. In Workshop on Color and Photometry in Computer Vision, with ICCV 2011, 2011. 
+title: inworkshoponcolorandphotometryincomputervision year: ['2011', '2011'] span:(149,153) 
+BOOK!!!cannot find S. Gammeter, K. Schindler, L. V. Gool, A. Ess, B. Leibe, and T. Jaggli. Articulated multi-body tracking under egomotion. In International Conference on Computer Vision (ICCV), 2008, 2008. 
+title: ininternationalconferenceoncomputervision year: ['2008', '2008'] span:(169,173) 
+BOOK!!!cannot find S. Ioffe and D. Forsyth. Human tracking with mixtures of trees. In Computer Vision, 2001. ICCV 2001. Proceedings. Eighth IEEE International Conference on, volume 1, pages 690-695. IEEE, 2001. 
+title: incomputervision year: ['2001', '2001', '2001'] span:(90,94) 
+BOOK!!!cannot find X. Lan and D. P. Huttenlocher. Beyond trees: Commonfactor models for 2d human pose recovery. In Computer Vision, 2005. ICCV 2005. Tenth IEEE International Conference on, volume 1, pages 470-477. IEEE, 2005. 
+title: incomputervision year: ['2005', '2005', '2005'] span:(119,123) 
+BOOK!!!cannot find B. Leibe, K. Schindler, and L. Van Gool. Coupled detection and trajectory estimation for multi-object tracking. In Computer Vision, 2007. ICCV 2007. IEEE 11th International Conference on, pages 1-8. IEEE, 2007. 
+title: incomputervision year: ['2007', '2007', '2007'] span:(138,142) 
+BOOK!!!cannot find X. He, S. Yan, Y. Hu, and H. jiang Zhang. Learning a locality preserving subspace for visual recognition. In in Proc. IEEE International Conference on Computer Vision, pages 385-393, 2003. 
+title: ininproc year: ['2003'] span:(123,166) 
+BOOK!!!cannot find T. Sattler, B. Leibe, and L. Kobbelt. SCRAMSAC: Improving RANSAC's efficiency with a spacial consistency filter. In Proc. IEEE Intl. Conf. on Computer Vision, 2009. 
+title: scramsacimprovingransacsefficiencywithaspacialcons year: ['2009'] span:(127,157) 
+BOOK!!!cannot find A. Saffari and C. Leistner. On-line random forests. In Proc. of ICCV (Worksh. on Online Comp. Vis.), 2009. 
+title: onlinerandomforests year: ['2009'] span:(64,68) 
+BOOK!!!cannot find S. Stalder, H. Grabner, and L. V. Gool. Beyond semisupervised tracking: Tracking should be as simple as detection, but not simpler than recognition. In Proc. of ICCV (Worksh. on Online Comp. Vis.), 2009. 
+title: butnotsimplerthanrecognition year: ['2009'] span:(161,165) 
+BOOK!!!cannot find Y. Adato, Y. Vasilyev, O. Ben-Shahar, and T. Zickler. Towards a theory of shape from specular flow. In Proc. ICCV, pages 1-8, 2007. 
+title: towardsatheoryofshapefromspecularflow year: ['2007'] span:(109,113) 
+BOOK!!!cannot find R. Fergus, P. Perona, and A. Zisserman. Object class recognition by unsupervised scale-invariant learning. In ICCV, 2003. 
+title: objectclassrecognitionbyunsupervisedscaleinvariant year: ['2003'] span:(110,114) 
+BOOK!!!cannot find R. J. Lopez-Sastre, T. T., and S. Savarese. Deformable part models revisited: A performance evaluation for object category pose estimation. In ICCV-WS CORP, 2011. 
+title: deformablepartmodelsrevisitedaperformanceevaluatio year: ['2011'] span:(143,147) 
+BOOK!!!cannot find W. Zeng and X. Gu. 3D dynamics analysis in Teichm̈uller space. In IEEE ICCV Workshop on Dynamic Shape Capture and Analysis Recognition (4DMOD'11), 2011. 
+title: 3ddynamicsanalysisinteichmullerspace year: ['2011'] span:(71,75) 
+BOOK!!!cannot find I. Laptev and P. Perez. Retrieving actions in movies. In International Conference on Computer Vision, 2007. ICCV 2007., pages 1-8. IEEE, 2007. 
+title: ininternationalconferenceoncomputervision year: ['2007', '2007', '2007'] span:(108,112) 
+BOOK!!!cannot find N. Kumar and A. Berg et al. Attribute and smile classifiers for face verification. In ICCV, 2009. 
+title: attributeandsmileclassifiersforfaceverification year: ['2009'] span:(86,90) 
+BOOK!!!cannot find S. Cheema, A. Eweiwi, C. Thurau, and C. Bauckhage. Action recognition by learning discriminative key poses. In ICCV Workshop, 2011. 
+title: actionrecognitionbylearningdiscriminativekeyposes year: ['2011'] span:(111,115) 
+BOOK!!!cannot find K. E. A. van de Sande, J. R. R. Uijlings, T. Gevers, and A. W. M. Smeulders. Segmentation as selective search for object recognition. In ICCV, 2001. 
+title: segmentationasselectivesearchforobjectrecognition year: ['2001'] span:(137,141) 
+BOOK!!!cannot find S. Stalder, H. Grabner, and L. Van Gool. Beyond semi-supervised tracking: Tracking should be as simple as detection, but not simpler than recognition. In ICCV Workshops, 2009. 
+title: butnotsimplerthanrecognition year: ['2009'] span:(154,158) 
+BOOK!!!cannot find V. Kolmogorov and R. Zabih. Computing visual correspondence with occlusions using graph cuts. In ICCV 2001. 
+title: computingvisualcorrespondencewithocclusionsusinggr year: ['2001'] span:(97,101) 
+BOOK!!!cannot find Z. Yu and J. Yu. http://www.eecis.udel.edu/zyu/iccv2013/. 
+title: httpwwweecisudeleduzyu year: ['2013'] span:(47,51) 
+BOOK!!!cannot find T. Weise, T. Wismer, B. Leibe, and L. Gool. In-hand scanning with online loop closure. Proc. of ICCV Workshops'09, pages 1630-1637, 2009. 
+title: inhandscanningwithonlineloopclosure year: ['2009'] span:(96,100) 
+BOOK!!!cannot find L. Zelnik-Manor, G. Peters, and P. Perona. Squaring the circle in panoramas. In Proceedings of ICCV 2005, volume 2, pages 1292-1299, 2005. 
+title: inproceedingsof year: ['2005', '2005'] span:(95,99) 
+BOOK!!!cannot find L. Bourdeva, S. Maji, and J. Malik. Describing people: Poselet-based approach to attribute classification. ICCV, 2011. 
+title: describingpeopleposeletbasedapproachtoattributecla year: ['2011'] span:(107,111) 
+BOOK!!!cannot find N. Kumar, A. C. Berg, P. N. Belhumeur, and S. K. Nayar. Attribute and simle classifers for face verification. ICCV, 2009. 
+title: attributeandsimleclassifersforfaceverification year: ['2009'] span:(110,114) 
+BOOK!!!cannot find X. Mei and H. Ling. Robust visual tracking using l1 minimization. In ICCV, 2009. 
+title: robustvisualtrackingusingl1minimization year: ['2009'] span:(69,73) 
+BOOK!!!cannot find S. Stalder, H. Grabner, and L. van Gool. Beyond semisupervised tracking: Tracking should be as simple as detection, but not simpler than recognition. In ICCVW, 2009. 
+title: butnotsimplerthanrecognition year: ['2009'] span:(153,157) 
+BOOK!!!cannot find A. Saffari, C. Leistner, J. Santner, M. Godec, and H. Bischof. On-line random forests. In International Conference on Computer Vision Workshop on On-line Learning for Computer Vision, 2009. 
+title: onlinerandomforests year: ['2009'] span:(90,133) 
+BOOK!!!cannot find Y. Boykov and V. Kolmogorov. Computing geodesics and minimal surfaces via graph cuts. In International Conference on Computer Vision (ICCV), 2003. 
+title: ininternationalconferenceoncomputervision year: ['2003'] span:(134,138) 
+BOOK!!!cannot find A. Raj and R. Zabih. A graph cut algorithm for generalized image deconvolution. In International Conference of Computer vision (ICCV), 2005. 
+title: ininternationalconferenceofcomputervision year: ['2005'] span:(128,132) 
+BOOK!!!cannot find L. Cao and L. Fei-Fei. Spatially coherent latent topic model for concurrent object segmentation and classification. In ICCV, 2007. 
+title: spatiallycoherentlatenttopicmodelforconcurrentobje year: ['2007'] span:(119,123) 
+BOOK!!!cannot find V. Lempitsky, P. Kohli, C. Rother, and T. Sharp. Image segmentation with a bounding box. In ICCV, 2009. 
+title: imagesegmentationwithaboundingbox year: ['2009'] span:(92,96) 
+BOOK!!!cannot find M. Nguyen, L. Torresani, F. de la Torre, and C. Rother.Weakly supervised discriminative localization and classification: a joint learning process. In ICCV, 2009. 
+title: rotherweaklysuperviseddiscriminativelocalizationan year: ['2009'] span:(150,154) 
+BOOK!!!cannot find J. Sivic, B. C. Russell, A. A. Efros, A. Zisserman, andW. T. Freeman. Discovering object categories in image collections. In ICCV, 2005. 
+title: discoveringobjectcategoriesinimagecollections year: ['2005'] span:(125,129) 
+BOOK!!!cannot find M. Muja and D. Lowe. Fast approximate nearest neighbors with automatic algorithm configuration. In ICCV, 2009. 
+title: fastapproximatenearestneighborswithautomaticalgori year: ['2009'] span:(99,103) 
+BOOK!!!cannot find P. Turcot and D. Lowe. Better matching with fewer features: the selection of useful features in large database recognition problems. In ICCV, 2009. 
+title: bettermatchingwithfewerfeaturestheselectionofusefu year: ['2009'] span:(136,140) 
+BOOK!!!cannot find H. Xu, J. Wang, Z. Li, G. Zeng, S. Li, and N. Yu. Complementary hashing for approximate nearest neighbor search. In Proc. of IEEE ICCV, pages 1631-1638, 2011. 
+title: ofieee year: ['2011'] span:(130,134) 
+BOOK!!!cannot find J. Yagnik, D. Strelow, D. Ross, and R.-S. Lin. The power of comparative reasoning. In Proc. of IEEE ICCV, pages 2431-2438, 2011. 
+title: ofieee year: ['2011'] span:(100,104) 
+BOOK!!!cannot find N. Silberman and R. Fergus. Indoor scene segmentation using a structured light sensor. In ICCVWorkshops, pages 601-608, 2011. 
+title: indoorscenesegmentationusingastructuredlightsensor year: ['2011'] span:(90,94) 
+BOOK!!!cannot find P. Yan, S. M. Khan, and M. Shah. Learning 4D action feature models for arbitrary view action recognition. ICCV, 2008. 
+title: learning4dactionfeaturemodelsforarbitraryviewactio year: ['2008'] span:(106,110) 
+BOOK!!!cannot find B. Rothrock and S. Zhu. Human parsing using stochastic and-or grammars and rich appearances. ICCV Workshops, 2011. 
+title: humanparsingusingstochasticandorgrammarsandrichapp year: ['2011'] span:(93,97) 
+BOOK!!!cannot find F. Kahl. Multiple view geometry and the l∞-norm. In Proc. ICCV, 2005. 
+title: multipleviewgeometryandthelnorm year: ['2005'] span:(58,62) 
+BOOK!!!cannot find O. Enqvist, F. Kahl, and C. Olsson. Non-sequential structure from motion. In ICCV Workshops, pages 264-271, 2011. 
+title: nonsequentialstructurefrommotion year: ['2011'] span:(77,81) 
+BOOK!!!cannot find Y. Seo and R. I. Hartley. A fast method to minimize l1 error norm for geometric vision problems. In ICCV, 2007. 
+title: afastmethodtominimizel1errornormforgeometricvision year: ['2007'] span:(100,104) 
+BOOK!!!cannot find F. Steinbr̈ucker, J. Sturm, and D. Cremers. Real-time visual odometry from dense RGB-D images. In Workshop on Live Dense Reconstruction with Moving Cameras at ICCV, 2011. 
+title: inworkshoponlivedensereconstructionwithmovingcamer year: ['2011'] span:(159,163) 
+BOOK!!!cannot find T. Tykk̈al̈a, C. Audras, and A. Comport. Direct iterative closest point for real-time visual odometry. InWorkshop on Computer Vision in Vehicle Technology at ICCV, 2011. 
+title: inworkshoponcomputervisioninvehicletechnologyat year: ['2011'] span:(158,162) 
+BOOK!!!cannot find T. E. Bishop, S. Zanetti, and P. Favaro. Plenoptic depth estimation from multiple aliased views. In IEEE ICCV Workshops, 2009. 
+title: plenopticdepthestimationfrommultiplealiasedviews year: ['2009'] span:(105,109) 
+BOOK!!!cannot find K. Jia, X. Wang, and X. Tang. Optical flow estimation using learned sparse model. In Proceedings of IEEE International Conference on Computer Vision, 2011. 
+title: inproceedingsofieee year: ['2011'] span:(105,148) 
+BOOK!!!cannot find V. Kolmogorov and R. Zabih. Computing visual correspondence with occlusions via graph cuts. In Proceedings of IEEE International Conference on Computer Vision, 2001. 
+title: inproceedingsofieee year: ['2001'] span:(115,158) 
+BOOK!!!cannot find N. Papadakis, T. Corpetti, and E. Ḿemin. Dynamically consistent optical flow estimation. In Proceedings of In-ternational Conference on Computer Vision (ICCV), Rio de Janeiro, Brazil, Oct. 2007. 
+title: inproceedingsofinternationalconferenceoncomputervi year: ['2007'] span:(153,157) 
+BOOK!!!cannot find A. Andriyenko, S. Roth, and K. Schindler. An analytical formulation of global occlusion reasoning for multi-target tracking. In ICCV Workshop, pages 1839-1846, 2011. 
+title: ananalyticalformulationofglobalocclusionreasoningf year: ['2011'] span:(128,132) 
+BOOK!!!cannot find K. Choo and D. Fleet. People tracking with hybrid monte carlo. ICCV, II:321-328, 2001. 
+title: peopletrackingwithhybridmontecarlo year: ['2001'] span:(63,67) 
+BOOK!!!cannot find A. Janoch, S. Karayev, Y. Jia, J. Barron, M. Fritz, K. Saenko, and T. Darrell. A category-level 3-D object dataset: Putting the kinect to work. In Workshop on Consumer Depth Cameras in Computer Vision (with ICCV), 2011. 
+title: inworkshoponconsumerdepthcamerasincomputervisionwi year: ['2011'] span:(207,211) 
+BOOK!!!cannot find A. Shrivastava and A. Gupta. Building parts-based object detectors via 3D geometry. In ICCV, 2013. 
+title: buildingpartsbasedobjectdetectorsvia3dgeometry year: ['2013'] span:(87,91) 
+BOOK!!!cannot find N. Dalal and B. Triggs. Histograms of oriented gradients for human detection. ICCV, 2005. 
+title: histogramsoforientedgradientsforhumandetection year: ['2005'] span:(78,82) 
+BOOK!!!cannot find L. Cao and L. Fei-Fei. Spatially coherent latent topic model for concurrent segmentation and classification of objects and scenes. In International Conference Computer Vision, ICCV, pages 1-8. IEEE, 2007. 
+title: ininternationalconferencecomputervision year: ['2007'] span:(176,180) 
+BOOK!!!cannot find E. Sudderth, A. Torralba, W. Freeman, and A. Willsky. Learning hierarchical models of scenes, objects, and parts. In Internation Conference on Computer Vision, ICCV, volume 2, pages 1331-1338. IEEE, 2005. 
+title: ininternationconferenceoncomputervision year: ['2005'] span:(160,164) 
+BOOK!!!cannot find M. Muja, D. G. Lowe, Fast Approximate Nearest Neighbors with Automatic Algorithm Configuration, in International Conference on Computer Vision Theory and Applications (VISAPP' 09), 2009 
+title: fastapproximatenearestneighborswithautomaticalgori year: ['2009'] span:(99,142) 
+BOOK!!!cannot find J. Philbin and A. Zisserman. Object Mining using a Matching Graph on Very Large Image Collections. In ICCVGIP, 2008. 
+title: objectminingusingamatchinggraphonverylargeimagecol year: ['2008'] span:(102,106) 
+BOOK!!!cannot find M. Ayazoglu, B. Li, C. Dicle, M. Sznaier, and O. Camps. Dynamic subspace-based coordinated multicamera tracking. In 2011 IEEE ICCV, pages 2462-2469, 2011. 
+title: in2011ieee year: ['2011', '2011'] span:(126,130) 
+BOOK!!!cannot find J. Sivic and A. Zisserman. Video google: A text retrieval approach to object matching in videos. In Proceedings of the Ninth IEEE International Conference on Computer Vision-Volume 2, ICCV '03, pages 1470-, Washington, DC, USA, 2003. IEEE Computer Society. 
+title: inproceedingsoftheninthieeeinternationalconference year: ['2003'] span:(184,188) 
+BOOK!!!cannot find T. Judd, K. Ehinger, F. Durand, and A. Torralba. Learning to predict where humans look. In ICCV, pages 2106-2113, 2010. 
+title: learningtopredictwherehumanslook year: ['2010'] span:(91,95) 

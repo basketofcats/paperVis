@@ -1,0 +1,115 @@
+.line_style {
+    fill: none;
+    stroke: #ffab00;
+    stroke-width: 3;
+    /* z-index: 1; */
+}
+.line_style_highlight {
+    fill: none;
+    stroke: purple;
+    stroke-width: 3;
+    /* z-index: 9999; */
+}
+.line_connect_highlight {
+    fill: none;
+    stroke: red;
+    stroke-width: 3;
+    /* z-index: 9999; */
+}
+.dot0 {
+    fill: #000000;;
+    stroke: #000000;
+    stroke-width: 1;
+}
+.dot1 {
+    fill:steelblue;
+    /* stroke: #5E5E5E; */
+    stroke: steelblue;
+    stroke-width: 3;
+}
+.dot2 {
+    fill: #46b478;
+    stroke: #46b478;
+    stroke-width: 3;
+}
+.dot3 {
+    fill: #b44682;;
+    stroke: #b44682;
+    stroke-width: 3;
+}
+.factorK{
+    left: 50px;
+    top: 50px;
+    position: absolute;
+    float: left;
+    font-size: large;
+}
+.factorK-slider {
+    left: 200px;
+    top: 50px;
+    position: absolute;
+    width: 150px;
+}
+.factor-decay{
+    left: 400px;
+    top: 50px;
+    position: absolute;
+    float: left;
+    font-size: large;
+}
+.factor-decay-slider {
+    left: 550px;
+    top: 50px;
+    position: absolute;
+    width: 150px;
+}
+.iter{
+    left: 750px;
+    top: 50px;
+    position: absolute;
+    float: left;
+    font-size: large;
+}
+.iter-slider {
+    left: 900px;
+    top: 50px;
+    position: absolute;
+    width: 150px;
+}
+.run-button{
+    left: 1080px;
+    width: 100px;
+    top: 48px;
+    position: absolute;
+    float: left;
+    font-size: large;
+}
+.reset-button{
+    left: 1200px;
+    width: 100px;
+    top: 48px;
+    position: absolute;
+    float: left;
+    font-size: large;
+}
+.iter_time_style{
+    left: 400px;
+    top: 10px;
+    position: absolute;
+    float: left;
+    font-size: large;
+}
+.connect_line_style{
+    left: 200px;
+    top: 10px;
+    position: absolute;
+    float: left;
+    font-size: large;
+}
+.select_point_style{
+    left: 50px;
+    top: 10px;
+    position: absolute;
+    float: left;
+    font-size: large;
+}

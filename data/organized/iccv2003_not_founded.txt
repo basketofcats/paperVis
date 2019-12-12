@@ -1,0 +1,38 @@
+CONF!!!cannot find Modeling faces dynamically across views and over time,proceedings of ieee iccv01, july 2001. 
+title: modelingfacesdynamicallyacrossviewsandovertime year: ['2001'] span:(20,24) 
+CONF!!!cannot find Statistical calibration of ccd imaging process,iccv 2001, july 2001. 
+title: statisticalcalibrationofccdimagingprocess year: ['2001', '2001'] span:(0,4) 
+CONF!!!cannot find Stochastic ridigity: image registration for nowhere-static senes,proc. iccv, pp. 662-669, july 2001. 
+title: stochasticridigityimageregistrationfornowherestati year: ['2001'] span:(6,10) 
+CONF!!!cannot find Dynamic Texture,iccv, 2001. 
+title: dynamictexture year: ['2001'] span:(0,4) 
+CONF!!!cannot find A statistical approcah to 3d object detection applied to faces and cars,proceedings of the eighth ieee international conference on computer vision (2000), june 2000. 
+title: astatisticalapprocahto3dobjectdetectionappliedtofa year: ['2000', '2000'] span:(31,74) 
+CONF!!!cannot find Video object segmentation using eulerian region-based active contours,international conference on computer vision, 2001. 
+title: videoobjectsegmentationusingeulerianregionbasedact year: ['2001'] span:(0,43) 
+CONF!!!cannot find Beyond Lambert: Reconstucting Surfaces with Arbitrary BRDFs,proceedings of international conference on computer vision (iccv), pp. 297-302, 2001. 
+title: beyondlambertreconstuctingsurfaceswitharbitrarybrd year: ['2001'] span:(60,64) 
+CONF!!!cannot find Dense shape reconstruction of a moving object under arbitrary unknown lighting,iccv, 2003. 
+title: denseshapereconstructionofamovingobjectunderarbitr year: ['2003'] span:(0,4) 
+CONF!!!cannot find Robust real time object detection,ieee iccv workshop on statistical and computational theories of vision, july 13,2001. 
+title: robustrealtimeobjectdetection year: ['2001'] span:(5,9) 
+CONF!!!cannot find A statistical method for 3D object detection applied to faces and cars,international conference on computer vision, 2000. 
+title: astatisticalmethodfor3dobjectdetectionappliedtofac year: ['2000'] span:(0,43) 
+CONF!!!cannot find Mean shift based clustering in high dimnensions: A texture classification example,international conference on computer vision, 2003. 
+title: meanshiftbasedclusteringinhighdimnensionsatexturec year: ['2003'] span:(0,43) 
+CONF!!!cannot find Smarter presentations: Exploting homography in camera-projector systems,proceedings of ieee international conference on computer vision, 2001. 
+title: smarterpresentationsexplotinghomographyincamerapro year: ['2001'] span:(20,63) 
+CONF!!!cannot find A robust interest point matching algorithm,8th international conference on computer vision, july 2001. 
+title: arobustinterestpointmatchingalgorithm year: ['2001'] span:(4,47) 
+CONF!!!cannot find Separating Reflection Components of Textured Surface using a Single Image,proc. ieee intl. conf. computer vision, 2003. 
+title: separatingreflectioncomponentsoftexturedsurfaceusi year: ['2003'] span:(11,38) 
+CONF!!!cannot find Visual correspondence with occlusions using graph cuts,international conference on computer vision, pp. 508-515, 2001. 
+title: visualcorrespondencewithocclusionsusinggraphcuts year: ['2001'] span:(0,43) 
+CONF!!!cannot find Trust-region tracker for real time tracking,proc. iccv, vol. 2, pp. 717-722, 2001. 
+title: trustregiontrackerforrealtimetracking year: ['2001'] span:(6,10) 
+CONF!!!cannot find A statistical consistency check for the space carving algorithm,proc. iccv, 2001. 
+title: astatisticalconsistencycheckforthespacecarvingalgo year: ['2001'] span:(6,10) 
+CONF!!!cannot find Shape and motion under varying illumination: unifying multiview stereo photometric stereo and structure from motion,iccv, oct. 2003. 
+title: shapeandmotionundervaryingilluminationunifyingmult year: ['2003'] span:(0,4) 
+CONF!!!cannot find Robust real-time object detection,iccv workshop on statistical and computation theories of vision, july 2001. 
+title: robustrealtimeobjectdetection year: ['2001'] span:(0,4) 

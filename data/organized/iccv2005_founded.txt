@@ -1,0 +1,394 @@
+BOOK!!! A. Shashua and A. Levin. Multi-frame infinitesimal motion model for the reconstruction of (dynamic) scenes with multiple linearly moving objects. In IEEE International Conference on Computer Vision, volume 2, pages 592-599, 2001.,eccv, 2006. 
+title: multiframeinfinitesimalmotionmodelforthereconstruc year: ['2001'] span:(154,197) 
+BOOK!!! D. Cremers and S. Soatto. Variational space-time motion segmentation. In ICCV, pages II:886-892, 2003.,ieee trans. pattern anal. machine intell., vol. 22, pp. 1105-1115, 2000. 
+title: variationalspacetimemotionsegmentation year: ['2003'] span:(73,77) 
+BOOK!!! D. Ramanan and D. Forsyth. Using temporal coherence to build models of animals. In ICCV, pages 338-345, 2003.,ieee trans. pattern anal. machine intell., vol. 22, pp. 1105-1115, 2000. 
+title: usingtemporalcoherencetobuildmodelsofanimals year: ['2003'] span:(83,87) 
+BOOK!!! D. Martin, C. Fowlkes, D. Tal, and J. Malik. A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics. ICCV, vol. 2, pp. 416-423, 2001.,ieee trans. pattern anal. machine intell., vol. 22, pp. 1105-1115, 2000. 
+title: adatabaseofhumansegmentednaturalimagesanditsapplic year: ['2001'] span:(185,189) 
+BOOK!!! X. Wang and X. Tang. Unified subspace analysis for face recognition. Proc. ICCV 2003, 1:679-686, 2003.,cvpr, 2004. 
+title: unifiedsubspaceanalysisforfacerecognition year: ['2003', '2003'] span:(75,79) 
+BOOK!!! M. Grossberg and S. Nayar, A General Imaging Model and a Method for Finding its Parameters, IEEE International Conference on Computer Vision, Volume 2, pp. 108-115, 2001.,. in proc. of int. workshop on human-computer interaction (in conjunction with eccv 2004), may 2004. 
+title: ageneralimagingmodelandamethodforfindingitsparamet year: ['2001'] span:(97,140) 
+BOOK!!! Tu, Z., et al., Image Parsing: Unifying Segmentation, Detection, and Recognition. ICCV, 2003: p. 18-25.,. in proc. of int. workshop on human-computer interaction (in conjunction with eccv 2004), may 2004. 
+title: andrecognition year: ['2003'] span:(82,86) 
+BOOK!!! C. Wallraven, B. Caputo and A.B.A. Graf. Recognition with Local Features: the Kernel Recipe. ICCV 2003 Proceedings 2, (2003) 257-264,. in proc. of int. workshop on human-computer interaction (in conjunction with eccv 2004), may 2004. 
+title: recognitionwithlocalfeaturesthekernelrecipe year: ['2003', '2003'] span:(93,97) 
+BOOK!!! S.Z. Li, Q. Fu, B. Shoelkopf, Y. Cheng, H. Zhang. Kernel machine based learning for multi-view face detection and pose estimation. Proc ICCV, (2001).,. in proc. of int. workshop on human-computer interaction (in conjunction with eccv 2004), may 2004. 
+title: kernelmachinebasedlearningformultiviewfacedetectio year: ['2001'] span:(136,140) 
+CONF!!! View-invariant Alignment and matching of Video Sequences,,iccv, 2003. 
+title: viewinvariantalignmentandmatchingofvideosequences year: ['2003'] span:(0,4) 
+BOOK!!! A. Efros, A. Berg, G. Mori, and J. Malik. Recognizing action at a distance. In ICCV, 2003.,human kinetics, 2002. 
+title: recognizingactionatadistance year: ['2003'] span:(79,83) 
+BOOK!!! I. Laptev and T. Lindeberg. Space-time interest points. In ICCV, 2003.,human kinetics, 2002. 
+title: spacetimeinterestpoints year: ['2003'] span:(59,63) 
+BOOK!!! C. Rao, A. Gritai, M. Shah, and T. Syeda-Mahmood. Viewinvariant alignment and matching of video sequences. In ICCV, 2003.,human kinetics, 2002. 
+title: viewinvariantalignmentandmatchingofvideosequences year: ['2003'] span:(110,114) 
+BOOK!!! W. Hong, J. Wright, K. Huang, and Y. Ma. A multi-scale hybrid linear model for lossy image representation. In ICCV, 2005.,human kinetics, 2002. 
+title: amultiscalehybridlinearmodelforlossyimagerepresent year: ['2005'] span:(110,114) 
+BOOK!!! A. Shashua and A. Levin. Multi-frame infinitesimal motion model for the reconstruction of (dynamic) scenes with multiple linearly moving objects. In ICCV, volume 2, pages 592-599, 2001.,human kinetics, 2002. 
+title: multiframeinfinitesimalmotionmodelforthereconstruc year: ['2001'] span:(149,153) 
+BOOK!!! A. Efros, A. Berg, G. Mori, and J. Malik. Recognizing action at a distance. In Proc. ICCV, 2003.,human kinetics, 2002. 
+title: recognizingactionatadistance year: ['2003'] span:(85,89) 
+BOOK!!! I. Laptev and T. Lindeberg. Space-time interest points. In Proc. ICCV, 2003.,human kinetics, 2002. 
+title: spacetimeinterestpoints year: ['2003'] span:(65,69) 
+BOOK!!! D. Ramanan and D. A. Forsyth. Using temporal coherence to build models of animals. In Proc. ICCV, 2003.,human kinetics, 2002. 
+title: usingtemporalcoherencetobuildmodelsofanimals year: ['2003'] span:(92,96) 
+BOOK!!! P. Viola, M. Jones, and D. Snow. Detecting pedestrians using patterns of motion and appearance. In Proc. ICCV, 2003.,human kinetics, 2002. 
+title: detectingpedestriansusingpatternsofmotionandappear year: ['2003'] span:(105,109) 
+BOOK!!! A.S. Georghiades. Incorporating the torrance and sparrow model of reflectance in uncalibrated photometric stereo. In ICCV03, pages 816-823, 2003.,ieee tpami, vol. 20, no. 11, pp. 1254-1259, 1998. 
+title: incorporatingthetorranceandsparrowmodelofreflectan year: ['2003'] span:(117,121) 
+BOOK!!! L. Zhang, B. Curless, A. Hertzmann, and S. Seitz. Shape and motion under varying illumniation: Unifying structure from motion, photometric stereo, and multi-view stereo. In Proc. 9 Int. Conf. on Computer Vision, 2003.,ieee tpami, vol. 20, no. 11, pp. 1254-1259, 1998. 
+title: andmultiviewstereo year: ['2003'] span:(181,210) 
+BOOK!!! Y. Boykov and M.P. Jolly. Interactive graph cuts for optimal boundary & region segmentation of objects in N-D images. In International Conference on Computer Vision, volume 1, pages 105-112, July 2001.,proceedings of the 5th international conference on automatic face and gesture recognition, 2002. 
+title: interactivegraphcutsforoptimalboundaryandregionseg year: ['2001'] span:(121,164) 
+BOOK!!! T. Kim, Y. Seo, and K. Hong. Improving ar using shadows arising from natural illumination distribution in video sequences. In Proc. Int. Conf. on Computer Vision, pages 329-334, 2001.,: interactive foreground extraction using iterated graph cuts. in proceedings of acm siggraph 2004, volume 23, pages 309-314. acm press, april 2004. 
+title: improvingarusingshadowsarisingfromnaturalilluminat year: ['2001'] span:(132,161) 
+BOOK!!! Y. Li, S. Lin, H. Lu, and H.Y. Shum. Multiple-cue illumination estimation in textured scenes. In Proc. Int. Conf. on Computer Vision, pages 1366-1373, 2003.,: interactive foreground extraction using iterated graph cuts. in proceedings of acm siggraph 2004, volume 23, pages 309-314. acm press, april 2004. 
+title: multiplecueilluminationestimationintexturedscenes year: ['2003'] span:(103,132) 
+BOOK!!! L. Fei-Fei, R. Fergus, and P. Perona. A Bayesian approach to unsupervised one-shot learning of object categories. In ICCV, 2003.,ieee trans. pattern analysis and machine intelligence, vol. 23, no. 10, pp. 1106-1119, 2001. 
+title: abayesianapproachtounsupervisedoneshotlearningofob year: ['2003'] span:(117,121) 
+BOOK!!! M. Vidal-Naquet and S. Ullman. Object recognition with informative features and linear classification. In ICCV, 2003.,ieee trans. pattern analysis and machine intelligence, vol. 23, no. 10, pp. 1106-1119, 2001. 
+title: objectrecognitionwithinformativefeaturesandlinearc year: ['2003'] span:(106,110) 
+BOOK!!! P. Pérez, A. Blake, and M. Gangnet. JetStream: Probabilistic contour extraction with particles. In Proc. ICCV, 11:524-531, 2001.,ieee trans. pattern analysis and machine intelligence, vol. 23, no. 10, pp. 1106-1119, 2001. 
+title: jetstreamprobabilisticcontourextractionwithparticl year: ['2001'] span:(105,109) 
+BOOK!!! D. Miyazaki, R. T. Tan, K. Hara, and K. Ikeuchi. Polarization-based inverse rendering from a single view. In Proc. ICCV, volume 2, pages 982-987, 2003.,ieee trans. pattern analysis and machine intelligence, vol. 23, no. 10, pp. 1106-1119, 2001. 
+title: polarizationbasedinverserenderingfromasingleview year: ['2003'] span:(115,119) 
+CONF!!! Lambertian Reflectance and Linear Subspaces,,proc. ieee intl. conf. computer vision 01, pp.383-389, 2001. 
+title: lambertianreflectanceandlinearsubspaces year: ['2001'] span:(11,38) 
+CONF!!! Stochastic Refinement of the Visual Hull to satisfy photometric and silhouette consistency constraints,,in proc. iccv, pp. 1335-1342, 2003. 
+title: stochasticrefinementofthevisualhulltosatisfyphotom year: ['2003'] span:(9,13) 
+CONF!!! Dealing with Texture-less Regions and Specular Highlights: A Progressive Space Carving Scheme Using A Novel Photo-consistency Measure,,in proc iccv, pp. 576-585, 2003. 
+title: dealingwithtexturelessregionsandspecularhighlights year: ['2003'] span:(8,12) 
+BOOK!!! K. Barnard and D. Forsyth. Learning the semantics of words and pictures. In Proc. ICCV, 2001.,mit press, 2nd. ed., 2001. 
+title: learningthesemanticsofwordsandpictures year: ['2001'] span:(82,86) 
+BOOK!!! J. Sivic and A. Zisserman. Video Google: A text retrieval approach to object matching in videos. In Proc. ICCV, 2003.,. in proc. eccv, volume 1, pages 414-431. springer-verlag, 2002. 
+title: videogoogleatextretrievalapproachtoobjectmatchingi year: ['2003'] span:(106,110) 
+BOOK!!! S. Gokturk, J. Bouguet, and R. Grzeszczuk. A data-driven model for monocular face tracking. In ICCV01, 2001.,vehicles. in international conference on computer vision (iccv99), pages 87-93, 1999. 
+title: adatadrivenmodelformonocularfacetracking year: ['2001'] span:(95,99) 
+BOOK!!! X. Gu and S. Yau. Surface classification using conformal structures. In ICCV'03, pages 701-708, 2003.,vehicles. in international conference on computer vision (iccv99), pages 87-93, 1999. 
+title: surfaceclassificationusingconformalstructures year: ['2003'] span:(72,76) 
+BOOK!!! C. Tomasi, S. Petrov, and A. Sastry. 3d tracking = classification + interpolation. In ICCV03, pages 1441-1448, 2003.,vehicles. in international conference on computer vision (iccv99), pages 87-93, 1999. 
+title: 3dtrackingclassificationinterpolation year: ['2003'] span:(86,90) 
+BOOK!!! Z. Wen and T. Huang. Capturing subtle facial motions in 3d face tracking. In ICCV03, pages 1343-1350, 2003.,vehicles. in international conference on computer vision (iccv99), pages 87-93, 1999. 
+title: capturingsubtlefacialmotionsin3dfacetracking year: ['2003'] span:(77,81) 
+BOOK!!! M.Tappen and W.T. Freeman. Comparison of graph cuts with belief propagation for stereo, using identical MRF parameters. In ICCV, 2003.,vehicles. in international conference on computer vision (iccv99), pages 87-93, 1999. 
+title: usingidenticalmrfparameters year: ['2003'] span:(123,127) 
+CONF!!! Beyond Lambert: Reconstructing surfaces with arbitrary BRDFs,,proceedings of the ieee international conference on computer vision, vol. 2, pp. 391, 2001. 
+title: beyondlambertreconstructingsurfaceswitharbitrarybr year: ['2001'] span:(24,67) 
+CONF!!! Dealing with textureless regions and specular highlights-A progressive space carving scheme using a novel photo-consistency measure,,proceedings of the ieee international conference on computer vision, vol. 1, pp. 576, 2003. 
+title: dealingwithtexturelessregionsandspecularhighlights year: ['2003'] span:(24,67) 
+CONF!!! Binocular Helmholtz stereopsis,,proceedings of the ieee int. conf. on computer vision, vol. 2, pp. 1411, 2003. 
+title: binocularhelmholtzstereopsis year: ['2003'] span:(24,53) 
+BOOK!!! Rong Xiao, Long Zhu, Hongjiang Zhang, Boosting Chain Learning for Object Detection, ICCV 2003.,cvpr 2001. 
+title: boostingchainlearningforobjectdetection year: ['2003'] span:(84,88) 
+BOOK!!! J. Sivic and A. Zisserman. Video google: A text retrieval approach to object matching in videos. In ICCV, 2003.,the annals of statistics, 26(5), 1998, 1651-1686. 
+title: videogoogleatextretrievalapproachtoobjectmatchingi year: ['2003'] span:(100,104) 
+BOOK!!! K. Toyama, A. Blake. Probabilistic Tracking in a Metric Space. ICCV 2001.,structure learning for continuous variable networks. uai 2004. 
+title: probabilistictrackinginametricspace year: ['2001'] span:(63,67) 
+BOOK!!! Y. Weiss. Deriving intrinsic images from image sequences. In ICCV01, pages II: 68-75, 2001.,structure learning for continuous variable networks. uai 2004. 
+title: derivingintrinsicimagesfromimagesequences year: ['2001'] span:(61,65) 
+BOOK!!! L. Goshen, I. Shimshoni, P. Ananadan, and D. keren. Recovery of epipolar geometry as a manifold fitting problem. In ICCV, pages 1321-1328, 2003.,structure learning for continuous variable networks. uai 2004. 
+title: recoveryofepipolargeometryasamanifoldfittingproble year: ['2003'] span:(116,120) 
+BOOK!!! B. Stenger, A. Thayananthan, P.H.S. Torr, and R. Cipolla. Filtering using a tree-based estimator. In ICCV03, pages 1063-1070, 2003.,structure learning for continuous variable networks. uai 2004. 
+title: filteringusingatreebasedestimator year: ['2003'] span:(101,105) 
+BOOK!!! S. Romdhani and T. Vetter. Efficient, robust and accurate fitting of a 3D morphable model. In Proc. of the International Conference on Computer Vision, 2003.,structure learning for continuous variable networks. uai 2004. 
+title: robustandaccuratefittingofa3dmorphablemodel year: ['2003'] span:(107,150) 
+BOOK!!! S. Wang, W. Zhu, and Z. Liang. Shape deformation: SVM regression and application to medical image segmentation. ICCV, 2001.,structure learning for continuous variable networks. uai 2004. 
+title: shapedeformationsvmregressionandapplicationtomedic year: ['2001'] span:(112,116) 
+BOOK!!! M. Shimizu and M. Okutomi. Precise sub-pixel estimation on area-based matching. In ICCV, pages 90-97, 2001.,structure learning for continuous variable networks. uai 2004. 
+title: precisesubpixelestimationonareabasedmatching year: ['2001'] span:(83,87) 
+BOOK!!! Y. Boykov and M.-P. Jolly. Interactive graph cuts for optimal boundary & region segmentation of objects in N-D images. In International Conference on Computer Vision, volume I, pages 105-112, July 2001.,structure learning for continuous variable networks. uai 2004. 
+title: interactivegraphcutsforoptimalboundaryandregionseg year: ['2001'] span:(122,165) 
+BOOK!!! Y. Boykov and V. Kolmogorov. Computing geodesics and minimal surfaces via graph cuts. In International Conference on Computer Vision, volume I, pages 26-33, 2003.,structure learning for continuous variable networks. uai 2004. 
+title: computinggeodesicsandminimalsurfacesviagraphcuts year: ['2003'] span:(89,132) 
+CONF!!! A global matching framework for stereo computation,iccv, 2001 
+title: aglobalmatchingframeworkforstereocomputation year: ['2001'] span:(0,4) 
+CONF!!! Caustics of Catadioptric Cameras,,proc. of ieee international conference on computer vision, vancouver, canada, july 2001. 
+title: causticsofcatadioptriccameras year: ['2001'] span:(14,57) 
+CONF!!! Camera calibration using spheres: A semi-definite programming approach,,proc. of iccv, pp. 782-791, 2003. 
+title: cameracalibrationusingspheresasemidefiniteprogramm year: ['2003'] span:(9,13) 
+BOOK!!! G. Dorko and C. Schmid. Selection of scale-invariant parts for object class recognition. In ICCV, pages 634-640, 2003.,proc. of iccv, pp. 666-673, 1999. 
+title: selectionofscaleinvariantpartsforobjectclassrecogn year: ['2003'] span:(92,96) 
+BOOK!!! B. Georgescu, I. Shimshoni, and P. Meer. Mean shift based clustering in high dimensions: a texture classification example. In ICCV, pages 456-463, 2003.,proc. of iccv, pp. 666-673, 1999. 
+title: meanshiftbasedclusteringinhighdimensionsatexturecl year: ['2003'] span:(126,130) 
+BOOK!!! M. Vidal-Naquet and S. Ullman. Object recognition with informative features and linear classification. In ICCV, pages 281-288, 2003.,proc. of iccv, pp. 666-673, 1999. 
+title: objectrecognitionwithinformativefeaturesandlinearc year: ['2003'] span:(106,110) 
+BOOK!!! E. Prados and O. Faugeras. Perspective shape from shading and viscosity solutions. In International Conference on Computer Vision, volume 2, pages 826-831, Oct. 2003.,proc. of iccv, pp. 666-673, 1999. 
+title: perspectiveshapefromshadingandviscositysolutions year: ['2003'] span:(86,129) 
+BOOK!!! A. Barbu and S. Zhu. Graph partition by Swendsen-Wang cuts. In ICCV, 2003.,proc. of iccv, pp. 666-673, 1999. 
+title: graphpartitionbyswendsenwangcuts year: ['2003'] span:(63,67) 
+BOOK!!! T. Cootes and C. Taylor. Constrained Active Appearance Models. In ICCV, 2001.,proc. of iccv, pp. 666-673, 1999. 
+title: constrainedactiveappearancemodels year: ['2001'] span:(66,70) 
+BOOK!!! Z. Tu, X. Chen, A. Yuille, and S. Zhu. Image Parsing: Unifying Segmentation, Detection, and Recognition. In ICCV, 2003.,proc. of iccv, pp. 666-673, 1999. 
+title: andrecognition year: ['2003'] span:(108,112) 
+BOOK!!! H. Jin, P. Favaro, and S. Soatto. Real-time feature tracking and outlier rejection with changes in illumination. In Proc. Intl. Conf. on Computer Vision, pages 684-689, July 2001.,proc. of iccv, pp. 666-673, 1999. 
+title: realtimefeaturetrackingandoutlierrejectionwithchan year: ['2001'] span:(122,152) 
+BOOK!!! D. Nister. Preemptive ransac for live structure and motion estimation. In Proc. Intl. Conf. on Computer Vision, pages 199-206, 2003.,proc. of iccv, pp. 666-673, 1999. 
+title: preemptiveransacforlivestructureandmotionestimatio year: ['2003'] span:(80,110) 
+BOOK!!! G. Doretto, D. Cremers, P. Favaro, S. Soatto. Dynamic texture segmentation. In IEEE International Conference on Computer Vision, vol. 2, pp 1236-42, 2003.,proc. of iccv, pp. 666-673, 1999. 
+title: dynamictexturesegmentation year: ['2003'] span:(84,127) 
+CONF!!! Discriminative random fields: A discriminative framework for contextual interaction in classification,,in proc. iccv. ieee comp. society, 2003. 
+title: discriminativerandomfieldsadiscriminativeframework year: ['2003'] span:(9,13) 
+CONF!!! Learning a classification model for segmentation,,in proc. iccv, 2003. 
+title: learningaclassificationmodelforsegmentation year: ['2003'] span:(9,13) 
+CONF!!! Detecting pedestrians using patterns of motion and appearance,,in proc. iccv, 2003. 
+title: detectingpedestriansusingpatternsofmotionandappear year: ['2003'] span:(9,13) 
+CONF!!! Discriminative Random Fields: A Discriminative Framework for Contextual Interaction in Classification,proc. of iccv, 2003. 
+title: discriminativerandomfieldsadiscriminativeframework year: ['2003'] span:(9,13) 
+CONF!!! Using Temporal Coherence to Build Models of Animals,iccv, 2003. 
+title: usingtemporalcoherencetobuildmodelsofanimals year: ['2003'] span:(0,4) 
+CONF!!! Probabilistic Boosting-Tree: Learning Discriminative Models for Classification, Recognition, and Clustering,proc. of iccv 2005. 
+title: andclustering year: ['2005'] span:(9,13) 
+BOOK!!! J. Zhong and S. Sclaroff. Segmenting foreground objects from a dynamic textured background via a robust kalman filter. International Conference on Computer Vision 2003, October 2003.,ieee trans. pami, vol. 18, no. 9, pp. 884-900, sept. 1996. 
+title: segmentingforegroundobjectsfromadynamictexturedbac year: ['2003', '2003'] span:(119,162) 
+BOOK!!! A. Broadhurst, T.W. Drummond, and R. Cipolla. A probabilistic framework for space carving. In IEEE Proceedings on International Conference on Computer Vision, 2001.,ieee trans. pami, vol. 18, no. 9, pp. 884-900, sept. 1996. 
+title: aprobabilisticframeworkforspacecarving year: ['2001'] span:(114,157) 
+BOOK!!! K. Grauman, G. Shakhnarovich, and T. Darrell. Inferring 3D structure with a statistical image-based shape model. In Proc. ICCV, vol. 2, pp. 641-648, 2003.,ieee trans. pami, vol. 18, no. 9, pp. 884-900, sept. 1996. 
+title: inferring3dstructurewithastatisticalimagebasedshap year: ['2003'] span:(122,126) 
+BOOK!!! A. A. Efros, A. C. Berg, G. Mori, and J. Malik. Recognizing action at a distance. ICCV, 2003.,ieee trans. pami, vol. 18, no. 9, pp. 884-900, sept. 1996. 
+title: recognizingactionatadistance year: ['2003'] span:(82,86) 
+BOOK!!! P. A. Viola, M. J. Jones, and D. Snow. Detecting pedestrians using patterns of motion and appearance. ICCV, 2003.,ieee trans. pami, vol. 18, no. 9, pp. 884-900, sept. 1996. 
+title: detectingpedestriansusingpatternsofmotionandappear year: ['2003'] span:(102,106) 
+BOOK!!! Octavia I. Camps, Hwasup Lim, Cecilia Mazzaro, and Mario Sznaier. A caratheodory-fejer approach to robust multiframe tracking. In ICCV, pages 1048-1055, 2003.,cvc technical repoer #24. june 1998, purdue university. 
+title: acaratheodoryfejerapproachtorobustmultiframetracki year: ['2003'] span:(130,134) 
+BOOK!!! H. Jin, P. Favaro, and S. Soatto. Real-time feature tracking and outlier rejection with changes in illumination. In ICCV, pages 684-689, 2001.,cvc technical repoer #24. june 1998, purdue university. 
+title: realtimefeaturetrackingandoutlierrejectionwithchan year: ['2001'] span:(116,120) 
+CONF!!! Recognising panoramas,iccv, 2003. 
+title: recognisingpanoramas year: ['2003'] span:(0,4) 
+BOOK!!! I. Laptev and T. Lindeberg. Space-time interest points, In Proc. ICCV, pages 432-439, 2003.,submitted, ijcv, 2004. 
+title: spacetimeinterestpoints year: ['2003'] span:(65,69) 
+BOOK!!! C. Rao, A. Gritai, M. Shah, and T. Syeda-Mahmaod, View-invariant alignment and matching of video sequences. In Proc. ICCV, pages 939-945, 2003.,submitted, ijcv, 2004. 
+title: viewinvariantalignmentandmatchingofvideosequences year: ['2003'] span:(117,121) 
+BOOK!!! X. Ren, C. Fowlkes, and J. Malik. Scale-invariant contour completion using conditional random fields. In ICCV, 2005.,submitted, ijcv, 2004. 
+title: scaleinvariantcontourcompletionusingconditionalran year: ['2005'] span:(105,109) 
+BOOK!!! G. Shakhnarovich, P. Viola, and T. Darrell. Fast pose estimation with parameter sensitive hashing. In ICCV, volume 2, pages 750-757, 2003.,submitted, ijcv, 2004. 
+title: fastposeestimationwithparametersensitivehashing year: ['2003'] span:(102,106) 
+BOOK!!! P. Viola, M. Jones, and D. Snow. Detecting pedestrians using patterns of motion and appearance. In ICCV, pages 734-741, 2003.,submitted, ijcv, 2004. 
+title: detectingpedestriansusingpatternsofmotionandappear year: ['2003'] span:(99,103) 
+CONF!!! Video Google: A Text Retrieval Approach to Object Matching in Videos,,iccv 2003. 
+title: videogoogleatextretrievalapproachtoobjectmatchingi year: ['2003'] span:(0,4) 
+CONF!!! Image-based rendering using image-based priors,international conference on computer vision (iccv), pp. 1176-1183, 2003. 
+title: imagebasedrenderingusingimagebasedpriors year: ['2003'] span:(45,49) 
+CONF!!! Real Time Pattern Matching Using Projection Kernels,,iccv, pp. 1486-1493, 2003. 
+title: realtimepatternmatchingusingprojectionkernels year: ['2003'] span:(0,4) 
+CONF!!! Detecting pedestrians using patterns of motion and appearance,,in iccv'03, pp. 734-741, nice, france, 2003. 
+title: detectingpedestriansusingpatternsofmotionandappear year: ['2003'] span:(3,7) 
+BOOK!!! S. Romdhani and T. Vetter. Efficient, robust and accurate fitting of a 3d morphable model. In Proc. of International Conference on Computer Vision, volume 1, pages 59-66. IEEE, 2003.,in iccv'03, pp. 734-741, nice, france, 2003. 
+title: robustandaccuratefittingofa3dmorphablemodel year: ['2003'] span:(103,146) 
+BOOK!!! G. Dorko and C. Schmid. Selection of scale invariant parts for object class recognition. In Proc. ICCV, Oct. 2003.,in iccv'03, pp. 734-741, nice, france, 2003. 
+title: selectionofscaleinvariantpartsforobjectclassrecogn year: ['2003'] span:(98,102) 
+BOOK!!! S. Kumar and M. Herbert. Discriminative random fields: A discriminative framework for contextual interaction in classification. In Proc. ICCV, Oct. 2003.,in iccv'03, pp. 734-741, nice, france, 2003. 
+title: discriminativerandomfieldsadiscriminativeframework year: ['2003'] span:(137,141) 
+BOOK!!! J. Sivic and A. Zisserman. Video google: A text retrieval approach to object matching in videos. In Proc. ICCV, Oct. 2003.,in iccv'03, pp. 734-741, nice, france, 2003. 
+title: videogoogleatextretrievalapproachtoobjectmatchingi year: ['2003'] span:(106,110) 
+BOOK!!! A.B. Torralba, K.P. Murphy, W.T. Freeman, and M.A. Rubin. Context-based vision system for place and object recognition. In Proc. ICCV, Oct. 2003.,in iccv'03, pp. 734-741, nice, france, 2003. 
+title: contextbasedvisionsystemforplaceandobjectrecogniti year: ['2003'] span:(129,133) 
+BOOK!!! M. Brown and D. G. Lowe. Recognising panoramas. In Proc. ICCV, pages 1218-1225, 2003.,chapman and hall publications, 2003 
+title: recognisingpanoramas year: ['2003'] span:(57,61) 
+BOOK!!! Y. Boykov and M. Jolly. Interactive graph cuts for optimal boundary and region segmentation of objects in n-d images. In ICCV, pages I: 105-112, 2001.,ieee signal processing magazine, vol. 20, pp. 21-36, may 2003 
+title: interactivegraphcutsforoptimalboundaryandregionseg year: ['2001'] span:(121,125) 
+BOOK!!! D. A. Forsyth. Shape from texture and integrability. In ICCV01, pages 447-452, 2001.,john wiley and sons inc., 2001. 
+title: shapefromtextureandintegrability year: ['2001'] span:(56,60) 
+BOOK!!! F. Kahl. Globally Optimal Estimates for Geometric Reconstruction Problems. In Int. Conf. on Computer Vision, Beijing, China, 2005.,john wiley and sons inc., 2001. 
+title: globallyoptimalestimatesforgeometricreconstruction year: ['2005'] span:(78,107) 
+BOOK!!! Z. Kim and J. Malik. Fast vehicle detection with probabilistic feature grouping and its application to vehicle tracking. In ICCV, pages 524-531, 2003.,john wiley and sons inc., 2001. 
+title: fastvehicledetectionwithprobabilisticfeaturegroupi year: ['2003'] span:(124,128) 
+BOOK!!! A. Torralba and P. Sinha. Statistical context priming for object detection. In. ICCV, pages 763-770, 2001.,john wiley and sons inc., 2001. 
+title: statisticalcontextprimingforobjectdetection year: ['2001'] span:(80,84) 
+BOOK!!! Z. Tu, X. Chen, A. L. Yuille, and S.-C. Zhu. Image parsing: unifying segmentation, detection, and recognition. In ICCV, pages 18-25, 2003.,john wiley and sons inc., 2001. 
+title: andrecognition year: ['2003'] span:(114,118) 
+BOOK!!! T. Zhao and R. Nevatia. Car detection in low resolution aerial image. In. ICCV, pages 710-717, 2001.,john wiley and sons inc., 2001. 
+title: cardetectioninlowresolutionaerialimage year: ['2001'] span:(74,78) 
+BOOK!!! D. Ramanan and D. A. Forsyth. Using temporal coherence to build models of animals. In Proc. IEEE International Conference on Computer Vision, pages 338-345, Nice, France, Oct. 2003.,john wiley and sons inc., 2001. 
+title: usingtemporalcoherencetobuildmodelsofanimals year: ['2003'] span:(97,140) 
+BOOK!!! G. Shakhnarovich, P. Viola, and T. Darrell. Fast pose estimation with parameter sensitive hashing. In Proc. IEEE International Conference on Computer Vision, volume 2, pages 750 -757, Nice, France, October 2003.,john wiley and sons inc., 2001. 
+title: fastposeestimationwithparametersensitivehashing year: ['2003'] span:(113,156) 
+BOOK!!! B. Stenger, A. Thayananthan, P. H. S. Torr, and R. Cipolla. Filtering using a tree-based estimator. In Proc. IEEE International Conference on Computer Vision, volume 2, pages 1063 -1070, Nice, France, October 2003.,john wiley and sons inc., 2001. 
+title: filteringusingatreebasedestimator year: ['2003'] span:(114,157) 
+BOOK!!! D. Gutchess, M. Trajković, E. Cohen-Solal, D. Lyons, and A. Jain. A background model initialization algorithm for video surveillance. In ICCV, pages 733-740, 2001.,john wiley and sons inc., 2001. 
+title: abackgroundmodelinitializationalgorithmforvideosur year: ['2001'] span:(137,141) 
+BOOK!!! M. F. Tappen and W. T. Freeman. Comparison of graph cuts with belief propagation for stereo, using identical MRF parameters. In International Conference on Computer Vision, pages 900-907. 2003.,john wiley and sons inc., 2001. 
+title: usingidenticalmrfparameters year: ['2003'] span:(128,171) 
+CONF!!! Deriving Intrinsic Images from Image Sequences,,proc. of leee iccv, 2001. 
+title: derivingintrinsicimagesfromimagesequences year: ['2001'] span:(14,18) 
+BOOK!!! D. Skocaj and A. Leonardis. Weighted and robust incremental method for subspace learning. In Proc. 9 Int. Conf. on Computer Vision, 2003.,proc. of eccv, 2004. 
+title: weightedandrobustincrementalmethodforsubspacelearn year: ['2003'] span:(101,130) 
+BOOK!!! H. Cao, X. Ding, and C. Liu. A cylindrical surface model to rectify the bound document image. In ICCV'2003, pages 228-233, 2003.,cviu, 1998. 
+title: acylindricalsurfacemodeltorectifythebounddocumenti year: ['2003', '2003'] span:(97,101) 
+BOOK!!! Y. Weiss. Deriving intrinsic images from image sequences. In ICCV'01, pages II: 68-75, July 2001.,cviu, 1998. 
+title: derivingintrinsicimagesfromimagesequences year: ['2001'] span:(61,65) 
+BOOK!!! T. Zhao, R. Nevatia. Car Detection in low resolution aerial image. IEEE Intl. Conf. Computer Vision, 2001.,cviu, 1998. 
+title: cardetectioninlowresolutionaerialimage year: ['2001'] span:(72,99) 
+BOOK!!! Z. Kim, J. Malik. Fast Vehicle Detection with Probabilistic Feature Grouping and its Application to Vehicle Tracking. In Proc. IEEE Intl. Conf. Computer Vision, 2003,cviu, 1998. 
+title: fastvehicledetectionwithprobabilisticfeaturegroupi year: ['2003'] span:(132,159) 
+BOOK!!! Z. Tu, X. Chen, A.L. Yuille and S.C. Zhu. Image Parsing: Unifying Segmentation, Detection, and Recognition. International Conference on Computer Vision, 2003.,cviu, 1998. 
+title: andrecognition year: ['2003'] span:(108,151) 
+BOOK!!! Y. Boykov and M. Jolly. Interactive graph cuts for optimal boundary and region segmentation of objects in n-d images. In International Conference on Computer Vision, pages Vol 1:105-112, Vancouver, Canada, July 2001.,cviu, 1998. 
+title: interactivegraphcutsforoptimalboundaryandregionseg year: ['2001'] span:(121,164) 
+BOOK!!! K. Mikolajczyk and C. Schmid. Indexing based on scale invariant interest points. Proc. ICCV, pages 525-531, 2001.,: interactive foreground extraction using iterated graph cuts. acm transactions on graphics, 23(3):309-314, 2004. 
+title: indexingbasedonscaleinvariantinterestpoints year: ['2001'] span:(87,91) 
+BOOK!!! Y. Shan, Z. Liu, and Z. Zhang. Model-based Bundle Adjustment with Application to Face Modeling. In Proc. ICCV, pages 644-651, 2001.,: interactive foreground extraction using iterated graph cuts. acm transactions on graphics, 23(3):309-314, 2004. 
+title: modelbasedbundleadjustmentwithapplicationtofacemod year: ['2001'] span:(105,109) 
+BOOK!!! R. Xiao, L. Zhu, and H.J. Zhang. Boosting Chain Learning for Object Detection. In Proc. ICCV, pages 709-715, 2003.,: interactive foreground extraction using iterated graph cuts. acm transactions on graphics, 23(3):309-314, 2004. 
+title: boostingchainlearningforobjectdetection year: ['2003'] span:(88,92) 
+CONF!!! Learning a Locality Preserving Subspace for Visual Recognition,,proc. 9th international conference on computer vision, nice, france, 2003. 
+title: learningalocalitypreservingsubspaceforvisualrecogn year: ['2003'] span:(10,53) 
+BOOK!!! S. Belongie, J. Malik, and J. Puzicha. Matching shapes. In ICCV, volume 1, pages 454-461, July 2001.,journal of cognitive neuroscience, 3(1):71-86, 1991. 
+title: matchingshapes year: ['2001'] span:(59,63) 
+BOOK!!! S. Kumar and M. Hebert. Discriminative random fields: A discriminative framework for contextual interaction in classification. In ICCV, pages 1150-1159, 2003.,journal of cognitive neuroscience, 3(1):71-86, 1991. 
+title: discriminativerandomfieldsadiscriminativeframework year: ['2003'] span:(130,134) 
+BOOK!!! Z. Tu, X. Chen, A. Yuille, and S. Zhu. Image parsing: segmentation, detection, and recognition. In ICCV, pages 18-25, 2003.,journal of cognitive neuroscience, 3(1):71-86, 1991. 
+title: andrecognition year: ['2003'] span:(99,103) 
+BOOK!!! Y. Boykov and V. Kolmogorov. Computing geodesics and minimal surfaces via graph cuts. In Proc. of International Conf. on Computer Vision, IEEE, 2003.,journal of cognitive neuroscience, 3(1):71-86, 1991. 
+title: computinggeodesicsandminimalsurfacesviagraphcuts year: ['2003'] span:(98,136) 
+BOOK!!! A. Broadhurst, T. Drummond, and R. Cipolla. A probabilistic framework for space carving. In Proc. of Int. Conf. on Computer Vision, IEEE, 2001.,journal of cognitive neuroscience, 3(1):71-86, 1991. 
+title: aprobabilisticframeworkforspacecarving year: ['2001'] span:(101,130) 
+BOOK!!! J. Isidoro and S. Sclaroff. Stochastic refinement of the visual hull to satisfy photometric and silhouette consistency constraints. In Proc. of Int. Conf. on Computer Vision, IEEE, 2003.,journal of cognitive neuroscience, 3(1):71-86, 1991. 
+title: stochasticrefinementofthevisualhulltosatisfyphotom year: ['2003'] span:(144,173) 
+BOOK!!! M. Lhuillier and L. Quan. Surface reconstruction by integrating 3D and 2D data of multiple views. In Proc. of Int. Conf. on Computer Vision. IEEE, October 2003.,journal of cognitive neuroscience, 3(1):71-86, 1991. 
+title: surfacereconstructionbyintegrating3dand2ddataofmul year: ['2003'] span:(110,140) 
+BOOK!!! M. F. Tappen and W. T. Freeman. Comparison of graph cuts with belief propagation for stereo, using identical mrf parameters. In Proc. of Int. Conf. on Computer Vision, 2003.,journal of cognitive neuroscience, 3(1):71-86, 1991. 
+title: usingidenticalmrfparameters year: ['2003'] span:(137,166) 
+BOOK!!! S. Gong and T. Xiang. Recognition of group activities using dynamic probabilistic networks. In ICCV, 2003.,journal of cognitive neuroscience, 3(1):71-86, 1991. 
+title: recognitionofgroupactivitiesusingdynamicprobabilis year: ['2003'] span:(95,99) 
+BOOK!!! S. Yu and J. Shi. Multiclass spectral clustering. In ICCV, pages 313-319, 2003.,journal of cognitive neuroscience, 3(1):71-86, 1991. 
+title: multiclassspectralclustering year: ['2003'] span:(53,57) 
+CONF!!! An efficient image similarity measure based on approximations of KL-divergence between two gaussian mixtures,,in iccv03, nice, france, 2003, pp. 487-493. 
+title: anefficientimagesimilaritymeasurebasedonapproximat year: ['2003'] span:(3,7) 
+CONF!!! A global matching framework for stereo computation,,iccv, pp. 532-539, 2001. 
+title: aglobalmatchingframeworkforstereocomputation year: ['2001'] span:(0,4) 
+BOOK!!! H. Tao, H. S. Sawhney, and R. Kumar. A global matching framework for stereo computation. In Proc. ICCV, volume 1, pages 532-539, 2001.,acm siggraph, pp. 600-608, 2004. 
+title: aglobalmatchingframeworkforstereocomputation year: ['2001'] span:(98,102) 
+BOOK!!! F. Li, R. Fergus, and P. Perona. A Bayesian approach to unsupervised one-shot learning of object categories. In ICCV, volume 2, pages 1134-1141, 2003.,acm siggraph, pp. 600-608, 2004. 
+title: abayesianapproachtounsupervisedoneshotlearningofob year: ['2003'] span:(112,116) 
+BOOK!!! Z. Tu, X. Chen, A. L. Yuille, and S. C. Zhu. Image parsing: Unifying segmentation, detection, and recognition. In ICCV, volume 1, pages 18-25, 2003.,acm siggraph, pp. 600-608, 2004. 
+title: andrecognition year: ['2003'] span:(114,118) 
+CONF!!! Kernel Machine Based Learning for Multi-View Face Detection and Pose Estimation,,iccv, 2001. 
+title: kernelmachinebasedlearningformultiviewfacedetectio year: ['2001'] span:(0,4) 
+BOOK!!! D. Comaniciu, V. Ramesh, and P. Meer. The variable bandwidth mean shift and data-driven scale selection. In ICCV'01, 2001.,cvpr, 2004. 
+title: thevariablebandwidthmeanshiftanddatadrivenscalesel year: ['2001'] span:(108,112) 
+BOOK!!! F. Li, R. Fergus, and P. Perona. A bayesian approach to unsupervised one-shot learning of object categories. In ICCV'03, 2003.,cvpr, 2004. 
+title: abayesianapproachtounsupervisedoneshotlearningofob year: ['2003'] span:(112,116) 
+BOOK!!! D. Skočaj and A. Leonardis. Weighted and robust incremental method for subspace learning. In ICCV'03, pages 1494-1501, 2003.,cvpr, 2004. 
+title: weightedandrobustincrementalmethodforsubspacelearn year: ['2003'] span:(93,97) 
+BOOK!!! Z. Tu, X. Chen, A. L. Yuille, and S. C. Zhu. Image parsing: Unifying segmentation, detection, and recognition. In ICCV'03, 2003.,cvpr, 2004. 
+title: andrecognition year: ['2003'] span:(114,118) 
+BOOK!!! P. Viola, M. Jones, and D. Snow. Detecting pedestrians using patterns of motion and appearance. In ICCV'03, pages 734-741, 2003.,cvpr, 2004. 
+title: detectingpedestriansusingpatternsofmotionandappear year: ['2003'] span:(99,103) 
+BOOK!!! C. Wallraven, B. Caputo, and A. Graf. Recognition with local features: the kernel recipe. In ICCV'03, 2003.,cvpr, 2004. 
+title: recognitionwithlocalfeaturesthekernelrecipe year: ['2003'] span:(93,97) 
+CONF!!! A Bayesian Approach to Unsupervised One-Shot Learning of Object Categories,,iccv, vol. 2, pp. 1134-1141, 2003. 
+title: abayesianapproachtounsupervisedoneshotlearningofob year: ['2003'] span:(0,4) 
+CONF!!! Minimum Risk Distance Measure for Object Recognition,,iccv, pp. 242-248, 2003. 
+title: minimumriskdistancemeasureforobjectrecognition year: ['2003'] span:(0,4) 
+CONF!!! Probabilistic Tracking in a Metric Space,,iccv, vol. 2, pp. 50-57, 2001. 
+title: probabilistictrackinginametricspace year: ['2001'] span:(0,4) 
+CONF!!! Feature Selection for Unsupervised and Supervised Inference: the Emergence of Sparsity in a Weighted-Based Approach,,iccv, pp. 378-384, 2003. 
+title: featureselectionforunsupervisedandsupervisedinfere year: ['2003'] span:(0,4) 
+BOOK!!! J.-P. Pons, R. Keriven, O. Faugeras, and G. Hermosillo. Variational Stereovision and 3d scene flow estimation with statistical similarity measures. IEEE International Conference on Computer Vision, pages 597-602, 2003.,nips 15, pp. 505-512, 2002. 
+title: variationalstereovisionand3dsceneflowestimationwit year: ['2003'] span:(153,196) 
+BOOK!!! A. A. Efros, A. C. Berg, G. Mori, and J. Malik. Recognizing action at a distance. ICCV, October 2003.,nips 15, pp. 505-512, 2002. 
+title: recognizingactionatadistance year: ['2003'] span:(82,86) 
+BOOK!!! I. Laptev and T. Lindeberg. Space-time interest points. ICCV, 2003.,nips 15, pp. 505-512, 2002. 
+title: spacetimeinterestpoints year: ['2003'] span:(56,60) 
+BOOK!!! Y. Boykov and V. Kolmogorov. Computing geodesics and minimal surfaces via graph cuts. In International Conference on Computer Vision, volume 1, pages 26-33, 2003.,nips 15, pp. 505-512, 2002. 
+title: computinggeodesicsandminimalsurfacesviagraphcuts year: ['2003'] span:(89,132) 
+BOOK!!! J.-P. Pons, G. Hermosillo, R. Keriven, and O. Faugeras. How to deal with point correspondences and tangential velocities in the level set framework. In International Conference on Computer Vision, volume 2, pages 894-899, 2003.,nips 15, pp. 505-512, 2002. 
+title: howtodealwithpointcorrespondencesandtangentialvelo year: ['2003'] span:(152,195) 
+BOOK!!! K. Hara, K. Nishino, and K. Ikeuchi. Determining reflectance and light position from a single image without distant illumination assumption. In Proc. ICCV, pages 560-567, 2003.,nips 15, pp. 505-512, 2002. 
+title: determiningreflectanceandlightpositionfromasinglei year: ['2003'] span:(150,154) 
+BOOK!!! T. Machida, N. Yokoya, and H. Takemura. Surface reflectance modeling of real objects with interreflections. In Proc. ICCV, pages 170-177, 2003.,nips 15, pp. 505-512, 2002. 
+title: surfacereflectancemodelingofrealobjectswithinterre year: ['2003'] span:(117,121) 
+BOOK!!! D. Miyazaki, M. Kagesawa, and K. Ikeuchi. Polarization-based transparent surface modeling from two views. In Proc. ICCV, pages 1381-1386, 2003.,nips 15, pp. 505-512, 2002. 
+title: polarizationbasedtransparentsurfacemodelingfromtwo year: ['2003'] span:(115,119) 
+BOOK!!! D. Miyazaki, R. T. Tan, K. Hara, and K. Ikeuchi. Polarization-based inverse rendering from a single view. In Proc. ICCV, pages 982-987, 2003.,nips 15, pp. 505-512, 2002. 
+title: polarizationbasedinverserenderingfromasingleview year: ['2003'] span:(115,119) 
+BOOK!!! K. Nishino, Z. Zhang, and K. Ikeuchi. Determining reflectance parameters and illumination distribution from a sparse set of images for view-dependent image synthesis. In Proc. ICCV, pages 599-606, 2001.,nips 15, pp. 505-512, 2002. 
+title: determiningreflectanceparametersandilluminationdis year: ['2001'] span:(176,180) 
+BOOK!!! R. T. Tan and K. Ikeuchi. Separating reflection components of textured surfaces using a single image. In Proc. ICCV, pages 870-877, 2003.,nips 15, pp. 505-512, 2002. 
+title: separatingreflectioncomponentsoftexturedsurfacesus year: ['2003'] span:(111,115) 
+BOOK!!! X. Ren and J. Malik. Learning a classification model for segmentation. In Proc. 9th Int. Conf. Computer Vision, volume 1, pages 10-17, 2003.,nips 15, pp. 505-512, 2002. 
+title: learningaclassificationmodelforsegmentation year: ['2003'] span:(84,110) 
+BOOK!!! G. Shakhnarovich, P. Viola, and T. Darrell. Fast pose estimation with parameter sensitive hashing. In Proc. 9th Int. Conf. Computer Vision, volume 2, pages 750-757, 2003.,nips 15, pp. 505-512, 2002. 
+title: fastposeestimationwithparametersensitivehashing year: ['2003'] span:(112,138) 
+BOOK!!! H. Tao, H. Sawhney, and R. Kumar. A global matching framework for stereo computation. In Proc. 8th Int. Conf. Computer Vision, 2001.,nips 15, pp. 505-512, 2002. 
+title: aglobalmatchingframeworkforstereocomputation year: ['2001'] span:(99,125) 
+BOOK!!! Z. Tu, X. Chen, A. Yuille, and S. Zhu. Image parsing: segmentation, detection, and recognition. In Proc. 9th Int. Conf. Computer Vision, pages 18-25, 2003.,nips 15, pp. 505-512, 2002. 
+title: andrecognition year: ['2003'] span:(109,135) 
+CONF!!! Surface reflectance modeling of real objects with interreflections,,in proc. int. conf. on computer vision, pp. 170-177, 2003. 
+title: surfacereflectancemodelingofrealobjectswithinterre year: ['2003'] span:(9,38) 
+BOOK!!! K. Mikolajczyk and C. Schmid. Indexing Based on Scale Invariant Interest Points. In Proc. IEEE International Conf. on Computer Vision, Vancouver, Canada, July 2001.,. 
+title: indexingbasedonscaleinvariantinterestpoints year: ['2001'] span:(95,133) 
+BOOK!!! J. Sivic and A. Zisserman. Video Google: A Text Retrieval Approach to Object Matching in Videos. In Proc. IEEE International Conf. on Computer Vision, Nice, Oct 2003.,. 
+title: videogoogleatextretrievalapproachtoobjectmatchingi year: ['2003'] span:(111,149) 
+BOOK!!! C. Wallraven, B. Caputo, and A. Graf. Recognition with Local Features: the Kernel Recipe. In Proc. IEEE International Conf. on Computer Vision, Nice, France, Oct 2003.,. 
+title: recognitionwithlocalfeaturesthekernelrecipe year: ['2003'] span:(104,142) 
+BOOK!!! S. Belongie, J. Malik, and J. Puzicha. Matching shapes. In Proc. ICCV, 2001.,eccv, pp 642-651, 1996. 
+title: matchingshapes year: ['2001'] span:(65,69) 
+BOOK!!! C. en Guo, S.-C. Zhu, and Y. N. Wu. Towards a mathematical theory of primal sketch and sketchability. In Proc. ICCV, page 1228, 2003.,eccv, pp 642-651, 1996. 
+title: towardsamathematicaltheoryofprimalsketchandsketcha year: ['2003'] span:(111,115) 
+BOOK!!! F. Schaffalitzky and A. Zisserman. Viewpoint invariant texture matching and wide baseline stereo. In Proc. ICCV, July 2001.,eccv, pp 642-651, 1996. 
+title: viewpointinvarianttexturematchingandwidebaselinest year: ['2001'] span:(107,111) 
+CONF!!! Occlusion robust adaptive template tracking,,in proc. 8th intl. conf. on computer vision, vancouver, canada, october 2001. 
+title: occlusionrobustadaptivetemplatetracking year: ['2001'] span:(13,43) 
+BOOK!!! A. J. Davison. Real-time simultaneous localisation and mapping with a single camera. In Proc. 9th Intl. Conference on Computer Vision, pages 1403-1401, Oct. 2003.,in proc. ieee conf. on computer vision and pattern recognition, kauai, hawaii, 2001, pp. 511-518. 
+title: realtimesimultaneouslocalisationandmappingwithasin year: ['2003'] span:(98,133) 
+BOOK!!! D. Aliaga. Accurate catadioptric calibration for real-time pose estimation of room-size environments. In ICCV, 2001.,in proc. ieee conf. on computer vision and pattern recognition, kauai, hawaii, 2001, pp. 511-518. 
+title: accuratecatadioptriccalibrationforrealtimeposeesti year: ['2001'] span:(105,109) 
+BOOK!!! M. Grossberg and S. Nayar. A general imaging model and a method for finding its parameters. In ICCV, 2001.,in proc. ieee conf. on computer vision and pattern recognition, kauai, hawaii, 2001, pp. 511-518. 
+title: ageneralimagingmodelandamethodforfindingitsparamet year: ['2001'] span:(95,99) 
+BOOK!!! X. Ying and Z. Hu. Catadioptric camera calibration using geometric invariants. In ICCV, 2003.,in proc. ieee conf. on computer vision and pattern recognition, kauai, hawaii, 2001, pp. 511-518. 
+title: catadioptriccameracalibrationusinggeometricinvaria year: ['2003'] span:(82,86) 
+CONF!!! Accurate catadioptric calibration for real-time pose estimation in room-size environments,the 8th international conference on computer vision, 2001, pp. 127-134. 
+title: accuratecatadioptriccalibrationforrealtimeposeesti year: ['2001'] span:(8,51) 
+BOOK!!! C. Wallraven, B. Caputo, A. Graf. Recognition with local features: the kernel recipe. ICCV2003.,proc. iccv'05. 
+title: recognitionwithlocalfeaturesthekernelrecipe year: ['2003'] span:(86,90) 
+CONF!!! Multiple-cue illumination estimation in textured scenes,,intl. conf. computer vision, pp. 1366-1373, 2003. 
+title: multiplecueilluminationestimationintexturedscenes year: ['2003'] span:(0,27) 
+CONF!!! A Probabilistic framework for space carving.,proceedings of iccv, pp. 388393, 2001. 
+title: aprobabilisticframeworkforspacecarving year: ['2001'] span:(15,19) 
+CONF!!! Stochastic refinement of the visual hull to satisfy photometric and silhouette consistency constraints,,proceedings of iccv, pp. 1335-1342, 2003. 
+title: stochasticrefinementofthevisualhulltosatisfyphotom year: ['2003'] span:(15,19) 
+CONF!!! Shape and motion under varying illumination: Unifying structure from motion, photometric stereo, and multi-view stereo,,proceedings of iccv, pp. 618-625, 2003. 
+title: andmultiviewstereo year: ['2003'] span:(15,19) 
+BOOK!!! J. Jia and C.-K. Tang. Image registration with global and local luminance alignment. In ICCV03, pages I: 156-163, 2003.,proceedings of cvpr, pp.158-164, 1997. 
+title: imageregistrationwithglobalandlocalluminancealignm year: ['2003'] span:(88,92) 
+CONF!!! Shape and Motion under Varying Illumination: Unifying Structure from Motion, Photometric Stereo, and Multi-view Stereo,proceedings of the 9th ieee international conference on computer vision, pp.618-625, 13-16 oct., 2003. 
+title: andmultiviewstereo year: ['2003'] span:(28,71) 
+BOOK!!! P. Tan, S. Lin, L. Quan, and H.-Y. Shum. Highlight removal by illumination-constrained inpainting. In Proc. ICCV, pages 164-169, 2003.,proceedings of the 9th ieee international conference on computer vision, pp.618-625, 13-16 oct., 2003. 
+title: highlightremovalbyilluminationconstrainedinpaintin year: ['2003'] span:(108,112) 
+BOOK!!! R. T. Tan and K. Ikeuchi. Separating reflection components of textured surfaces using a single image. In Proc. ICCV, pages 870-877, 2003.,proceedings of the 9th ieee international conference on computer vision, pp.618-625, 13-16 oct., 2003. 
+title: separatingreflectioncomponentsoftexturedsurfacesus year: ['2003'] span:(111,115) 
+BOOK!!! X. Tang and X. Wang. Face sketch synthesis and recognition. Proc. of ICCV'03, pages 687-694, 2003.,proceedings of the 9th ieee international conference on computer vision, pp.618-625, 13-16 oct., 2003. 
+title: facesketchsynthesisandrecognition year: ['2003'] span:(69,73) 
+CONF!!! A Class of Photometric Invariants: Separating Material from Shape and Illumination,,international conference on computer vision, pp. 1387-1394, 2003. 
+title: aclassofphotometricinvariantsseparatingmaterialfro year: ['2003'] span:(0,43) 
+BOOK!!! D. Nister. Preemptive RANSAC for live structure and motion estimation. In Proc. ICCV03, volume I, pages 199-206, October 2003.,josa a, 11(11):30903100, 1994. 
+title: preemptiveransacforlivestructureandmotionestimatio year: ['2003'] span:(80,84) 
+BOOK!!! J. Isidore and S. Sclaroff. Stochastic refinement of the visual hull to satisfy photometric and silhouette consistency constraints. In ICCV'03, pages 1335-1342, 2003.,josa a, 11(11):30903100, 1994. 
+title: stochasticrefinementofthevisualhulltosatisfyphotom year: ['2003'] span:(135,139) 
+BOOK!!! F.F. Li, R. Fergus, and Perona P. A bayesian approach to unsupervised one shot learning of object catgories. In ICCV, 2003.,josa a, 11(11):30903100, 1994. 
+title: abayesianapproachtounsupervisedoneshotlearningofob year: ['2003'] span:(112,116) 
+BOOK!!! Vidal-Naquet M. and Ullman S. Object recognition with informative features and linear classification. In ICCV, 2003.,josa a, 11(11):30903100, 1994. 
+title: objectrecognitionwithinformativefeaturesandlinearc year: ['2003'] span:(105,109) 
+BOOK!!! Z. Tu, X. Chen, A. Yuille, and S. Zhu. Image parsing: unifying segmentation, detection, and recognition. ICCV, 2003.,. first ieee workshop on face processing in video. june 28, 2004, washington, d.c., usa. 
+title: andrecognition year: ['2003'] span:(105,109) 
+BOOK!!! G. Dorko and C. Schmid. Selection of scale-invariant parts for object class recognition. In ICCV, pages 634-640, 2003.,cambridge, ma: mit press, 1993. 
+title: selectionofscaleinvariantpartsforobjectclassrecogn year: ['2003'] span:(92,96) 
+BOOK!!! S. Gong and T. Xing. Recognition of group activities using dynamic probabilistic networks. In ICCV, 2003.,cambridge, ma: mit press, 1993. 
+title: recognitionofgroupactivitiesusingdynamicprobabilis year: ['2003'] span:(94,98) 
+BOOK!!! S. Kumar and M. Hebert. Discriminative random fields: A discriminative framework for contextual interaction and classification. In ICCV, 2003.,cambridge, ma: mit press, 1993. 
+title: discriminativerandomfieldsadiscriminativeframework year: ['2003'] span:(131,135) 
+BOOK!!! L. Fei-Fei, R. Fergus, and P. Perona. A Bayesian approach to unsupervised one-shot learning of object categories. In Proc. ICCV, pages 1134-1141, Oct 2003.,cambridge, ma: mit press, 1993. 
+title: abayesianapproachtounsupervisedoneshotlearningofob year: ['2003'] span:(123,127) 
+BOOK!!! K. Mikolajczyk and C. Schmid. Indexing based on scale invariant interest points. In Proc. ICCV, 2001.,cambridge, ma: mit press, 1993. 
+title: indexingbasedonscaleinvariantinterestpoints year: ['2001'] span:(90,94) 
+BOOK!!! J. Sivic and A. Zisserman. Video Google: A text retrieval approach to object matching in videos. In Proc. ICCV, Oct 2003.,cambridge, ma: mit press, 1993. 
+title: videogoogleatextretrievalapproachtoobjectmatchingi year: ['2003'] span:(106,110) 
+BOOK!!! N. Vidal-Naquet and S. Ullman. Object recognition with informative features and linear classification. In Proc. ICCV, 2003.,cambridge, ma: mit press, 1993. 
+title: objectrecognitionwithinformativefeaturesandlinearc year: ['2003'] span:(112,116) 
+BOOK!!! O. Javed, Z. Rasheed, K. Shafique, and M. Shah. Tracking across multiple cameras with disjoint views. In International Conference on Computer Vision, 2003.,cambridge, ma: mit press, 1993. 
+title: trackingacrossmultiplecameraswithdisjointviews year: ['2003'] span:(105,148) 
+BOOK!!! A. Georghiades. Incorporating the Torrance and Sparrow model of reflectance in uncalibrated photometric stereo. In Proc. IEEE International Conference on Computer Vision, volume 2, pages 816-823, 2003.,cambridge, ma: mit press, 1993. 
+title: incorporatingthetorranceandsparrowmodelofreflectan year: ['2003'] span:(126,169) 

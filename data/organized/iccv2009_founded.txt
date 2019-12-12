@@ -1,0 +1,934 @@
+CONF!!! LOCUS: Learning object classes with unsupervised segmentation,iccv, 2005. 
+title: locuslearningobjectclasseswithunsupervisedsegmenta year: ['2005'] span:(0,4) 
+CONF!!! Recovering occlusion boundaries from a single image,iccv, 2007. 
+title: recoveringocclusionboundariesfromasingleimage year: ['2007'] span:(0,4) 
+CONF!!! Scale-invariant contour completion using conditional random fields,iccv, vol. 2, pp. 1214-1221, 2005. 
+title: scaleinvariantcontourcompletionusingconditionalran year: ['2005'] span:(0,4) 
+CONF!!! Interactive graph cuts for optimal boundary & region segmentation of objects in n-d images,ieee int. conf. on comp. vision, vol. 1, pp. 105-112, 2001. 
+title: interactivegraphcutsforoptimalboundaryandregionseg year: ['2001'] span:(5,31) 
+CONF!!! Introducing curvature into globally optimal image segmentation: Minimum ratio cycles on product graphs,ieee int. conf. on comp. vision, october 2007. 
+title: introducingcurvatureintogloballyoptimalimagesegmen year: ['2007'] span:(5,31) 
+CONF!!! Matching Shapes,iccv 2001, vol. 1, no. 1, pp. 454-461, 2001. 
+title: matchingshapes year: ['2001', '2001'] span:(0,4) 
+CONF!!! Depth and appearance for mobile scene analysis,iccv, october 2007. 
+title: depthandappearanceformobilesceneanalysis year: ['2007'] span:(0,4) 
+CONF!!! Real-time accurate object detection using multiple resolutions,iccv, 2007. 
+title: realtimeaccurateobjectdetectionusingmultipleresolu year: ['2007'] span:(0,4) 
+CONF!!! Detecting pedestrians using patterns of motion and appearance,iccv, vol. 2, pp. 734-741, 2003. 
+title: detectingpedestriansusingpatternsofmotionandappear year: ['2003'] span:(0,4) 
+CONF!!! The pyramid match kernel: Discriminative classification with sets of image features,iccv, 2005. 
+title: thepyramidmatchkerneldiscriminativeclassificationw year: ['2005'] span:(0,4) 
+CONF!!! Leveraging archival video for building face datasets,iccv, 2007. 
+title: leveragingarchivalvideoforbuildingfacedatasets year: ['2007'] span:(0,4) 
+CONF!!! Harvesting image databases from the web,iccv, 2007. 
+title: harvestingimagedatabasesfromtheweb year: ['2007'] span:(0,4) 
+CONF!!! Fast pose estimation with parameter-sensitive hashing,iccv, 2003. 
+title: fastposeestimationwithparametersensitivehashing year: ['2003'] span:(0,4) 
+CONF!!! Learning the discriminative power-invariance trade-off,iccv, 2007. 
+title: learningthediscriminativepowerinvariancetradeoff year: ['2007'] span:(0,4) 
+CONF!!! Simultaneous multiple 3D motion estimation via mode finding on Lie groups,proc. 10th intl. conf. on comp. vis., vol. 1, pp. 18-25, 2005. 
+title: simultaneousmultiple3dmotionestimationviamodefindi year: ['2005'] span:(11,36) 
+CONF!!! Background modeling and subtraction of dynamic scenes,proceedings of iccv, 2003. 
+title: backgroundmodelingandsubtractionofdynamicscenes year: ['2003'] span:(15,19) 
+CONF!!! Segmenting foreground objects from a dynamic textured background via a robust kalman filter,proceedings of iccv, 2003. 
+title: segmentingforegroundobjectsfromadynamictexturedbac year: ['2003'] span:(15,19) 
+CONF!!! Total recall: Automatic query expansion with a generative feature model for object retrieval,iccv, pp. 1-8, 2007. 
+title: totalrecallautomaticqueryexpansionwithagenerativef year: ['2007'] span:(0,4) 
+CONF!!! Scene summarization for online image collections,iccv, pp. 1-8, 2007. 
+title: scenesummarizationforonlineimagecollections year: ['2007'] span:(0,4) 
+CONF!!! Video Google: A text retrieval approach to object matching in videos,iccv, pp. 1470-1477, 2003. 
+title: videogoogleatextretrievalapproachtoobjectmatchingi year: ['2003'] span:(0,4) 
+CONF!!! Globally optimal affine and metric upgrades in stratified autocalibration,iccv, 2007. 
+title: globallyoptimalaffineandmetricupgradesinstratified year: ['2007'] span:(0,4) 
+CONF!!! Global optimization through searching rotation space and optimal estimation of the essential matrix,proc. iccv, 2007. 
+title: globaloptimizationthroughsearchingrotationspaceand year: ['2007'] span:(6,10) 
+CONF!!! Quasiconvex optimization for robust geometric reconstruction,proc. iccv, 2005. 
+title: quasiconvexoptimizationforrobustgeometricreconstru year: ['2005'] span:(6,10) 
+CONF!!! Exploiting occluding contours for real-time 3D tracking: A unified approach,proc. iccv, 2007. 
+title: exploitingoccludingcontoursforrealtime3dtrackingau year: ['2007'] span:(6,10) 
+CONF!!! Structure and motion from silhouettes,proc. iccv, 2001. 
+title: structureandmotionfromsilhouettes year: ['2001'] span:(6,10) 
+CONF!!! A biologically inspired system for action recognition,iccv, 2007. 
+title: abiologicallyinspiredsystemforactionrecognition year: ['2007'] span:(0,4) 
+CONF!!! Event detection in crowded videos,iccv, 2007. 
+title: eventdetectionincrowdedvideos year: ['2007'] span:(0,4) 
+CONF!!! Periodic motion detection and segmentation via approximate sequence alignment,iccv, pp. 816-823, 2005. 
+title: periodicmotiondetectionandsegmentationviaapproxima year: ['2005'] span:(0,4) 
+CONF!!! Discriminative subsequence mining for action classification,iccv, 2007. 
+title: discriminativesubsequenceminingforactionclassifica year: ['2007'] span:(0,4) 
+CONF!!! Inference of nonoverlapping camera network topology by measuring statistical dependence,iccv, pp. 1842-1849, 2005. 
+title: inferenceofnonoverlappingcameranetworktopologybyme year: ['2005'] span:(0,4) 
+CONF!!! Actions as space-time shapes,iccv, 2005. 
+title: actionsasspacetimeshapes year: ['2005'] span:(0,4) 
+CONF!!! Detecting irregularities in images and in video,iccv, 2005. 
+title: detectingirregularitiesinimagesandinvideo year: ['2005'] span:(0,4) 
+CONF!!! Recognizing action at a distance,iccv, 2003. 
+title: recognizingactionatadistance year: ['2003'] span:(0,4) 
+CONF!!! A biologically inspired system for action recognition,iccv, 2007. 
+title: abiologicallyinspiredsystemforactionrecognition year: ['2007'] span:(0,4) 
+CONF!!! Event detection in crowded videos,iccv, 2007. 
+title: eventdetectionincrowdedvideos year: ['2007'] span:(0,4) 
+CONF!!! Space-time interest points,iccv, 2003. 
+title: spacetimeinterestpoints year: ['2003'] span:(0,4) 
+CONF!!! A Scalable Approach to Activity Recognition based on Object Use,iccv, 2007. 
+title: ascalableapproachtoactivityrecognitionbasedonobjec year: ['2007'] span:(0,4) 
+CONF!!! A geodesic framework for fast interactive image and video segmentation and matting,iccv, 2007. 
+title: ageodesicframeworkforfastinteractiveimageandvideos year: ['2007'] span:(0,4) 
+CONF!!! Interactive graph cuts for optimal boundary & region segmentation of objects in n-d images,iccv, 2001. 
+title: interactivegraphcutsforoptimalboundaryandregionseg year: ['2001'] span:(0,4) 
+CONF!!! Geometric context from a single image,iccv, 2005. 
+title: geometriccontextfromasingleimage year: ['2005'] span:(0,4) 
+CONF!!! Learning 3-d scene structure from a single still image,iccv, 2007. 
+title: learning3dscenestructurefromasinglestillimage year: ['2007'] span:(0,4) 
+CONF!!! Non-homogeneous content-driven video-retargeting,iccv, 2007. 
+title: nonhomogeneouscontentdrivenvideoretargeting year: ['2007'] span:(0,4) 
+CONF!!! A database and evaluation methodology for optical flow,proc. iccv, 2007. 
+title: adatabaseandevaluationmethodologyforopticalflow year: ['2007'] span:(6,10) 
+CONF!!! Multi-View Stereo for Community Photo Collections,iccv, 2007. 
+title: multiviewstereoforcommunityphotocollections year: ['2007'] span:(0,4) 
+CONF!!! Multi-view stereo for community photo collections,proceedings of iccv, 2007. 
+title: multiviewstereoforcommunityphotocollections year: ['2007'] span:(15,19) 
+CONF!!! Shape and appearance repair for incomplete point surfaces,proceedings of iccv, pp. 1260-1267, 2005. 
+title: shapeandappearancerepairforincompletepointsurfaces year: ['2005'] span:(15,19) 
+CONF!!! Multispectral imaging using multiplexed illumination,iccv, 2007. 
+title: multispectralimagingusingmultiplexedillumination year: ['2007'] span:(0,4) 
+CONF!!! A practical single image based approach for estimating illumination distribution from shadows,iccv, 2005. 
+title: apracticalsingleimagebasedapproachforestimatingill year: ['2005'] span:(0,4) 
+CONF!!! Deriving intrinsic images from image sequences,iccv, 2001. 
+title: derivingintrinsicimagesfromimagesequences year: ['2001'] span:(0,4) 
+CONF!!! A bayesian approach for shadow extraction from a single image,iccv, 2005. 
+title: abayesianapproachforshadowextractionfromasingleima year: ['2005'] span:(0,4) 
+CONF!!! Toward a theory of shape from specular flow,iccv, 2007. 
+title: towardatheoryofshapefromspecularflow year: ['2007'] span:(0,4) 
+CONF!!! A theory of refractive and specular 3D shape by light-path triangulation,iccv, pp. 1448-1455, 2005. 
+title: atheoryofrefractiveandspecular3dshapebylightpathtr year: ['2005'] span:(0,4) 
+CONF!!! Non-parametric self-calibration,iccv, 2005. 
+title: nonparametricselfcalibration year: ['2005'] span:(0,4) 
+CONF!!! Recognising panoramas,iccv, pp. 1218-1227, 2003. 
+title: recognisingpanoramas year: ['2003'] span:(0,4) 
+CONF!!! N-dimensional probablility density function transfer and its application to colour transfer,iccv, pp. 1434-1439, 2005. 
+title: ndimensionalprobablilitydensityfunctiontransferand year: ['2005'] span:(0,4) 
+CONF!!! Color constancy using kl-divergence,iccv, pp. 239-246, 2001. 
+title: colorconstancyusingkldivergence year: ['2001'] span:(0,4) 
+CONF!!! 3d model based object class detection in an arbitrary view,iccv, 2007. 
+title: 3dmodelbasedobjectclassdetectioninanarbitraryview year: ['2007'] span:(0,4) 
+CONF!!! Support kernel machines for object recognition,iccv, 2007. 
+title: supportkernelmachinesforobjectrecognition year: ['2007'] span:(0,4) 
+CONF!!! Learning the discriminative power-invariance trade-off,iccv, october 2007. 
+title: learningthediscriminativepowerinvariancetradeoff year: ['2007'] span:(0,4) 
+CONF!!! A hierarchical field framework for unified context-based classification,tenth ieee international conference on computer vision 2005. iccv 2005, vol. 2, 2005. 
+title: ahierarchicalfieldframeworkforunifiedcontextbasedc year: ['2005', '2005', '2005'] span:(61,65) 
+CONF!!! A hierarchical field framework for unified context-based classification,iccv, 2005. 
+title: ahierarchicalfieldframeworkforunifiedcontextbasedc year: ['2005'] span:(0,4) 
+CONF!!! Retrieving actions in movies,proc. iccv, pp. 432-439, 2007. 
+title: retrievingactionsinmovies year: ['2007'] span:(6,10) 
+CONF!!! Learning a classification model for segmentation,proc. iccv, pp. 1: 10-17, 2003. 
+title: learningaclassificationmodelforsegmentation year: ['2003'] span:(6,10) 
+CONF!!! Robust tracking-by-detection using a detector confidence particle filter,iccv, 2009. 
+title: robusttrackingbydetectionusingadetectorconfidencep year: ['2009'] span:(0,4) 
+CONF!!! Locus: Learning object classes with unsupervised segmentation,proc. of international conf. on computer vision, 2005. 
+title: locuslearningobjectclasseswithunsupervisedsegmenta year: ['2005'] span:(9,47) 
+CONF!!! Applications of parametric maxflow in computer vision,international conf. on computer vision, 1–8, 2007. 
+title: applicationsofparametricmaxflowincomputervision year: ['2007'] span:(0,38) 
+CONF!!! Interactive graph cuts for optimal boundary and region segmentation of objects in n-d images,iccv, pp. 105-112, 2001. 
+title: interactivegraphcutsforoptimalboundaryandregionseg year: ['2001'] span:(0,4) 
+CONF!!! Effciently solving dynamic markov random fields using graph cuts,iccv, pp. 922-929, 2005. 
+title: effcientlysolvingdynamicmarkovrandomfieldsusinggra year: ['2005'] span:(0,4) 
+CONF!!! Interactive Graph Cuts for Optimal Boundary and Region Segmentation of Objects in N-D Images,iccv, vol. 1, pp. 105-112, 2001. 
+title: interactivegraphcutsforoptimalboundaryandregionseg year: ['2001'] span:(0,4) 
+CONF!!! Applications of Parametric Maxflow in Computer Vision,iccv, november 2007. 
+title: applicationsofparametricmaxflowincomputervision year: ['2007'] span:(0,4) 
+CONF!!! A Bayesian approach to unsupervised one-shot learning of object categories,iccv, 2003. 
+title: abayesianapproachtounsupervisedoneshotlearningofob year: ['2003'] span:(0,4) 
+CONF!!! Learning Globally-Consistent Local Distance Functions for Shape-Based Image Retrieval and Classification,iccv, 2007. 
+title: learninggloballyconsistentlocaldistancefunctionsfo year: ['2007'] span:(0,4) 
+CONF!!! Learning The Discriminative Power-Invariance Trade-Off,iccv, 2007. 
+title: learningthediscriminativepowerinvariancetradeoff year: ['2007'] span:(0,4) 
+CONF!!! Learning globally-consistent local distance functions for shape-based image retrieval and classification,iccv, 2007. 
+title: learninggloballyconsistentlocaldistancefunctionsfo year: ['2007'] span:(0,4) 
+CONF!!! An invariant large margin nearest neighbour classifier,iccv, 2007. 
+title: aninvariantlargemarginnearestneighbourclassifier year: ['2007'] span:(0,4) 
+CONF!!! Fast pose estimation with parameter-sensitive hashing,iccv, pp. 750-757, 2003. 
+title: fastposeestimationwithparametersensitivehashing year: ['2003'] span:(0,4) 
+CONF!!! Is that you? Metric learning approaches for face identification,iccv, 2009. 
+title: isthatyoumetriclearningapproachesforfaceidentifica year: ['2009'] span:(0,4) 
+CONF!!! A layer-based restoration framework for variable-aperture photography,iccv, pp. 1-8, 2007. 
+title: alayerbasedrestorationframeworkforvariableaperture year: ['2007'] span:(0,4) 
+CONF!!! A database and evaluation methodology for optical flow,iccv, 2007. 
+title: adatabaseandevaluationmethodologyforopticalflow year: ['2007'] span:(0,4) 
+CONF!!! Real-time visibility-based fusion of depth maps,iccv, 2007. 
+title: realtimevisibilitybasedfusionofdepthmaps year: ['2007'] span:(0,4) 
+CONF!!! Unsupervised joint alignment of complex images,iccv, 2007. 
+title: unsupervisedjointalignmentofcompleximages year: ['2007'] span:(0,4) 
+CONF!!! A study of face recognition as people age,iccv, 2007. 
+title: astudyoffacerecognitionaspeopleage year: ['2007'] span:(0,4) 
+CONF!!! How good are local features for classes of geometric objects,iccv, 2007. 
+title: howgoodarelocalfeaturesforclassesofgeometricobject year: ['2007'] span:(0,4) 
+CONF!!! Exploiting object hierarchy: Combining models from different category levels,iccv, 2007. 
+title: exploitingobjecthierarchycombiningmodelsfromdiffer year: ['2007'] span:(0,4) 
+CONF!!! Joint Haar-like Features for Face Detection,ieee international conference on computer vision, 2005. 
+title: jointhaarlikefeaturesforfacedetection year: ['2005'] span:(5,48) 
+CONF!!! Robust regression with projection based M-estimators,iccv, 2003. 
+title: robustregressionwithprojectionbasedmestimators year: ['2003'] span:(0,4) 
+CONF!!! Learning globallyconsistent local distance functions for shape-based image retrieval and classification,iccv, 2007. 
+title: learninggloballyconsistentlocaldistancefunctionsfo year: ['2007'] span:(0,4) 
+CONF!!! Noise robust spectral clustering,iccv, 2007. 
+title: noiserobustspectralclustering year: ['2007'] span:(0,4) 
+CONF!!! Learning the semantics of words and pictures,iccv, pp. 408-15, 2001. 
+title: learningthesemanticsofwordsandpictures year: ['2001'] span:(0,4) 
+CONF!!! Max-Margin Additive Classifiers for Detection,iccv, 2009. 
+title: maxmarginadditiveclassifiersfordetection year: ['2009'] span:(0,4) 
+CONF!!! Image classification using random forests and ferns,iccv, 2007. 
+title: imageclassificationusingrandomforestsandferns year: ['2007'] span:(0,4) 
+CONF!!! Learning the discriminative power-invariance trade-off,iccv, 2007. 
+title: learningthediscriminativepowerinvariancetradeoff year: ['2007'] span:(0,4) 
+CONF!!! Learning globally-consistent Local distance functions for shape-based image retrieval and classification,iccv, 2007. 
+title: learninggloballyconsistentlocaldistancefunctionsfo year: ['2007'] span:(0,4) 
+CONF!!! Proximity distribution kernels for geometric context in category recognition,iccv, 2007. 
+title: proximitydistributionkernelsforgeometriccontextinc year: ['2007'] span:(0,4) 
+CONF!!! Support kernel machines for object recognition,iccv, 2007. 
+title: supportkernelmachinesforobjectrecognition year: ['2007'] span:(0,4) 
+CONF!!! Top-Down Color Attention for Object Recognition,iccv, 2009. 
+title: topdowncolorattentionforobjectrecognition year: ['2009'] span:(0,4) 
+CONF!!! Actions as spacetime shapes,iccv, pp. 1395-1402, 2005. 
+title: actionsasspacetimeshapes year: ['2005'] span:(0,4) 
+CONF!!! Recognizing action at a distance,iccv, pp. 726-733, 2003. 
+title: recognizingactionatadistance year: ['2003'] span:(0,4) 
+CONF!!! A biologically inspired system for action recognition,iccv, pp. 1-8, 2007. 
+title: abiologicallyinspiredsystemforactionrecognition year: ['2007'] span:(0,4) 
+CONF!!! Event detection in crowded videos,iccv, pp. 1-8, 2007. 
+title: eventdetectionincrowdedvideos year: ['2007'] span:(0,4) 
+CONF!!! Retrieving actions in movies,iccv, pp. 1-8, 2007. 
+title: retrievingactionsinmovies year: ['2007'] span:(0,4) 
+CONF!!! Discriminative subsequence mining for action classification,iccv, pp. 1-8, 2007. 
+title: discriminativesubsequenceminingforactionclassifica year: ['2007'] span:(0,4) 
+CONF!!! Interactive graph cuts for optimal boundary and region segmentation of objects in n-d images,iccv, pp. 105-112, 2001. 
+title: interactivegraphcutsforoptimalboundaryandregionseg year: ['2001'] span:(0,4) 
+CONF!!! A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics,iccv, vol. 2, pp. 416-423, july 2001. 
+title: adatabaseofhumansegmentednaturalimagesanditsapplic year: ['2001'] span:(0,4) 
+CONF!!! A seeded image segmentation framework unifying graph cuts and random walker which yields a new algorithm,iccv, pp. 1-8, 2007. 
+title: aseededimagesegmentationframeworkunifyinggraphcuts year: ['2007'] span:(0,4) 
+CONF!!! The variable bandwidth mean shift and data-driven scale selection,iccv, pp. 438-445, 2001. 
+title: thevariablebandwidthmeanshiftanddatadrivenscalesel year: ['2001'] span:(0,4) 
+CONF!!! The pyramid match kernel: Discriminative classification with sets of image features,iccv, 2005. 
+title: thepyramidmatchkerneldiscriminativeclassificationw year: ['2005'] span:(0,4) 
+CONF!!! Contour-based learning for object detection,iccv, 2005. 
+title: contourbasedlearningforobjectdetection year: ['2005'] span:(0,4) 
+CONF!!! Discovering objects and their localization in images,iccv, pp. 370-377, 2005. 
+title: discoveringobjectsandtheirlocalizationinimages year: ['2005'] span:(0,4) 
+CONF!!! Chaotic invariants for human action recognition,iccv, oct. 2007. 
+title: chaoticinvariantsforhumanactionrecognition year: ['2007'] span:(0,4) 
+CONF!!! Recognizing action at a distance,iccv, 2003. 
+title: recognizingactionatadistance year: ['2003'] span:(0,4) 
+CONF!!! A biologically inspired system for action recognition,iccv, pp. 1-8, 2007. 
+title: abiologicallyinspiredsystemforactionrecognition year: ['2007'] span:(0,4) 
+CONF!!! Learning globally-consistent local distance functions for shape-based image retrieval and classification,iccv, 2007. 
+title: learninggloballyconsistentlocaldistancefunctionsfo year: ['2007'] span:(0,4) 
+CONF!!! People-LDA: Anchoring topics to people using face recognition,iccv, 2007. 
+title: peopleldaanchoringtopicstopeopleusingfacerecogniti year: ['2007'] span:(0,4) 
+CONF!!! An invariant large margin nearest neighbour classifier,iccv, 2007. 
+title: aninvariantlargemarginnearestneighbourclassifier year: ['2007'] span:(0,4) 
+CONF!!! Learning the discriminative power-invariance trade-off,iccv, 2007. 
+title: learningthediscriminativepowerinvariancetradeoff year: ['2007'] span:(0,4) 
+CONF!!! Image classification using random forests and ferns,iccv, 2007. 
+title: imageclassificationusingrandomforestsandferns year: ['2007'] span:(0,4) 
+CONF!!! Interactive graph cuts for optimal boundary and region segmentation of objects in n-d images,iccv, 2001. 
+title: interactivegraphcutsforoptimalboundaryandregionseg year: ['2001'] span:(0,4) 
+CONF!!! Computing geodesics and minimal surfaces via graph cuts,iccv, 2003. 
+title: computinggeodesicsandminimalsurfacesviagraphcuts year: ['2003'] span:(0,4) 
+CONF!!! Applications of parametric maxflow in computer vision,iccv, 2007. 
+title: applicationsofparametricmaxflowincomputervision year: ['2007'] span:(0,4) 
+CONF!!! Introducing curvature into globally optimal image segmentation minimum ratio cycles on products graphs,iccv, 2007. 
+title: introducingcurvatureintogloballyoptimalimagesegmen year: ['2007'] span:(0,4) 
+CONF!!! Interactive graph cuts for optimal boundary and region segmentation of objects in N-D images,proc. ieee international conference on computer vision, vol. 1, pp. 105-112, jul. 7–14 2001. 
+title: interactivegraphcutsforoptimalboundaryandregionseg year: ['2001'] span:(11,54) 
+CONF!!! Computing geodesics and minimal surfaces via graph cuts,proc. ieee international conference on computer vision, vol. 1, pp. 26-33, oct. 14–17 2003. 
+title: computinggeodesicsandminimalsurfacesviagraphcuts year: ['2003'] span:(11,54) 
+CONF!!! Shape priors using manifold learning techniques,iccv, oct. 2007. 
+title: shapepriorsusingmanifoldlearningtechniques year: ['2007'] span:(0,4) 
+CONF!!! Modeling view and posture manifolds for tracking,in iccv, pp. 1-8, 2007. 
+title: modelingviewandposturemanifoldsfortracking year: ['2007'] span:(3,7) 
+CONF!!! Image spaces and video trajectories: Using isomap to explore video sequences,in iccv, pp. 1433, 2003. 
+title: imagespacesandvideotrajectoriesusingisomaptoexplor year: ['2003'] span:(3,7) 
+CONF!!! Manifold clustering,in iccv, pp. 648-653, 2005. 
+title: manifoldclustering year: ['2005'] span:(3,7) 
+CONF!!! MRF optimization via dual decomposition: Message-passing revisited,iccv, 2007. 
+title: mrfoptimizationviadualdecompositionmessagepassingr year: ['2007'] span:(0,4) 
+CONF!!! Recovering occlusion boundaries from a single image,iccv, pp. 1-8, 2007. 
+title: recoveringocclusionboundariesfromasingleimage year: ['2007'] span:(0,4) 
+CONF!!! A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics,iccv, vol. 2, pp. 416-423, 2001. 
+title: adatabaseofhumansegmentednaturalimagesanditsapplic year: ['2001'] span:(0,4) 
+CONF!!! Learning 3-d scene structure from a single still image,iccv, pp. 1-8, 2007. 
+title: learning3dscenestructurefromasinglestillimage year: ['2007'] span:(0,4) 
+CONF!!! Learning to find object boundaries using motion cues,iccv, pp. 1-8, 2007. 
+title: learningtofindobjectboundariesusingmotioncues year: ['2007'] span:(0,4) 
+CONF!!! LogCut - Efficient Graph Cut Optimization for Markov Random Fields,iccv2007. 
+title: logcutefficientgraphcutoptimizationformarkovrandom year: ['2007'] span:(0,4) 
+CONF!!! A Database of Human Segmented Natural Images and its Application to Evaluating Segmentation Algorithms and Measuring Ecological Statistics,iccv2001, pp. 416-423. 
+title: adatabaseofhumansegmentednaturalimagesanditsapplic year: ['2001'] span:(0,4) 
+CONF!!! Globally Optimal Solutions for Energy Minimization in Stereo Vision Using Reweighted Belief Propagation,iccv2005, pp. 428-435. 
+title: globallyoptimalsolutionsforenergyminimizationinste year: ['2005'] span:(0,4) 
+CONF!!! Determining reflectance and light position from a single image without distant illumination assumption,iccv, vol. 1, pp. 560-567, 2003. 
+title: determiningreflectanceandlightpositionfromasinglei year: ['2003'] span:(0,4) 
+CONF!!! Determining reflectance parameters and illumination distribution from a sparse set of images for view-dependent image synthesis,iccv, vol. 1, pp. 599-606, 2001. 
+title: determiningreflectanceparametersandilluminationdis year: ['2001'] span:(0,4) 
+CONF!!! Non-Negative Lighting and Specular Object Recognition,iccv, pp. 1323-1330, 2005. 
+title: nonnegativelightingandspecularobjectrecognition year: ['2005'] span:(0,4) 
+CONF!!! Robust principal component analysis for computer vision,proc. int. conf on computer vision, vol. 1, pp. 362-369, 2001. 
+title: robustprincipalcomponentanalysisforcomputervision year: ['2001'] span:(6,34) 
+CONF!!! Learning globally-consistent local distance functions for shape-based image retrieval and classification,iccv, pp. 6, 2007. 
+title: learninggloballyconsistentlocaldistancefunctionsfo year: ['2007'] span:(0,4) 
+CONF!!! The pyramid match kernel: Discriminative classification with sets of image features,iccv, pp. 6, 2005. 
+title: thepyramidmatchkerneldiscriminativeclassificationw year: ['2005'] span:(0,4) 
+CONF!!! Learning the discriminative power-invariance trade-off,iccv, pp. 6, 2007. 
+title: learningthediscriminativepowerinvariancetradeoff year: ['2007'] span:(0,4) 
+CONF!!! Indexing based on scale invariant interest points,proc. iccv, 2001. 
+title: indexingbasedonscaleinvariantinterestpoints year: ['2001'] span:(6,10) 
+CONF!!! Learning the discriminative power-invariance trade-off,proc. iccv, 2007. 
+title: learningthediscriminativepowerinvariancetradeoff year: ['2007'] span:(6,10) 
+CONF!!! Scene summarization for online image collections,iccv, 2007. 
+title: scenesummarizationforonlineimagecollections year: ['2007'] span:(0,4) 
+CONF!!! Video google: a text retrieval approach to object matching in videos,iccv, 2003. 
+title: videogoogleatextretrievalapproachtoobjectmatchingi year: ['2003'] span:(0,4) 
+CONF!!! Image classification using random forests and ferns,iccv, 2007. 
+title: imageclassificationusingrandomforestsandferns year: ['2007'] span:(0,4) 
+CONF!!! Creating efficient codebooks for visual recognition,iccv, vol. 1, pp. 604-610, 2005. 
+title: creatingefficientcodebooksforvisualrecognition year: ['2005'] span:(0,4) 
+CONF!!! Scene modeling using Co-Clustering,iccv, 2007. 
+title: scenemodelingusingcoclustering year: ['2007'] span:(0,4) 
+CONF!!! Video Google: A text retrieval approach to object matching in videos,iccv, vol. 2, pp. 1470-1477, 2003. 
+title: videogoogleatextretrievalapproachtoobjectmatchingi year: ['2003'] span:(0,4) 
+CONF!!! Vector quantizing feature space with a regular lattice,iccv, 2007. 
+title: vectorquantizingfeaturespacewitharegularlattice year: ['2007'] span:(0,4) 
+CONF!!! Learning the discriminative power-invariance trade-off,iccv, 2007. 
+title: learningthediscriminativepowerinvariancetradeoff year: ['2007'] span:(0,4) 
+CONF!!! Object categorization by learned universal visual dictionary,iccv, vol. 2, pp. 1800-1807, 2005. 
+title: objectcategorizationbylearneduniversalvisualdictio year: ['2005'] span:(0,4) 
+CONF!!! Image classification using random forests and ferns,iccv, 2007. 
+title: imageclassificationusingrandomforestsandferns year: ['2007'] span:(0,4) 
+CONF!!! Learning the discriminative power-invariance trade-off,iccv, 2007. 
+title: learningthediscriminativepowerinvariancetradeoff year: ['2007'] span:(0,4) 
+CONF!!! Spatiotemporal shape from silhouette using four-dimensional delaunay meshing,ieee international conference on computer vision, oct 2007. 
+title: spatiotemporalshapefromsilhouetteusingfourdimensio year: ['2007'] span:(5,48) 
+CONF!!! Interactive graph cuts for optimal boundary & region segmentation of objects in n-d images,ieee international conference on computer vision, 2001. 
+title: interactivegraphcutsforoptimalboundaryandregionseg year: ['2001'] span:(5,48) 
+CONF!!! A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics,international conference on computer vision, vol. 2, pp. 416-423, july 2001. 
+title: adatabaseofhumansegmentednaturalimagesanditsapplic year: ['2001'] span:(0,43) 
+CONF!!! Stereoscopic segmentation,ieee international conference on computer vision, 2001. 
+title: stereoscopicsegmentation year: ['2001'] span:(5,48) 
+CONF!!! Objects in context,proc. iccv, 2007. 
+title: objectsincontext year: ['2007'] span:(6,10) 
+CONF!!! Learning a classification model for segmentation,proc. iccv, 2003. 
+title: learningaclassificationmodelforsegmentation year: ['2003'] span:(6,10) 
+CONF!!! Actionable information in vision,proc. iccv, october 2009. 
+title: actionableinformationinvision year: ['2009'] span:(6,10) 
+CONF!!! Multiple kernels for object detection,proc. iccv, 2009. 
+title: multiplekernelsforobjectdetection year: ['2009'] span:(6,10) 
+CONF!!! Motion segmentation by subspace separation and model selection,proc. of the ieee int. conf on computer vision (iccv), vol. 2, pp. 586-591, 2001. 
+title: motionsegmentationbysubspaceseparationandmodelsele year: ['2001'] span:(48,52) 
+CONF!!! Objects in context,iccv, 2007. 
+title: objectsincontext year: ['2007'] span:(0,4) 
+CONF!!! Learning a classification model for segmentation,iccv, 2003. 
+title: learningaclassificationmodelforsegmentation year: ['2003'] span:(0,4) 
+CONF!!! Object categorization by learned universal visual dictionary,iccv, 2005. 
+title: objectcategorizationbylearneduniversalvisualdictio year: ['2005'] span:(0,4) 
+CONF!!! Joint affinity propagation for multiple view segmentation,iccv, 2007. 
+title: jointaffinitypropagationformultipleviewsegmentatio year: ['2007'] span:(0,4) 
+CONF!!! Deriving intrinsic images from image sequences,proceedings of the eighth international conference on computer vision (iccv), vol. ii, pp. 68-75, 2001. 
+title: derivingintrinsicimagesfromimagesequences year: ['2001'] span:(71,75) 
+CONF!!! Globally optimal image segmentation with an elastic shape prior,ieee int. conf. on computer vision, october 2007. 
+title: globallyoptimalimagesegmentationwithanelasticshape year: ['2007'] span:(5,34) 
+CONF!!! A seeded image segmentation framework unifying graph cuts and random walker which yields a new algorithm,ieee int. conf. on comp. vision, oct. 2007. 
+title: aseededimagesegmentationframeworkunifyinggraphcuts year: ['2007'] span:(5,31) 
+CONF!!! Interactive graph cuts for optimal boundary & region segmentation of objects in N-D images,proc. iccv, 2001. 
+title: interactivegraphcutsforoptimalboundaryandregionseg year: ['2001'] span:(6,10) 
+CONF!!! On-line selection of discriminative tracking features,proc. iccv, 2003. 
+title: onlineselectionofdiscriminativetrackingfeatures year: ['2003'] span:(6,10) 
+CONF!!! Detecting pedestrians using patterns of motion and appearance,proc. iccv, 2003. 
+title: detectingpedestriansusingpatternsofmotionandappear year: ['2003'] span:(6,10) 
+CONF!!! A geodesic framework for fast interactive image and video segmentation and matting,iccv, 2007. 
+title: ageodesicframeworkforfastinteractiveimageandvideos year: ['2007'] span:(0,4) 
+CONF!!! Interactive graph cuts for optimal boundary & region segmentation of objects in N-D images,iccv, pp. 105-112, 2001. 
+title: interactivegraphcutsforoptimalboundaryandregionseg year: ['2001'] span:(0,4) 
+CONF!!! Computing geodesics and minimal surfaces via graph cuts,iccv, vol. 1, 2003. 
+title: computinggeodesicsandminimalsurfacesviagraphcuts year: ['2003'] span:(0,4) 
+CONF!!! A seeded image segmentation framework unifying graph cuts and random walker which yields a new algorithm,iccv, 2007. 
+title: aseededimagesegmentationframeworkunifyinggraphcuts year: ['2007'] span:(0,4) 
+CONF!!! Interactive graph cuts for optimal boundary and region segmentation of objects in N-D images,iccv, 2001. 
+title: interactivegraphcutsforoptimalboundaryandregionseg year: ['2001'] span:(0,4) 
+CONF!!! Geometric context from a single image,iccv, 2005. 
+title: geometriccontextfromasingleimage year: ['2005'] span:(0,4) 
+CONF!!! Objects in context,iccv, 2007. 
+title: objectsincontext year: ['2007'] span:(0,4) 
+CONF!!! Learning a classification model for segmentation,iccv, 2003. 
+title: learningaclassificationmodelforsegmentation year: ['2003'] span:(0,4) 
+CONF!!! A global matching framework for stereo computation,iccv, 2001. 
+title: aglobalmatchingframeworkforstereocomputation year: ['2001'] span:(0,4) 
+CONF!!! Learning layered motion segmentation of video,iccv, 2005. 
+title: learninglayeredmotionsegmentationofvideo year: ['2005'] span:(0,4) 
+CONF!!! Multi-object tracking through clutter using graph cuts,iccv, 2007. 
+title: multiobjecttrackingthroughclutterusinggraphcuts year: ['2007'] span:(0,4) 
+CONF!!! Interactive graph cuts for optimal boundary and region segmentation of objects in N-D images,iccv, 2001. 
+title: interactivegraphcutsforoptimalboundaryandregionseg year: ['2001'] span:(0,4) 
+CONF!!! Applications of parametric maxflow in computer vision,iccv, 2007. 
+title: applicationsofparametricmaxflowincomputervision year: ['2007'] span:(0,4) 
+CONF!!! A global perspective on MAP inference for low-level vision,iccv, 2009. 
+title: aglobalperspectiveonmapinferenceforlowlevelvision year: ['2009'] span:(0,4) 
+CONF!!! Shape Gradients for Histogram Segmentation Using Active Contours,proc. ieee international conference on computer vision, 2003. 
+title: shapegradientsforhistogramsegmentationusingactivec year: ['2003'] span:(11,54) 
+CONF!!! Recovering occlusion boundaries from a single image,iccv, vol. 1, pp. 1-8, 2007. 
+title: recoveringocclusionboundariesfromasingleimage year: ['2007'] span:(0,4) 
+CONF!!! Guiding model search using segmentation,iccv, vol. 2, pp. 1417-1423, 2005. 
+title: guidingmodelsearchusingsegmentation year: ['2005'] span:(0,4) 
+CONF!!! A geodesic framework for fast interactive image and video segmentation and matting,iccv, pp. 1-8, 2007. 
+title: ageodesicframeworkforfastinteractiveimageandvideos year: ['2007'] span:(0,4) 
+CONF!!! Interactive graph cuts for optimal boundary and region segmentation of objects in N-D images,ieee iccv, pp. 105-112, 2001. 
+title: interactivegraphcutsforoptimalboundaryandregionseg year: ['2001'] span:(5,9) 
+CONF!!! Improved fast Gauss transform and efficient kernel density estimation,ieee iccv, pp. 464-471, 2003. 
+title: improvedfastgausstransformandefficientkerneldensit year: ['2003'] span:(5,9) 
+CONF!!! A geodesic framework for fast interactive image and video segmentation and matting,iccv, pp. 1-8, 2007. 
+title: ageodesicframeworkforfastinteractiveimageandvideos year: ['2007'] span:(0,4) 
+CONF!!! Computing geodesics and minimal surfaces via graph cuts,iccv, vol. 1, pp. 26-33, october 2003. 
+title: computinggeodesicsandminimalsurfacesviagraphcuts year: ['2003'] span:(0,4) 
+CONF!!! Reconstructing surfaces using anisotropic basis functions,iccv, pp. 606-613, 2001. 
+title: reconstructingsurfacesusinganisotropicbasisfunctio year: ['2001'] span:(0,4) 
+CONF!!! Unsupervised non-parametric region segmentation using level sets,iccv, vol. 2, pp. 1267-1274, 2003. 
+title: unsupervisednonparametricregionsegmentationusingle year: ['2003'] span:(0,4) 
+CONF!!! Variational segmentation using fuzzy region competition and local non-parametric probability density functions,iccv, 2007. 
+title: variationalsegmentationusingfuzzyregioncompetition year: ['2007'] span:(0,4) 
+CONF!!! Interactive graph cuts for optimal boundary and region segmentation of objects in n-d images,iccv, vol. 1, pp. 105-112, 2001. 
+title: interactivegraphcutsforoptimalboundaryandregionseg year: ['2001'] span:(0,4) 
+CONF!!! Fast automatic heart chamber segmentation from 3d ct data using marginal space learning and steerable features,iccv, 2007. 
+title: fastautomaticheartchambersegmentationfrom3dctdatau year: ['2007'] span:(0,4) 
+CONF!!! Kernel map compression using generalized radial basis functions,ieee iccv. 2009. 
+title: kernelmapcompressionusinggeneralizedradialbasisfun year: ['2009'] span:(5,9) 
+CONF!!! A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics,international conf. on computer vision (iccv), pp. 416-423, 2001. 
+title: adatabaseofhumansegmentednaturalimagesanditsapplic year: ['2001'] span:(40,44) 
+CONF!!! A seeded image segmentation framework unifying graph cuts and random walker which yields a new algorithm,international conf. on computer vision (iccv), 2007. 
+title: aseededimagesegmentationframeworkunifyinggraphcuts year: ['2007'] span:(40,44) 
+CONF!!! Multiclass spectral clustering,international conf. on computer vision (iccv), pp. 313-319, 2003. 
+title: multiclassspectralclustering year: ['2003'] span:(40,44) 
+CONF!!! Motion segmentation by subspace separation and model selection,proc. 8th iccv, pp. 586-591, 2001. 
+title: motionsegmentationbysubspaceseparationandmodelsele year: ['2001'] span:(10,14) 
+CONF!!! Extracting texels in 2.1D natural textures,iccv, 2007. 
+title: extractingtexelsin21dnaturaltextures year: ['2007'] span:(0,4) 
+CONF!!! The variable bandwidth mean shift and data-driven scale selection,iccv, vol. 1, 2001. 
+title: thevariablebandwidthmeanshiftanddatadrivenscalesel year: ['2001'] span:(0,4) 
+CONF!!! Texture segmentation by multiscale aggregation of filter responses and shape elements,iccv, pp. 716-723, 2003. 
+title: texturesegmentationbymultiscaleaggregationoffilter year: ['2003'] span:(0,4) 
+CONF!!! Interactive graph cuts for optimal boundary and region segmentation of objects in n-d images,proc. of intl. conf. on computer vis., vol. 1, no. 105, 2001. 
+title: interactivegraphcutsforoptimalboundaryandregionseg year: ['2001'] span:(9,37) 
+CONF!!! Applications of parametric maxflow in computer vision,proc. of intl. conf. on computer vis., 1–8, 2007. 
+title: applicationsofparametricmaxflowincomputervision year: ['2007'] span:(9,37) 
+CONF!!! A seeded image segmentation framework unifying graph cuts and random walker which yields a new algorithm,proc. of intl. conf. on computer vis., 2007. 
+title: aseededimagesegmentationframeworkunifyinggraphcuts year: ['2007'] span:(9,37) 
+CONF!!! Motion segmentation by subspace separation and model selection,ieee international conference on computer vision, pp. 586-591, 2001. 
+title: motionsegmentationbysubspaceseparationandmodelsele year: ['2001'] span:(5,48) 
+CONF!!! A geodesic framework for fast interactive image and video segmentation and matting,iccv07, 2007. 
+title: ageodesicframeworkforfastinteractiveimageandvideos year: ['2007'] span:(0,4) 
+CONF!!! An iterative optimization approach for unified image segmentation and matting,iccv05, 2005. 
+title: aniterativeoptimizationapproachforunifiedimagesegm year: ['2005'] span:(0,4) 
+CONF!!! Geometric context from a single image,iccv, 2005. 
+title: geometriccontextfromasingleimage year: ['2005'] span:(0,4) 
+CONF!!! Video google: A text retrieval approach to object matching in videos,iccv, 2003. 
+title: videogoogleatextretrievalapproachtoobjectmatchingi year: ['2003'] span:(0,4) 
+CONF!!! Semi-supervised discriminant analysis,proc. int. conf. computer vision (iccv'07), 2007. 
+title: semisuperviseddiscriminantanalysis year: ['2007'] span:(34,38) 
+CONF!!! Spectral regression for efficient regularized subspace learning,proc. int. conf. computer vision (iccv'07), 2007. 
+title: spectralregressionforefficientregularizedsubspacel year: ['2007'] span:(34,38) 
+CONF!!! Deformable template as active basis,proc. of the international conference on computer vision, 2007. 
+title: deformabletemplateasactivebasis year: ['2007'] span:(13,56) 
+CONF!!! Efficient Visual Event Detection using Volumetric Features,proc. of ieee international conference on computer vision (iccv'05), 2005. 
+title: efficientvisualeventdetectionusingvolumetricfeatur year: ['2005'] span:(59,63) 
+CONF!!! Space-time Interest Points,proc. of ieee international conference on computer vision (iccv'03), pp. 432-439, 2003. 
+title: spacetimeinterestpoints year: ['2003'] span:(59,63) 
+CONF!!! Retrieving Actions in Movies,proc. of ieee international conference on computer vision '07), 2007. 
+title: retrievingactionsinmovies year: ['2007'] span:(14,57) 
+CONF!!! Discriminative Subsequence Mining for Action Classification,proc. of ieee international conference on computer vision (iccv'07), pp. 1919-1923, 2007. 
+title: discriminativesubsequenceminingforactionclassifica year: ['2007'] span:(59,63) 
+CONF!!! Efficient Mining of Frequent and Distinctive Feature Configurations,proc. of ieee international conference on computer vision '07), 2007. 
+title: efficientminingoffrequentanddistinctivefeatureconf year: ['2007'] span:(14,57) 
+CONF!!! Extracting Spatio Temporal Interest Points using Global Information,proc. of ieee int. conf. on comp. vis. '07), 2007. 
+title: extractingspatiotemporalinterestpointsusingglobali year: ['2007'] span:(14,38) 
+CONF!!! A hierarchical field framework for unified context-based classification,iccv, 2005. 
+title: ahierarchicalfieldframeworkforunifiedcontextbasedc year: ['2005'] span:(0,4) 
+CONF!!! Objects in context,iccv, 2007. 
+title: objectsincontext year: ['2007'] span:(0,4) 
+CONF!!! Learning a classification model for segmentation,iccv, 2003. 
+title: learningaclassificationmodelforsegmentation year: ['2003'] span:(0,4) 
+CONF!!! Context-based vision system for place and object recognition,iccv, 2003. 
+title: contextbasedvisionsystemforplaceandobjectrecogniti year: ['2003'] span:(0,4) 
+CONF!!! Actions as space-time shapes,ieee international conference on computer vision (iccv), 2005. 
+title: actionsasspacetimeshapes year: ['2005'] span:(50,54) 
+CONF!!! Retrieving actions in movies,int. conf. on computer vision, 2007. 
+title: retrievingactionsinmovies year: ['2007'] span:(0,29) 
+CONF!!! Symmetries of non-rigid shapes,computer vision 2007. iccv 2007. ieee 11th international conference on, 1–7, oct. 2007. 
+title: symmetriesofnonrigidshapes year: ['2007', '2007', '2007'] span:(22,26) 
+CONF!!! Correspondence labelling for wide-timeframe free-form surface matching,computer vision 2007. iccv 2007. ieee 11th international conference on, 1–8, oct. 2007. 
+title: correspondencelabellingforwidetimeframefreeformsur year: ['2007', '2007', '2007'] span:(22,26) 
+CONF!!! A database and evaluation methodology for optical flow,int. conf. on compo vis., 2007. 
+title: adatabaseandevaluationmethodologyforopticalflow year: ['2007'] span:(0,24) 
+CONF!!! Selection of scale-invariant parts for object class recognition,iccv, 2003. 
+title: selectionofscaleinvariantpartsforobjectclassrecogn year: ['2003'] span:(0,4) 
+CONF!!! Actions as space-time shapes,iccv, 2005. 
+title: actionsasspacetimeshapes year: ['2005'] span:(0,4) 
+CONF!!! A biologically inspired system for action recognition,iccv, 2007. 
+title: abiologicallyinspiredsystemforactionrecognition year: ['2007'] span:(0,4) 
+CONF!!! Event detection in crowded videos,int. conf. on computer vision, 2007. 
+title: eventdetectionincrowdedvideos year: ['2007'] span:(0,29) 
+CONF!!! Harvesting image databases from the web,iccv, 2007. 
+title: harvestingimagedatabasesfromtheweb year: ['2007'] span:(0,4) 
+CONF!!! Spherical-homoscedastic shapes,iccv, 2007. 
+title: sphericalhomoscedasticshapes year: ['2007'] span:(0,4) 
+CONF!!! A Nonlinear Discriminative Approach to AAM Fitting,iccv, 2007. 
+title: anonlineardiscriminativeapproachtoaamfitting year: ['2007'] span:(0,4) 
+CONF!!! Scene modeling using co-clustering,iccv, 2007. 
+title: scenemodelingusingcoclustering year: ['2007'] span:(0,4) 
+CONF!!! Non-homogeneous content-driven video-retargeting,proceedings of the eleventh ieee international conference on computer vision (iccv-07), 2007. 
+title: nonhomogeneouscontentdrivenvideoretargeting year: ['2007'] span:(78,82) 
+CONF!!! A Nonlinear Discriminative Approach to AAM Fitting,iccv, 2007. 
+title: anonlineardiscriminativeapproachtoaamfitting year: ['2007'] span:(0,4) 
+CONF!!! Active learning with Gaussian Processes for object categorization,iccv, 2007. 
+title: activelearningwithgaussianprocessesforobjectcatego year: ['2007'] span:(0,4) 
+CONF!!! Automatically labeling video data using multi-class active learning,iccv, 2003. 
+title: automaticallylabelingvideodatausingmulticlassactiv year: ['2003'] span:(0,4) 
+CONF!!! Face recognition with Support Vector Machines: Global versus component-based approach,iccv, 2001. 
+title: facerecognitionwithsupportvectormachinesglobalvers year: ['2001'] span:(0,4) 
+CONF!!! Vector boosting for ro tati on invariant multi-view face detection,iccv, 2005. 
+title: vectorboostingforrotationinvariantmultiviewfacedet year: ['2005'] span:(0,4) 
+CONF!!! Fast pose estimation with parameter-sensitive hashing,iccv, 2003. 
+title: fastposeestimationwithparametersensitivehashing year: ['2003'] span:(0,4) 
+CONF!!! The 3d-3d registration problem revisited,iccv 2007, pp. 1-8, 2007. 
+title: the3d3dregistrationproblemrevisited year: ['2007', '2007'] span:(0,4) 
+CONF!!! Preemptive ransac for live structure and motion estimation,proc. iccv, vol. 1, pp. 199-206, 2003. 
+title: preemptiveransacforlivestructureandmotionestimatio year: ['2003'] span:(6,10) 
+CONF!!! Recognizing action at a distance,ieee international conference on computer vision, pp. 726-733, 2003. 
+title: recognizingactionatadistance year: ['2003'] span:(5,48) 
+CONF!!! Event detection in crowded videos,ieee international conference on computer vision, 2007. 
+title: eventdetectionincrowdedvideos year: ['2007'] span:(5,48) 
+CONF!!! Learning the discriminative power-invariance trade-off,ieee international conference on computer vision, 2007. 
+title: learningthediscriminativepowerinvariancetradeoff year: ['2007'] span:(5,48) 
+CONF!!! Total recall: Automatic query expansion with a generative feature model for object retrieval,proceedings of the 11th international conference on computer vision, 2007. 
+title: totalrecallautomaticqueryexpansionwithagenerativef year: ['2007'] span:(24,67) 
+CONF!!! Video google: A text retrieval approach to object matching in videos,iccv, pp. 1470-1477, 2003. 
+title: videogoogleatextretrievalapproachtoobjectmatchingi year: ['2003'] span:(0,4) 
+CONF!!! Classmap: Efficient multiclass recognition via embeddings,iccv, 1–8, oct. 2007. 
+title: classmapefficientmulticlassrecognitionviaembedding year: ['2007'] span:(0,4) 
+CONF!!! Recognizing action at a distance,iccv, pp. 726-733, 2003. 
+title: recognizingactionatadistance year: ['2003'] span:(0,4) 
+CONF!!! Object recognition with informative features and linear classification,proc. iccv'03, pp. 281-288, 2003. 
+title: objectrecognitionwithinformativefeaturesandlinearc year: ['2003'] span:(6,10) 
+CONF!!! People Tracking Using Hybrid Monte Carlo Filtering,iccv, 2001. 
+title: peopletrackingusinghybridmontecarlofiltering year: ['2001'] span:(0,4) 
+CONF!!! Webcam synopsis: Peeking around the world,iccv, pp. 1-8, 2007. 
+title: webcamsynopsispeekingaroundtheworld year: ['2007'] span:(0,4) 
+CONF!!! Structure and motion from silhouettes,proc. international conference on computer vision, 2001. 
+title: structureandmotionfromsilhouettes year: ['2001'] span:(6,49) 
+CONF!!! Paracatadioptric camera calibration using lines,iccv '03, vol. 2, pp. 1359-1365, oct. 2003. 
+title: paracatadioptriccameracalibrationusinglines year: ['2003'] span:(0,4) 
+CONF!!! The space of all stereo images,iccv, 2001. 
+title: thespaceofallstereoimages year: ['2001'] span:(0,4) 
+CONF!!! Caustics of catadioptric cameras,iccv, 2001. 
+title: causticsofcatadioptriccameras year: ['2001'] span:(0,4) 
+CONF!!! Coplanar shadowgrams for acquiring visual hulls of intricate objects,iccv, 2007. 
+title: coplanarshadowgramsforacquiringvisualhullsofintric year: ['2007'] span:(0,4) 
+CONF!!! Statistical background subtraction for a mobile observer,ieee iccv, 2003. 
+title: statisticalbackgroundsubtractionforamobileobserver year: ['2003'] span:(5,9) 
+CONF!!! Motion segmentation by subspace separation and model selection,ieee iccv, 2001. 
+title: motionsegmentationbysubspaceseparationandmodelsele year: ['2001'] span:(5,9) 
+CONF!!! Background modeling and subtraction of dynamic scenes,ieee iccv, 2003. 
+title: backgroundmodelingandsubtractionofdynamicscenes year: ['2003'] span:(5,9) 
+CONF!!! Segmenting foreground objects from a dynamic textured background via a robust kalman filter,ieee iccv, 2003. 
+title: segmentingforegroundobjectsfromadynamictexturedbac year: ['2003'] span:(5,9) 
+CONF!!! Recognising panoramas,iccv, pp. 1218-1225, 2003. 
+title: recognisingpanoramas year: ['2003'] span:(0,4) 
+CONF!!! Indexing based on scale invariant interest points,iccv, pp. 525-531, 2001. 
+title: indexingbasedonscaleinvariantinterestpoints year: ['2001'] span:(0,4) 
+CONF!!! Two-frame wide baseline matching,iccv, pp. 603-609, 2003. 
+title: twoframewidebaselinematching year: ['2003'] span:(0,4) 
+CONF!!! Selection of scale-invariant parts for object class recognition,iccv, pp. 634-640, 2003. 
+title: selectionofscaleinvariantpartsforobjectclassrecogn year: ['2003'] span:(0,4) 
+CONF!!! Computing visual correspondence with occlusions via graph cuts,iccv, pp. 508-515, 2001. 
+title: computingvisualcorrespondencewithocclusionsviagrap year: ['2001'] span:(0,4) 
+CONF!!! A spectral technique for correspondence problems using pairwise constraints,iccv, pp. 1482-1489, 2005. 
+title: aspectraltechniqueforcorrespondenceproblemsusingpa year: ['2005'] span:(0,4) 
+CONF!!! Multiclass spectral clustering,iccv, pp. 313-319, 2003. 
+title: multiclassspectralclustering year: ['2003'] span:(0,4) 
+CONF!!! The 3d-3d registration problem revisited,ieee intern. conf. on computer vision, oct. 2007. 
+title: the3d3dregistrationproblemrevisited year: ['2007'] span:(5,37) 
+CONF!!! Shape descriptors for maximally stable extremal regions,ieee international conference on computer vision, vol. cfp07198-cdr, october 2007. 
+title: shapedescriptorsformaximallystableextremalregions year: ['2007'] span:(5,48) 
+CONF!!! The 3D - 3D registration problem revisited,iccv, 2007. 
+title: the3d3dregistrationproblemrevisited year: ['2007'] span:(0,4) 
+CONF!!! Image statistics based on diffeomorphic matching,iccv, pp. 852-857, 2005. 
+title: imagestatisticsbasedondiffeomorphicmatching year: ['2005'] span:(0,4) 
+CONF!!! Deformation invariant image matching,iccv, pp. 1466-1473, 2005. 
+title: deformationinvariantimagematching year: ['2005'] span:(0,4) 
+CONF!!! Unsupervised joint alignment of complex images,iccv, 2007. 
+title: unsupervisedjointalignmentofcompleximages year: ['2007'] span:(0,4) 
+CONF!!! Unsupervised learning of object deformation models,iccv, 2007. 
+title: unsupervisedlearningofobjectdeformationmodels year: ['2007'] span:(0,4) 
+CONF!!! Gradient feature selection for online boosting,iccv, 2007. 
+title: gradientfeatureselectionforonlineboosting year: ['2007'] span:(0,4) 
+CONF!!! An efficient image similarity measure based on approximations of kl-divergence between two gaussian mixtures,proc. int. conf on computer vision, pp. 487-493, 2003. 
+title: anefficientimagesimilaritymeasurebasedonapproximat year: ['2003'] span:(6,34) 
+CONF!!! A robust algorithm for point set registration using mixture of gaussians,proc. int. conf. on computer vision, pp. 1246-1251, 2005. 
+title: arobustalgorithmforpointsetregistrationusingmixtur year: ['2005'] span:(6,35) 
+CONF!!! Globally optimal estimates for geometric reconstruction problems,proc. int. conf. on computer vision, pp. 978-985, 2005. 
+title: globallyoptimalestimatesforgeometricreconstruction year: ['2005'] span:(6,35) 
+CONF!!! 3d model based object class detection in an arbitrary view,iccv, 2007. 
+title: 3dmodelbasedobjectclassdetectioninanarbitraryview year: ['2007'] span:(0,4) 
+CONF!!! Fast Pose Estimation with Parameter Sensitive Hashing,iccv, 2003. 
+title: fastposeestimationwithparametersensitivehashing year: ['2003'] span:(0,4) 
+CONF!!! Beyond Trees: Common Factor Models for 2D Human Pose Recovery,iccv, 2005. 
+title: beyondtreescommonfactormodelsfor2dhumanposerecover year: ['2005'] span:(0,4) 
+CONF!!! Recovering Human Body Configurations Using Pairwise Constraints between Parts,iccv, 2005. 
+title: recoveringhumanbodyconfigurationsusingpairwisecons year: ['2005'] span:(0,4) 
+CONF!!! Inferring 3D structure with a statistical image-based shape model,iccv, 2003. 
+title: inferring3dstructurewithastatisticalimagebasedshap year: ['2003'] span:(0,4) 
+CONF!!! Fast pose estimation with parameter sensitive hashing,iccv, 2003. 
+title: fastposeestimationwithparametersensitivehashing year: ['2003'] span:(0,4) 
+CONF!!! Recovering human body configurations using pairwise constraints between parts,iccv, 2005. 
+title: recoveringhumanbodyconfigurationsusingpairwisecons year: ['2005'] span:(0,4) 
+CONF!!! Recovering human body configurations using pairwise constraints between parts,iccv, pp. 824-831, 2005. 
+title: recoveringhumanbodyconfigurationsusingpairwisecons year: ['2005'] span:(0,4) 
+CONF!!! Filtering Using a Tree-Based Estimator,international conference on computer vision, vol. 2, pp. 1063-1070, 2003. 
+title: filteringusingatreebasedestimator year: ['2003'] span:(0,43) 
+CONF!!! Real-time Body Tracking Using a Gaussian Process Latent Variable Model,iccv, 2007. 
+title: realtimebodytrackingusingagaussianprocesslatentvar year: ['2007'] span:(0,4) 
+CONF!!! Real-time simultaneous localisation and mapping with a single camera,international conference on computer vision, 2003. 
+title: realtimesimultaneouslocalisationandmappingwithasin year: ['2003'] span:(0,43) 
+CONF!!! The pyramid match kernel: Discriminative classification with sets of image features,iccv, 2005. 
+title: thepyramidmatchkerneldiscriminativeclassificationw year: ['2005'] span:(0,4) 
+CONF!!! Objects in context,iccv, 2007. 
+title: objectsincontext year: ['2007'] span:(0,4) 
+CONF!!! Fast pose estimation with parameter sensitive hashing,proc. international conference on computer vision, pp. 750-757, oct. 2003. 
+title: fastposeestimationwithparametersensitivehashing year: ['2003'] span:(6,49) 
+CONF!!! On-Line Selection of Discriminative Tracking Features,iccv, pp. 346-352, 2003. 
+title: onlineselectionofdiscriminativetrackingfeatures year: ['2003'] span:(0,4) 
+CONF!!! Fast multiple object tracking via a hierarchical particle filter,iccv, pp. 212-219, 2005. 
+title: fastmultipleobjecttrackingviaahierarchicalparticle year: ['2005'] span:(0,4) 
+CONF!!! A background layer model for object tracking through occlusion,iccv, 2003. 
+title: abackgroundlayermodelforobjecttrackingthroughocclu year: ['2003'] span:(0,4) 
+CONF!!! Two-view motion segmentation by mixtures of dirichlet process with model selection and outlier removal,ieee iccv, pp. 2, 2007. 
+title: twoviewmotionsegmentationbymixturesofdirichletproc year: ['2007'] span:(5,9) 
+CONF!!! Simultaneous segmentation and 3d reconstruction of monocular image sequences,ieee iccv, pp. 1, 2007. 
+title: simultaneoussegmentationand3dreconstructionofmonoc year: ['2007'] span:(5,9) 
+CONF!!! Recognizing action at a distance,iccv, 2003. 
+title: recognizingactionatadistance year: ['2003'] span:(0,4) 
+CONF!!! Retrieving actions in movies,iccv, 2007. 
+title: retrievingactionsinmovies year: ['2007'] span:(0,4) 
+CONF!!! Fast crowd segmentation using shape indexing,proc. of ieee international conference on computer vision, 1–8, 2007. 
+title: fastcrowdsegmentationusingshapeindexing year: ['2007'] span:(14,57) 
+CONF!!! Bramble: A bayesian multiple-blob tracker,proc. of ieee international conference on computer vision, pp. 34-41, 2001. 
+title: brambleabayesianmultipleblobtracker year: ['2001'] span:(14,57) 
+CONF!!! Capturing natural hand articulation,iccv, 2001. 
+title: capturingnaturalhandarticulation year: ['2001'] span:(0,4) 
+CONF!!! Retrieving actions in movies,iccv, 2007. 
+title: retrievingactionsinmovies year: ['2007'] span:(0,4) 
+CONF!!! Deriving intrinsic images from image sequences,proc. iccv'ol, vol. 02, pp. 68-75, 2001. 
+title: derivingintrinsicimagesfromimagesequences year: ['2001'] span:(6,10) 
+CONF!!! Recognizing action at a distance,iccv, pp. 726-733, 2003. 
+title: recognizingactionatadistance year: ['2003'] span:(0,4) 
+CONF!!! A biologically inspired system for action recognition,iccv, pp. 1, 2007. 
+title: abiologicallyinspiredsystemforactionrecognition year: ['2007'] span:(0,4) 
+CONF!!! Event detection in crowded videos,iccv, 1–8, 2007. 
+title: eventdetectionincrowdedvideos year: ['2007'] span:(0,4) 
+CONF!!! Deformable template as active basis,iccv, pp. 2, 2007. 
+title: deformabletemplateasactivebasis year: ['2007'] span:(0,4) 
+CONF!!! Coupled detection and trajectory estimation for multi-object tracking,iccv, 2007. 
+title: coupleddetectionandtrajectoryestimationformultiobj year: ['2007'] span:(0,4) 
+CONF!!! Maintaining multimodality through mixture tracking,iccv, 2003. 
+title: maintainingmultimodalitythroughmixturetracking year: ['2003'] span:(0,4) 
+CONF!!! Shape gradients for histogram segmentation using active contours,proceedings of the international conference on computer vision, vol. 1, pp. 408-415, 2003. 
+title: shapegradientsforhistogramsegmentationusingactivec year: ['2003'] span:(19,62) 
+CONF!!! Tracking objects using density matching and shape priors,proceedings of the international conference on computer vision, vol. 2, pp. 1056-1062, 2003. 
+title: trackingobjectsusingdensitymatchingandshapepriors year: ['2003'] span:(19,62) 
+CONF!!! Total recall: Automatic query expansion with a generative feature model for object retrieval,iccv, pp. 1-8, 2007. 
+title: totalrecallautomaticqueryexpansionwithagenerativef year: ['2007'] span:(0,4) 
+CONF!!! Real-time simultaneous localisation and mapping with a single camera,iccv, pp. 1403-1410, 2003. 
+title: realtimesimultaneouslocalisationandmappingwithasin year: ['2003'] span:(0,4) 
+CONF!!! Real-Time SLAM Relocalisation,iccv, pp. 1-8, 2007. 
+title: realtimeslamrelocalisation year: ['2007'] span:(0,4) 
+CONF!!! On-line selection of discriminative tracking features,iccv'03, vol. 1, pp. 346-352, oct. 13–16, 2003. 
+title: onlineselectionofdiscriminativetrackingfeatures year: ['2003'] span:(0,4) 
+CONF!!! Bramble: A bayesian multiple-blob tracker,iccv'01, vol. 2, pp. 34-41, july 7–14. 2001. 
+title: brambleabayesianmultipleblobtracker year: ['2001'] span:(0,4) 
+CONF!!! Coupled detection and trajectory estimation for multi-object tracking,iccv'07, oct. 14–20, 2007. 
+title: coupleddetectionandtrajectoryestimationformultiobj year: ['2007'] span:(0,4) 
+CONF!!! A database and evaluation methodology for optical flow,iccv, 2007. 
+title: adatabaseandevaluationmethodologyforopticalflow year: ['2007'] span:(0,4) 
+CONF!!! Consistent segmentation for optical flow estimation,iccv, pp. 1308-1315, 2005. 
+title: consistentsegmentationforopticalflowestimation year: ['2005'] span:(0,4) 
+CONF!!! Temporally consistent reconstruction from multiple video streams using enhanced belief propagation,iccv, pp. 1-8, 2007. 
+title: temporallyconsistentreconstructionfrommultiplevide year: ['2007'] span:(0,4) 
+CONF!!! Optical flow estimation on coarse-to-fine region-trees using discrete optimization,iccv, 2009. 
+title: opticalflowestimationoncoarsetofineregiontreesusin year: ['2009'] span:(0,4) 
+CONF!!! A database and evaluation methodology for optical flow,proceedings of iccv, 2007, [online] available: http://vision.middlebury.edu/flow/. 
+title: adatabaseandevaluationmethodologyforopticalflow year: ['2007'] span:(15,19) 
+CONF!!! Relative epipolar motion of tracked features for correspondence in binocular stereo,ieee 11th international conference on computer vision, pp. 1-8, 2007. 
+title: relativeepipolarmotionoftrackedfeaturesforcorrespo year: ['2007'] span:(10,53) 
+CONF!!! A spectral technique for correspondence problems using pairwise constraints,iccv, vol. 2, pp. 1482-1489, october 2005. 
+title: aspectraltechniqueforcorrespondenceproblemsusingpa year: ['2005'] span:(0,4) 
+CONF!!! Actions as space-time shapes,iccv, 2005. 
+title: actionsasspacetimeshapes year: ['2005'] span:(0,4) 
+CONF!!! A biologically inspired system for action recognition,iccv, 2007. 
+title: abiologicallyinspiredsystemforactionrecognition year: ['2007'] span:(0,4) 
+CONF!!! Efficient visual event detection using volumetric features,iccv, pp. 166-173, 2005. 
+title: efficientvisualeventdetectionusingvolumetricfeatur year: ['2005'] span:(0,4) 
+CONF!!! Detecting pedestrians using patterns of motion and appearance,iccv, pp. 734-741, 2003. 
+title: detectingpedestriansusingpatternsofmotionandappear year: ['2003'] span:(0,4) 
+CONF!!! Tracking articulated body by dynamic Markov network,iccv'03, pp. 1094-1101, 2003. 
+title: trackingarticulatedbodybydynamicmarkovnetwork year: ['2003'] span:(0,4) 
+CONF!!! Fast automatic heart chamber segmentation from 3D CT data using marginal space learning and steerable features,iccv, 2007. 
+title: fastautomaticheartchambersegmentationfrom3dctdatau year: ['2007'] span:(0,4) 
+CONF!!! A database and evaluation methodology for optical flow,ieee int. conf on computer vision, 2007. 
+title: adatabaseandevaluationmethodologyforopticalflow year: ['2007'] span:(5,33) 
+CONF!!! Bramble: A bayesian multiple-blob tracker,proc. int. conf. computer vision, vol. 2, pp. 34-41, 2001. 
+title: brambleabayesianmultipleblobtracker year: ['2001'] span:(6,32) 
+CONF!!! Appearance Modeling under Geometric Context,iccv, 2005. 
+title: appearancemodelingundergeometriccontext year: ['2005'] span:(0,4) 
+CONF!!! Weighted and Robust Incremental Method for Subspace Learning,iccv, 2003. 
+title: weightedandrobustincrementalmethodforsubspacelearn year: ['2003'] span:(0,4) 
+CONF!!! Periodic motion detection and segmentation via approximate sequence alignment,iccv, pp. 816-823, 2005. 
+title: periodicmotiondetectionandsegmentationviaapproxima year: ['2005'] span:(0,4) 
+CONF!!! Space-time interest points,iccv, pp. 432-439, 2003. 
+title: spacetimeinterestpoints year: ['2003'] span:(0,4) 
+CONF!!! Parsing images of architectural scenes,ieee 11th international conference on computer vision, 2007. 
+title: parsingimagesofarchitecturalscenes year: ['2007'] span:(10,53) 
+CONF!!! The pyramid match kernel: Discriminative classification with sets of image features,in proceedings of the ieee international conference on computer vision (iccv), 2005. 
+title: thepyramidmatchkerneldiscriminativeclassificationw year: ['2005'] span:(72,76) 
+CONF!!! Geometric context from a single image,int. conf. on computer vision, 2005. 
+title: geometriccontextfromasingleimage year: ['2005'] span:(0,29) 
+CONF!!! A database and evaluation methodology for optical flow,int. conf. comp. vis., pp. 1-8, 2007. 
+title: adatabaseandevaluationmethodologyforopticalflow year: ['2007'] span:(0,21) 
+CONF!!! Surface parameterization using Riemann surface structure,proceedings of iccv, vol. 2, pp. 1061-1066, 2005. 
+title: surfaceparameterizationusingriemannsurfacestructur year: ['2005'] span:(15,19) 
+CONF!!! Joint feature distributions for image correspondence,proceedings of iccv, pp. 201-208, 2001. 
+title: jointfeaturedistributionsforimagecorrespondence year: ['2001'] span:(15,19) 
+CONF!!! Toward reconstructing surfaces with arbitrary isotropic reflectance: a stratified photometric stereo approach,proc. iccv 2007, pp. 1-8, 2007. 
+title: towardreconstructingsurfaceswitharbitraryisotropic year: ['2007', '2007'] span:(6,10) 
+CONF!!! Incorporating the Torrance and Sparrow model of reflectance in uncalibrated photometric stereo,proc. iccv 2003, pp. 816-823, 2003. 
+title: incorporatingthetorranceandsparrowmodelofreflectan year: ['2003', '2003'] span:(6,10) 
+CONF!!! Shapelets correlated with surface normals produce surfaces,proc. iccv 2005, pp. 11-994–1001, 2005. 
+title: shapeletscorrelatedwithsurfacenormalsproducesurfac year: ['2005', '2005'] span:(6,10) 
+CONF!!! Shape reconstruction based on similarity in radiance changes under varying illumination,proc. iccv 2007, pp. 1-8, 2007. 
+title: shapereconstructionbasedonsimilarityinradiancechan year: ['2007', '2007'] span:(6,10) 
+CONF!!! Manifold clustering,proc. iccv 2005, pp. 1–648-653, 2005. 
+title: manifoldclustering year: ['2005', '2005'] span:(6,10) 
+CONF!!! Coplanar shadowgrams for acquiring visual hulls of intricate objects,proc. iccv 2007, pp. 1-8, 2007. 
+title: coplanarshadowgramsforacquiringvisualhullsofintric year: ['2007', '2007'] span:(6,10) 
+CONF!!! A probabilistic framework for space carving,iccv, vol. 1, pp. 338-393, 2001. 
+title: aprobabilisticframeworkforspacecarving year: ['2001'] span:(0,4) 
+CONF!!! Non-rigid photometric stereo with colored lights,iccv, 2007. 
+title: nonrigidphotometricstereowithcoloredlights year: ['2007'] span:(0,4) 
+CONF!!! Real-time visibility-based fusion of depth maps,iccv, 2007. 
+title: realtimevisibilitybasedfusionofdepthmaps year: ['2007'] span:(0,4) 
+CONF!!! Improving numerical accuracy of Gröbner basis polynomial equation solver,iccv, 2007. 
+title: improvingnumericalaccuracyofgröbnerbasispolynomial year: ['2007'] span:(0,4) 
+CONF!!! Geometric context from a single image,iccv, pp. 654-661, 2005. 
+title: geometriccontextfromasingleimage year: ['2005'] span:(0,4) 
+CONF!!! Depth information by stage classification,iccv, 2007. 
+title: depthinformationbystageclassification year: ['2007'] span:(0,4) 
+CONF!!! Using high-level visual information for color constancy,iccv, 2007. 
+title: usinghighlevelvisualinformationforcolorconstancy year: ['2007'] span:(0,4) 
+CONF!!! Perspective shape from shading and viscosity solutions,ieee int. conf. on conputer vision, vol. 11, pp. 826-831, 2003. 
+title: perspectiveshapefromshadingandviscositysolutions year: ['2003'] span:(5,34) 
+CONF!!! Visual correspondence using energy minimization and mutual information,proc. of iccv, 2003. 
+title: visualcorrespondenceusingenergyminimizationandmutu year: ['2003'] span:(9,13) 
+CONF!!! Deriving intrinsic images from image sequences,proc. of iccv, 2001. 
+title: derivingintrinsicimagesfromimagesequences year: ['2001'] span:(9,13) 
+CONF!!! Stripe boundary codes for realtime structured-light range scanning of moving objects,iccv, vol. 2, pp. 359-366, 2001. 
+title: stripeboundarycodesforrealtimestructuredlightrange year: ['2001'] span:(0,4) 
+CONF!!! Reconstructing surfaces using anisotropic basis functions,proceedings of international conference on computer vision, pp. 606-613, 2001. 
+title: reconstructingsurfacesusinganisotropicbasisfunctio year: ['2001'] span:(15,58) 
+CONF!!! Improving numerical accuracy of Gröbner basis polynomial equation solver,iccv, 2007. 
+title: improvingnumericalaccuracyofgröbnerbasispolynomial year: ['2007'] span:(0,4) 
+CONF!!! Convex optimization for deformable surface 3-d tracking,in iccv, rio, brazil, october 2007. 
+title: convexoptimizationfordeformablesurface3dtracking year: ['2007'] span:(3,7) 
+CONF!!! Uncalibrated perspective reconstruction of deformable structures,iccv, 2005. 
+title: uncalibratedperspectivereconstructionofdeformables year: ['2005'] span:(0,4) 
+CONF!!! BraMBLe: A Bayesian Multiple-Blob Tracker,iccv, 2001. 
+title: brambleabayesianmultipleblobtracker year: ['2001'] span:(0,4) 
+CONF!!! Fusion of Multi-View Silhouette Cues Using a Space Occupancy Grid,iccv, 2005. 
+title: fusionofmultiviewsilhouettecuesusingaspaceoccupanc year: ['2005'] span:(0,4) 
+CONF!!! Computing geodesics and minimal surfaces via graph cuts,iccv '03, pp. 26, 2003. 
+title: computinggeodesicsandminimalsurfacesviagraphcuts year: ['2003'] span:(0,4) 
+CONF!!! A probabilistic framework for space carving,iccv, pp. 388-393, 2001. 
+title: aprobabilisticframeworkforspacecarving year: ['2001'] span:(0,4) 
+CONF!!! On the epipolar geometry of the crossed-slits projection,iccv '03, pp. 988-995, 2003. 
+title: ontheepipolargeometryofthecrossedslitsprojection year: ['2003'] span:(0,4) 
+CONF!!! Caustics of catadioptric cameras,iccv, pp. 2-9, 2001. 
+title: causticsofcatadioptriccameras year: ['2001'] span:(0,4) 
+CONF!!! Multiperspective projection and collineation,iccv '05 - volume 1, pp. 580-587, 2005. 
+title: multiperspectiveprojectionandcollineation year: ['2005'] span:(0,4) 
+CONF!!! Real-time visibility-based fusion of depth maps,int. conf. on computer vision, 2007. 
+title: realtimevisibilitybasedfusionofdepthmaps year: ['2007'] span:(0,29) 
+CONF!!! Stereo matching with the distinctive similarity measure,int. conf. on computer vision, 2007. 
+title: stereomatchingwiththedistinctivesimilaritymeasure year: ['2007'] span:(0,29) 
+CONF!!! Depth information by stage classification,proc. iccv, 2007. 
+title: depthinformationbystageclassification year: ['2007'] span:(6,10) 
+CONF!!! Landmark-based shape deformation with topology-preserving constraints,iccv, pp. 923-930, 2003. 
+title: landmarkbasedshapedeformationwithtopologypreservin year: ['2003'] span:(0,4) 
+CONF!!! Multi-view stereo for community photo collections,iccv, vol. 2, pp. 265-270, 2007. 
+title: multiviewstereoforcommunityphotocollections year: ['2007'] span:(0,4) 
+CONF!!! A Theory of Inverse Light Transport,ieee iccv, 2005. 
+title: atheoryofinverselighttransport year: ['2005'] span:(5,9) 
+CONF!!! Mode-seeking by medoidshifts,iccv 2007: proceedings of the 11 th international conference on computer vision, pp. 1-8, oct 2007. 
+title: modeseekingbymedoidshifts year: ['2007', '2007'] span:(0,4) 
+CONF!!! Multi-view stereo for community photo collections,proc. iccv, pp. 1-8, 2007. 
+title: multiviewstereoforcommunityphotocollections year: ['2007'] span:(6,10) 
+CONF!!! Space-time interest points,international conference on computer vision, 2003. 
+title: spacetimeinterestpoints year: ['2003'] span:(0,43) 
+CONF!!! Video google: A text retrieval approach to object matching in videos,international conference on computer vision, vol. 2, 2003. 
+title: videogoogleatextretrievalapproachtoobjectmatchingi year: ['2003'] span:(0,43) 
+CONF!!! Actions as Space-Time Shapes,iccv, 2005. 
+title: actionsasspacetimeshapes year: ['2005'] span:(0,4) 
+CONF!!! A Biologically Inspired System for Action Recognition,iccv, 2007. 
+title: abiologicallyinspiredsystemforactionrecognition year: ['2007'] span:(0,4) 
+CONF!!! Active learning with gaussian processes for object categorization,iccv, 2007. 
+title: activelearningwithgaussianprocessesforobjectcatego year: ['2007'] span:(0,4) 
+CONF!!! Event Detection in Crowded Videos,iccv, 2007. 
+title: eventdetectionincrowdedvideos year: ['2007'] span:(0,4) 
+CONF!!! Support kernel machines for object recognition,iccv, 2007. 
+title: supportkernelmachinesforobjectrecognition year: ['2007'] span:(0,4) 
+CONF!!! Space-Time Interest Points,iccv, 2003. 
+title: spacetimeinterestpoints year: ['2003'] span:(0,4) 
+CONF!!! Extracting Spatiotemporal Interest Points using Global Information,iccv, october 2007. 
+title: extractingspatiotemporalinterestpointsusingglobali year: ['2007'] span:(0,4) 
+CONF!!! A Scalable Approach to Activity Recognition Based on Object Use,iccv, 2007. 
+title: ascalableapproachtoactivityrecognitionbasedonobjec year: ['2007'] span:(0,4) 
+CONF!!! Chaotic invariants for human action recognition,iccv, 2007. 
+title: chaoticinvariantsforhumanactionrecognition year: ['2007'] span:(0,4) 
+CONF!!! Phase based modelling of dynamic textures,iccv, 2007. 
+title: phasebasedmodellingofdynamictextures year: ['2007'] span:(0,4) 
+CONF!!! Harvesting image databases from the web,iccv, 2007. 
+title: harvestingimagedatabasesfromtheweb year: ['2007'] span:(0,4) 
+CONF!!! Object categorization by learned universal visual dictionary,iccv, 2005. 
+title: objectcategorizationbylearneduniversalvisualdictio year: ['2005'] span:(0,4) 
+CONF!!! Object categorization by learned universal visual dictionary,international conference on computer vision, 2005. 
+title: objectcategorizationbylearneduniversalvisualdictio year: ['2005'] span:(0,43) 
+CONF!!! Learning globally consistent local distance functions for shape-based image retrieval and classification,iccv, 2007. 
+title: learninggloballyconsistentlocaldistancefunctionsfo year: ['2007'] span:(0,4) 
+CONF!!! Vector quantizing feature space with a regular lattice,iccv, 2007. 
+title: vectorquantizingfeaturespacewitharegularlattice year: ['2007'] span:(0,4) 
+CONF!!! Geometric context from a single image,iccv, pp. 654-661, 2005. 
+title: geometriccontextfromasingleimage year: ['2005'] span:(0,4) 
+CONF!!! A hierarchical field framework for unified context-based classification,iccv, pp. 1284-1291, 2005. 
+title: ahierarchicalfieldframeworkforunifiedcontextbasedc year: ['2005'] span:(0,4) 
+CONF!!! Objects in context,iccv, 2007. 
+title: objectsincontext year: ['2007'] span:(0,4) 
+CONF!!! Learning auto-structured regressor from uncertain nonnegative labels,ieee conf. on iccv, 2007. 
+title: learningautostructuredregressorfromuncertainnonneg year: ['2007'] span:(14,18) 
+CONF!!! Image based regression using boosting method,ieee conf. on iccv, pp. 541-548, 2005. 
+title: imagebasedregressionusingboostingmethod year: ['2005'] span:(14,18) 
+CONF!!! Shape descriptors for maximally stable extremal regions,iccv, 2007. 
+title: shapedescriptorsformaximallystableextremalregions year: ['2007'] span:(0,4) 
+CONF!!! Efficient mining of frequent and distinctive feature configurations,iccv, pp. 1, 2007. 
+title: efficientminingoffrequentanddistinctivefeatureconf year: ['2007'] span:(0,4) 
+CONF!!! Video Google: A text retrieval approach to object matching in videos,iccv, pp. 1, oct. 2003. 
+title: videogoogleatextretrievalapproachtoobjectmatchingi year: ['2003'] span:(0,4) 
+CONF!!! Vector quantizing feature space with a regular lattice,iccv, pp. 1, 2007. 
+title: vectorquantizingfeaturespacewitharegularlattice year: ['2007'] span:(0,4) 
+CONF!!! Shape descriptors for maximally stable extremal regions,international conference on computer vision (iccv), october 2007. 
+title: shapedescriptorsformaximallystableextremalregions year: ['2007'] span:(45,49) 
+CONF!!! A Biologically Inspired System for Action Recognition,iccv, 2007. 
+title: abiologicallyinspiredsystemforactionrecognition year: ['2007'] span:(0,4) 
+CONF!!! Chaotic invariants for human action recognition,iccv, 2007. 
+title: chaoticinvariantsforhumanactionrecognition year: ['2007'] span:(0,4) 
+CONF!!! Actions as space-time shapes,iccv, 2005. 
+title: actionsasspacetimeshapes year: ['2005'] span:(0,4) 
+CONF!!! Combining generative models and fisher kernels for object recognition,iccv, vol. 1, pp. 136-143, 2005. 
+title: combininggenerativemodelsandfisherkernelsforobject year: ['2005'] span:(0,4) 
+CONF!!! Background modeling and subtraction of dynamic scenes,iccv, 2003. 
+title: backgroundmodelingandsubtractionofdynamicscenes year: ['2003'] span:(0,4) 
+CONF!!! Segmenting foreground objects from a dynamic textured background via a robust Kalman filter,iccv, 2003. 
+title: segmentingforegroundobjectsfromadynamictexturedbac year: ['2003'] span:(0,4) 
+CONF!!! Spectral regression for efficient regularized subspace learning,iccv, 2007. 
+title: spectralregressionforefficientregularizedsubspacel year: ['2007'] span:(0,4) 
+CONF!!! Discriminant embedding for local image descriptors,iccv, 2007. 
+title: discriminantembeddingforlocalimagedescriptors year: ['2007'] span:(0,4) 
+CONF!!! A Robust Interest Points Matching Algorithm,iccv'01, 2001. 
+title: arobustinterestpointsmatchingalgorithm year: ['2001'] span:(0,4) 
+CONF!!! Preemptive RANSAC for Live Structure and Motion Estimation,iccv'03, 2003. 
+title: preemptiveransacforlivestructureandmotionestimatio year: ['2003'] span:(0,4) 
+CONF!!! Extracting texels in 2.1d natural textures,iccv, 2007. 2. 
+title: extractingtexelsin21dnaturaltextures year: ['2007'] span:(0,4) 
+CONF!!! Learning structured appearance models from captioned images of cluttered scenes,iccv, pp. 1-8, oct. 2007. 3. 
+title: learningstructuredappearancemodelsfromcaptionedima year: ['2007'] span:(0,4) 
+CONF!!! Video Google: A text retrieval approach to object matching in videos,iccv, 2003. 2. 
+title: videogoogleatextretrievalapproachtoobjectmatchingi year: ['2003'] span:(0,4) 
+CONF!!! Spatial random partition for common visual pattern discovery,iccv, pp. 1-8, 2007. 6. 
+title: spatialrandompartitionforcommonvisualpatterndiscov year: ['2007'] span:(0,4) 
+CONF!!! Discriminant Embedding for Local Image Descriptors,iccv, 2007. 
+title: discriminantembeddingforlocalimagedescriptors year: ['2007'] span:(0,4) 
+CONF!!! Proximity Distribution Kernels for Geometri c Context in Category Recognition,iccv, 2007. 
+title: proximitydistributionkernelsforgeometriccontextinc year: ['2007'] span:(0,4) 
+CONF!!! Fast Pose Estimation with Parameter-Sensitive Hashing,iccv, 2003. 
+title: fastposeestimationwithparametersensitivehashing year: ['2003'] span:(0,4) 
+CONF!!! Learning the Discriminative Power-Invariance Trade-Off,iccv, 2007. 
+title: learningthediscriminativepowerinvariancetradeoff year: ['2007'] span:(0,4) 
+CONF!!! Learning the discriminative power-invariance trade-off,iccv, 2007. 
+title: learningthediscriminativepowerinvariancetradeoff year: ['2007'] span:(0,4) 
+CONF!!! Randomized RANSAC with sequential probability ratio test,intl. conf. on computer vision (iccv), pp. 1727-1732, 2005. 
+title: randomizedransacwithsequentialprobabilityratiotest year: ['2005'] span:(32,36) 
+CONF!!! Preemptive RANSAC for live structure and motion estimation,intl. conf. on computer vision, 2003. 
+title: preemptiveransacforlivestructureandmotionestimatio year: ['2003'] span:(0,30) 
+CONF!!! Context-based vision system for place and object recognition,proc. of iccv, 2003. 
+title: contextbasedvisionsystemforplaceandobjectrecogniti year: ['2003'] span:(9,13) 
+CONF!!! Non-homogeneous content-driven video-retargeting,iccv, 2007. 
+title: nonhomogeneouscontentdrivenvideoretargeting year: ['2007'] span:(0,4) 
+CONF!!! Video google: A text retrieval approach to object matching in videos,iccv, vol. 2, pp. 1470-1477, 2003. 
+title: videogoogleatextretrievalapproachtoobjectmatchingi year: ['2003'] span:(0,4) 
+CONF!!! A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics,iccv, vol. 2, pp. 416-423, 2001. 
+title: adatabaseofhumansegmentednaturalimagesanditsapplic year: ['2001'] span:(0,4) 
+CONF!!! A Nonlinear Discriminative Approach to AAM Fitting,iccv, 2007. 
+title: anonlineardiscriminativeapproachtoaamfitting year: ['2007'] span:(0,4) 
+CONF!!! A Sparse Probabilistic Learning Algorithm for Real-time Tracking,iccv, vol. 1, pp. 353-360, 2003. 
+title: asparseprobabilisticlearningalgorithmforrealtimetr year: ['2003'] span:(0,4) 
+CONF!!! LogCut - efficient graph cut optimization for Markov random fields,iccv, 2007. 
+title: logcutefficientgraphcutoptimizationformarkovrandom year: ['2007'] span:(0,4) 
+CONF!!! A spectral technique for correspondence problems using pairwise constraints,iccv, 2005. 
+title: aspectraltechniqueforcorrespondenceproblemsusingpa year: ['2005'] span:(0,4) 
+CONF!!! Recognition of shapes by editing shock graphs,iccv, 2001. 
+title: recognitionofshapesbyeditingshockgraphs year: ['2001'] span:(0,4) 
+CONF!!! Multiscale edge detection and fiber enhancement using differences of oriented means,iccv, 2007. 
+title: multiscaleedgedetectionandfiberenhancementusingdif year: ['2007'] span:(0,4) 
+CONF!!! Recovering occlusion boundaries from a single image,iccv, 2007. 
+title: recoveringocclusionboundariesfromasingleimage year: ['2007'] span:(0,4) 
+CONF!!! A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics,iccv, 2001. 
+title: adatabaseofhumansegmentednaturalimagesanditsapplic year: ['2001'] span:(0,4) 
+CONF!!! Contour-based learning for object detection,iccv, 2005. 
+title: contourbasedlearningforobjectdetection year: ['2005'] span:(0,4) 
+CONF!!! Learning to find object boundaries using motion cues,iccv, 2007. 
+title: learningtofindobjectboundariesusingmotioncues year: ['2007'] span:(0,4) 
+CONF!!! No grouping left behind: From edges to curve fragments,iccv, 2007. 
+title: nogroupingleftbehindfromedgestocurvefragments year: ['2007'] span:(0,4) 
+CONF!!! A symmetry-based generative model for shape,iccv, 2007. 
+title: asymmetrybasedgenerativemodelforshape year: ['2007'] span:(0,4) 
+CONF!!! Untangling cycles for contour grouping,iccv, 2007. 
+title: untanglingcyclesforcontourgrouping year: ['2007'] span:(0,4) 
+CONF!!! Indexing based on scale invariant interest points,8th international conferenceon computer vision, pp. 525-531, 2001. 
+title: indexingbasedonscaleinvariantinterestpoints year: ['2001'] span:(4,46) 
+CONF!!! Dynamic refraction stereo,tenth ieee international conference on computer vision 2005. iccv 2005, vol. 2, 2005. 
+title: dynamicrefractionstereo year: ['2005', '2005', '2005'] span:(61,65) 
+CONF!!! Applications of parametric maxflow in computer vision,iccv, 2007. 
+title: applicationsofparametricmaxflowincomputervision year: ['2007'] span:(0,4) 
+CONF!!! MRF optimization via dual decomposition: Message-passing revisited,iccv, 2007. 
+title: mrfoptimizationviadualdecompositionmessagepassingr year: ['2007'] span:(0,4) 
+CONF!!! Joint optimization of segmentation and appearance models,iccv, 2009. 
+title: jointoptimizationofsegmentationandappearancemodels year: ['2009'] span:(0,4) 
+CONF!!! Diffusion tensor estimation by maximizing Rician likelihood,iccv, pp. 1-8, 2007. 
+title: diffusiontensorestimationbymaximizingricianlikelih year: ['2007'] span:(0,4) 
+CONF!!! Learning local evidence for shading and reflectance,proc. of the int. conference on computer vision, vol. 1, pp. 670-677, 2001. 
+title: learninglocalevidenceforshadingandreflectance year: ['2001'] span:(13,47) 
+CONF!!! Deriving intrinsic images from image sequences,proc. of the int. conf. on computer vision, vol. 2, pp. 68-75, 2001. 
+title: derivingintrinsicimagesfromimagesequences year: ['2001'] span:(13,42) 
+CONF!!! Video Google: A text retrieval approach to object matching in videos,iccv, pp. 1470-1477, 2003. 
+title: videogoogleatextretrievalapproachtoobjectmatchingi year: ['2003'] span:(0,4) 
+CONF!!! Ricci flow for 3D shape analysis,computer vision 2007. iccv 2007. ieee 11th international conference on, pp. 1-8, oct. 2007. 
+title: ricciflowfor3dshapeanalysis year: ['2007', '2007', '2007'] span:(22,26) 
+CONF!!! A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics,iccv 2001, vol. 2, pp. 416-423, july 2001. 
+title: adatabaseofhumansegmentednaturalimagesanditsapplic year: ['2001', '2001'] span:(0,4) 
+CONF!!! Depth and appearance for mobile scene analysis,proc. iccv, 2007. 
+title: depthandappearanceformobilesceneanalysis year: ['2007'] span:(6,10) 
