@@ -55,7 +55,7 @@ if __name__ == '__main__':
         if name.endswith('.json'):
             parse_dir(name)
             print("process finish : ", name)
-            break
+            # break
 
     # parse_dir('iccv2015_paper_infos.json')
 
@@ -65,8 +65,7 @@ if __name__ == '__main__':
     info['rela_a2p'] = rela_a2p
     info['rela_p2a'] = rela_p2a
 
-    json.dump(info, open('FDG-info2.json', "w"));
-
+    json.dump(info, open('FDG-info.json', "w"));
 
     # # author 有6471人
     # print(len(info['rela_a2p'].keys()))

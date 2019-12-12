@@ -18,10 +18,17 @@ let force_svg;
 let div;
 let simulation;
 
-let font_size = 5;
+// 展示字体大小
+let font_size = 16;
+// 节点大小
+let circle_size = 10;
+// 高亮字体大小：保留
 let font_size_highlight = 7;
+// 论文节点颜色
 let paper_color = "green";
+// 作者节点颜色：保留
 let author_color = "blue";
+// 图片大小
 let image_size = 8;
 
 //拖拽开始绑定的回调函数参数为node节点，首先判断事件是否活动并设置动画的a曲线值。
@@ -63,9 +70,7 @@ function click_update(node_name, node_id){
     if (node_id[0] == 'a'){
         return;
     }
-
     clearFDG();
-
     nodes = [];
     links = [];
     let author = [];
@@ -96,7 +101,6 @@ function click_update(node_name, node_id){
     // console.log(nodes);
     // console.log(links);
 
-    // update();
     showForce(-1000);
 }
 
@@ -148,7 +152,6 @@ function showForce(strengh_force = -10){
         .attr('marker-end','url(#end)')
         .style("stroke","#ccc")
         .style("pointer-events", "none");
-
     link = linkEnter.merge(link);
 
     // remove 
@@ -162,8 +165,6 @@ function showForce(strengh_force = -10){
             div.transition()
                 .duration(200)
                 .style("opacity", .9);
-            // 细节：增加论文的引用数
-            // div.html(d.node_name)
             div.html(() => {
                     if (d.node_id[0] == 'p'){
                         return d.node_name + "<br>year: " + d.node_id.substring(6, 10) + " cite: " + d.node_cite;
@@ -183,8 +184,6 @@ function showForce(strengh_force = -10){
 
             // 将已有的text内容上移
             d3.select(this).select("text")
-                // .transition()
-                // .duration(200)
                 .attr("dx", -10)
                 .attr("dy",-10)
                 .style("fill", "blue")
@@ -207,8 +206,6 @@ function showForce(strengh_force = -10){
                 .attr("height", 2 * image_size); 
 
             d3.select(this).select("text")
-                // .transition()
-                // .duration(200)
                 .attr("dx",5)
                 .attr("dy",5)
                 .style("fill", "black")
@@ -234,23 +231,22 @@ function showForce(strengh_force = -10){
         .attr("dx", 5)
         .attr("dy", 5)
         .text(function(d) {
-            // console.log(d.node_id);
             if (d.node_id[0] == "a") {
-                // console.log("judge true", d.node_id);
                 return d.node_name;
             } else{
                 return "";
             }
         });
 
-    //new
+    //add circle
     node_circle = nodeEnter
         .append("circle")
         .attr("r", function(d,i){
             if (d.node_id[0] == 'p'){
-                return Math.min(6, Math.max(2, Math.sqrt(d.node_cite / 2)));
+                return Math.min(2 * circle_size, Math.max(circle_size - 1, Math.sqrt(d.node_cite / 2)));
+                // return Math.min(6, Math.max(2, Math.sqrt(d.node_cite / 2)));
             }else{
-                return 3;
+                return circle_size;
             }
         })
         .style("fill", function(d,i){
@@ -275,9 +271,9 @@ function showForce(strengh_force = -10){
                 return 0;
             }
         });
-   
-    //new
-    var node_image = nodeEnter.append("image")
+    
+    //add image
+    node_image = nodeEnter.append("image")
     .attr("xlink:href", function(d, i) {
         if (d.node_id[0] == 'a') {
             return "./img/people.png";
@@ -293,42 +289,45 @@ function showForce(strengh_force = -10){
     node = nodeEnter.merge(node);
 }
 
-// 读取json文件
-d3.json("./data/FDG-info.json", function(data){
-
-    total_links = data.links;
-    total_nodes = data.nodes;
-
-    // nodes = [{"node_id": "paper-2001-45", "node_name": "Human tracking in multiple cameras", "node_cite": 110}, {"node_id": "author-S. Khan", "node_name": "S. Khan"}];
-    // links = [{"source": "author-S. Khan", "target": "paper-2001-45"}];
-
-    // console.log(nodes);
-
-    links = total_links;
-    nodes = total_nodes;
-
-    rela_p2a = data.rela_p2a;
-    rela_a2p = data.rela_a2p;
-
+function FDG_init(){
     div = d3.select("body").append("div")
         .attr("class", "tooltip")
         .style("opacity", 0);
 
     // 缩放功能
     force_svg = d3.select("body").append("div")
-    .append("svg")
-    .attr("viewBox", [0, 0, width, height])
-    // 设置div的宽和高
-    // .attr("width", width)
-    // .attr("height", height)
-    .style("fill","white")
-    .call(d3.zoom().scaleExtent([1 / 2, 8]).on("zoom", function () {force_svg.attr("transform", d3.event.transform)})).append("g");
-    
+        .append("svg")
+        .attr("viewBox", [0, 0, width, height])
+        // 设置div的宽和高
+        .attr("width", width)
+        .attr("height", height)
+        .style("fill","white")
+        .call(d3.zoom().scaleExtent([1 / 2, 8]).on("zoom", function () {force_svg.attr("transform", d3.event.transform)})).append("g");
+        
     force_svg.append("g").attr("id","link_group");
     force_svg.append("g").attr("id","node_group");
 
     node = force_svg.select("#node_group").selectAll(".node");
     link = force_svg.select("#link_group").selectAll(".line");
 
+}
+
+// 读取json文件
+d3.json("./data/FDG-info.json", function(data){
+
+    total_links = data.links;
+    total_nodes = data.nodes;
+
+    // nodes = total_nodes;
+    // links = total_links;
+
+    nodes = [{"node_id": "paper-2001-45", "node_name": "Human tracking in multiple cameras", "node_cite": 110}, {"node_id": "author-S. Khan", "node_name": "S. Khan"}];
+    links = [{"source": "author-S. Khan", "target": "paper-2001-45"}];
+
+    // console.log(nodes);
+    rela_p2a = data.rela_p2a;
+    rela_a2p = data.rela_a2p;
+
+    FDG_init();
     showForce();
 });
