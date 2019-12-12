@@ -28,6 +28,8 @@ let font_size_highlight = 7;
 let paper_color = "green";
 // 作者节点颜色：保留
 let author_color = "blue";
+// 选定节点颜色
+let center_color = "red";
 // 图片大小
 let image_size = 8;
 
@@ -98,10 +100,7 @@ function click_update(node_name, node_id){
         .duration(200)
         .style("opacity", 0);
 
-    // console.log(nodes);
-    // console.log(links);
-
-    showForce(-1000);
+    showForce(-1000, node_id);
 }
 
 function simulate(strengh_force){
@@ -111,8 +110,9 @@ function simulate(strengh_force){
     .force("charge", d3.forceManyBody().strength(strengh_force))
     .force("x", d3.forceX())
     .force("y", d3.forceY())
-    // .force("charge", d3.forceManyBody())
     .force("center", d3.forceCenter(width / 2, height / 2));
+
+    simulation.force("link").links(links).distance(100);
 
     simulation.on("tick", () => {
         link
@@ -136,7 +136,7 @@ function simulate(strengh_force){
     });
 }
 
-function showForce(strengh_force = -10){
+function showForce(strengh_force = -10, node_id = ""){
     links = links.map(d => Object.create(d));
     nodes = nodes.map(d => Object.create(d));
 
@@ -224,13 +224,17 @@ function showForce(strengh_force = -10){
                 .on("end", dragended)
         );
 
+    let idx = -1;
     //new 
     node_text = nodeEnter.append("text")
         .style("fill", "black")
         .style("font-size", font_size)
         .attr("dx", 5)
         .attr("dy", 5)
-        .text(function(d) {
+        .text(function(d, i) {
+            if (d.node_id == node_id){
+                idx = i;
+            }
             if (d.node_id[0] == "a") {
                 return d.node_name;
             } else{
@@ -250,6 +254,9 @@ function showForce(strengh_force = -10){
             }
         })
         .style("fill", function(d,i){
+            if (i == idx){
+                return center_color;
+            }
             if (d.node_id[0] == 'p'){
                 return paper_color;
             }else{
@@ -286,6 +293,11 @@ function showForce(strengh_force = -10){
     .attr("width", 2 * image_size)
     .attr("height", 2 * image_size); 
 
+    if (idx != -1){
+        nodes[idx].fx = width / 2;
+        nodes[idx].fy = height / 2;
+    }
+
     node = nodeEnter.merge(node);
 }
 
@@ -309,7 +321,6 @@ function FDG_init(){
 
     node = force_svg.select("#node_group").selectAll(".node");
     link = force_svg.select("#link_group").selectAll(".line");
-
 }
 
 // 读取json文件
