@@ -25,9 +25,13 @@ function wordCloud() {
         .attr("width", width)
         .attr("height", height)
         .style("fill","white")
-        .call(d3.zoom().scaleExtent([1 / 2, 8]).on("zoom", function () {wordle_svg.attr("transform", d3.event.transform)}))
+        .call(d3.zoom().scaleExtent([1 / 2, 8]).on("zoom", function () {
+            // wordle_svg.attr("transform", d3.event.transform);
+            // console.log(d3.event.scale);
+            wordle_svg.attr("transform", "translate(" + [d3.event.transform.x + width / 2, d3.event.transform.y + height / 2] + ")");
+        }))
         .append("g")
-        .attr("class", "wordcloud")
+        .attr("id", "wordcloud")
         .attr("transform", "translate(" + [width / 2, height / 2] + ")");
 
     //Draw the word cloud

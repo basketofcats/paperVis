@@ -325,7 +325,6 @@ function FDG_init(){
 
 // 读取json文件
 d3.json("./data/FDG-info.json", function(data){
-
     total_links = data.links;
     total_nodes = data.nodes;
 
