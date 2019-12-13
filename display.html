@@ -7,6 +7,7 @@
         <title> force directed graph vis </title>
 
         <style type="text/css">
+            /* force dericted graph */
             div.tooltip {
                 position: absolute;
                 text-align: center;
@@ -20,24 +21,34 @@
                 pointer-events: none;
             }
 
-            /* .run-button{
-                left: 50px;
-                width: 100px;
-                top: 48px;
-                position: absolute;
-                float: left;
-                font-size: large;
-            } */
+            /* wordle */
+            .wordle_slider{left:200px; top:50px; width:350px; margin: 30px auto;}
+            #wordle_button{left:700px; top:25px; width:100px; position: absolute;}
+            
         </style>
+
+        <link rel="stylesheet" href="./css/jquery.range.css" />
 
     </head>
 
     <body>
-        <script src="./d3.v3.min.js" charset="utf-8"></script>
+        <script src="./js/d3.v3.min.js" charset="utf-8"></script>
         <script src="https://d3js.org/d3.v4.min.js"></script>
         <script src="http://code.jquery.com/jquery-1.4.1.min.js"></script>
-        <script src="./force_directed.js" charset="utf-8"></script>    
+        
+        <!-- <script src="./js/force_directed.js" charset="utf-8"></script>     -->
+        
+        <div class="wordle_slider">
+            <input class="range-slider"  type="hidden" value="2001, 2017"/>
+            <button id="wordle_button">更新</button>
+        </div>
 
+        <script src="./js/d3.layout.cloud.js"></script>
+
+        <script src="./js/jquery-1.7.2.min.js"></script>
+        <script src="./js/jquery.range.js"></script>
+
+        <script src="./js/wordle.js" charset="utf-8"></script>  
     </body>
 
 </html>
