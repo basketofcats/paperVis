@@ -1,54 +1,100 @@
 <!DOCTYPE html>
+<html lang="en">
 
-<html>
-    <head>
-        
-        <meta charset="utf-8">
-        <title> force directed graph vis </title>
+<head>
+    <meta charset="UTF-8">
+    <title>Visualization</title>
 
-        <style type="text/css">
-            /* force dericted graph */
-            div.tooltip {
-                position: absolute;
-                text-align: center;
-                width: 300px;
-                height: auto;
-                padding: 2px;
-                font: 12px sans-serif;
-                background: lightsteelblue;
-                border: 0px;
-                border-radius: 8px;
-                pointer-events: none;
-            }
+    <link rel="stylesheet" href="css/style.css" media="screen" type="text/css"/>
+    <link rel="stylesheet" href="./css/jquery.range.css" />
 
-            /* wordle */
-            .wordle_slider{left:200px; top:50px; width:350px; margin: 30px auto;}
-            #wordle_button{left:700px; top:25px; width:100px; position: absolute;}
-            
-        </style>
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="./js/d3.layout.cloud.js"></script>
+    <script src="./js/jquery-1.7.2.min.js"></script>
+    <script src="./js/jquery.range.js"></script>
+</head>
 
-        <link rel="stylesheet" href="./css/jquery.range.css" />
+<body>
+<div class="logo">Paper Visualization</div>
+<div style="text-align:center;clear:both;">
 
-    </head>
+</div>
+<article class="tabs">
 
-    <body>
-        <script src="./js/d3.v3.min.js" charset="utf-8"></script>
-        <script src="https://d3js.org/d3.v4.min.js"></script>
-        <script src="http://code.jquery.com/jquery-1.4.1.min.js"></script>
-        
-        <!-- <script src="./js/force_directed.js" charset="utf-8"></script>     -->
-        
-        <div class="wordle_slider">
-            <input class="range-slider"  type="hidden" value="2001, 2017"/>
-            <button id="wordle_button">更新</button>
+    <input checked class="tab-input" id="reference" name="tabs" type="radio" value="1">
+    <label for="reference" class="tab-label">引用关系图</label>
+
+    <input id="details" class="tab-input" name="tabs" type="radio" value="2">
+    <label for="details" class="tab-label">论文详情</label>
+
+    <input id="cooperation" class="tab-input" name="tabs" type="radio" value="3">
+    <label for="cooperation" class="tab-label">合作关系图</label>
+
+    <input id="keywords" class="tab-input" name="tabs" type="radio" value="4">
+    <label for="keywords" class="tab-label">关键词词云</label>
+
+    <div class="panels">
+
+        <div class="panel" id="panel_1">
+            <label for="searchTitle">Search Title</label>
+            <input id="searchTitle" type="text">
+            <button class="myButton" onclick="searchTitle()">Search</button>
+            <label for="citationCheckbox"><input id="citationCheckbox" type="checkbox">Citations</label>
+            <span>
+                <button class="myButton" onclick="sortByTitle()">Sort by title</button>
+            </span>
+            <span>
+                <button class="myButton" onclick="sortByCitation()">Sort by citation</button>
+            </span>
+            <span>
+                <button class="myButton" onclick="clearSelectedPaper()">Clear</button>
+            </span>
+
+            <div id="pView" style="text-align: center;"></div>
         </div>
 
-        <script src="./js/d3.layout.cloud.js"></script>
+        <div class="panel" id="panel_2">
+            <div class="container">
+                <div class="row" style="height:450px;">
+                    <div id="pDetails" style="text-align: center;">
+                    </div>
+                </div>
+            </div>
+        </div>
 
-        <script src="./js/jquery-1.7.2.min.js"></script>
-        <script src="./js/jquery.range.js"></script>
+        <div class="panel" id="panel_3">
+        </div>
 
-        <script src="./js/wordle.js" charset="utf-8"></script>  
-    </body>
+        <div class="panel" id="panel_4">
+            <div class="wordle_slider">
+                <input class="range-slider"  type="hidden" value="2001, 2017"/>
+            </div>
+        </div>
+
+    </div>
+
+</article>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#panel_1").show();
+        $("#panel_2").hide();
+        $("#panel_3").hide();
+        $("#panel_4").hide();
+    });
+    $("input:radio[name='tabs']").change(function () {
+        let opt = $("input:radio[name='tabs']:checked").val();
+        $("#panel_1").hide();
+        $("#panel_2").hide();
+        $("#panel_3").hide();
+        $("#panel_4").hide();
+        $("#panel_" + opt).show();
+    });
+</script>
+<script src="js/ref_script.js"></script>
+<script src="js/force_directed.js"></script>
+<script src="js/wordle.js" charset="utf-8"></script>
+
+</body>
 
 </html>

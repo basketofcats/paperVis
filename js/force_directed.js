@@ -1,5 +1,5 @@
-let width = 600;
-let height = 600;
+let force_width = 1000;
+let force_height = 600;
 
 // 数据
 let total_links;
@@ -54,8 +54,8 @@ function dragended(d) {
 }
 
 function clearFDG(){
-    nodes = []
-    links = []
+    nodes = [];
+    links = [];
     links = links.map(d => Object.create(d));
     nodes = nodes.map(d => Object.create(d));
 
@@ -76,12 +76,12 @@ function click_update(node_name, node_id){
     nodes = [];
     links = [];
     let author = [];
-    for (i in rela_p2a[node_name]){
+    for (let i in rela_p2a[node_name]){
         let idx = rela_p2a[node_name][i];
         author.push(total_nodes[idx]);
         nodes.push(total_nodes[idx]);
     }
-    for (i in author){
+    for (let i in author){
         let auth = author[i].node_name;
         for (j in rela_a2p[auth]){
             let idx = rela_a2p[auth][j];
@@ -92,7 +92,6 @@ function click_update(node_name, node_id){
             l['source'] = author[i].node_id;
             l['target'] = total_nodes[idx].node_id;
             links.push(l);
-
         }
     }
 
@@ -110,7 +109,7 @@ function simulate(strengh_force){
     .force("charge", d3.forceManyBody().strength(strengh_force))
     .force("x", d3.forceX())
     .force("y", d3.forceY())
-    .force("center", d3.forceCenter(width / 2, height / 2));
+    .force("center", d3.forceCenter(force_width / 2, force_height / 2));
 
     simulation.force("link").links(links).distance(100);
 
@@ -127,7 +126,10 @@ function simulate(strengh_force){
             return "translate(" + d.x + "," + d.y + ")";
         });
         // 更新文字坐标
-        node_text.attr("cx", function(d) {
+        node_text
+            .transition()
+            .duration(1000)
+            .attr("cx", function(d) {
                 return d.x;
             })
             .attr("cy", function(d) {
@@ -172,8 +174,10 @@ function showForce(strengh_force = -10, node_id = ""){
                         return d.node_name;
                     }
                 })
-                .style("left", (d3.event.pageX + 10) + "px")
-                .style("top", (d3.event.pageY) + "px");
+                .style("left", (d3.event.pageX - 70) + "px")
+                .style("top", (d3.event.pageY - 90) + "px");
+                // .style("left", (d3.event.pageX + 10) + "px")
+                // .style("top", (d3.event.pageY) + "px");
 
             d3.select(this).select("image").transition()
                 .duration(200)
@@ -245,6 +249,8 @@ function showForce(strengh_force = -10, node_id = ""){
     //add circle
     node_circle = nodeEnter
         .append("circle")
+        .transition()
+        .duration(100)
         .attr("r", function(d,i){
             if (d.node_id[0] == 'p'){
                 return Math.min(2 * circle_size, Math.max(circle_size - 1, Math.sqrt(d.node_cite / 2)));
@@ -294,25 +300,25 @@ function showForce(strengh_force = -10, node_id = ""){
     .attr("height", 2 * image_size); 
 
     if (idx != -1){
-        nodes[idx].fx = width / 2;
-        nodes[idx].fy = height / 2;
+        nodes[idx].fx = force_width / 2;
+        nodes[idx].fy = force_height / 2;
     }
 
     node = nodeEnter.merge(node);
 }
 
 function FDG_init(){
-    div = d3.select("body").append("div")
+    div = d3.select("#panel_3").append("div")
         .attr("class", "tooltip")
         .style("opacity", 0);
 
     // 缩放功能
-    force_svg = d3.select("body").append("div")
+    force_svg = d3.select("#panel_3").append("div")
         .append("svg")
-        .attr("viewBox", [0, 0, width, height])
+        .attr("viewBox", [0, 0, force_width, force_height])
         // 设置div的宽和高
-        .attr("width", width)
-        .attr("height", height)
+        .attr("width", force_width)
+        .attr("height", force_height)
         .style("fill","white")
         .call(d3.zoom().scaleExtent([1 / 2, 8]).on("zoom", function () {force_svg.attr("transform", d3.event.transform)})).append("g");
         

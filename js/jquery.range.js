@@ -132,6 +132,10 @@
 			this.pointers.removeClass('focused');
 			this.labels.removeClass('focused');
 			$(document).off('.slider');
+
+			// 此处又更改了js库代码
+			update_wordle();
+
 		},
 		barClicked: function(e) {
 			if(this.options.disable) return;
@@ -143,6 +147,9 @@
 					this.pointers.first() : this.pointers.last();
 				this.setPosition(pointer, x, true, true);
 			}
+
+			// 此处又更改了js库代码
+			update_wordle();
 		},
 		onChange: function(e, self, pointer, position) {
 			var min, max;

@@ -1,5 +1,5 @@
-let width = 900;
-let height = 600;
+let wordle_width = 1200;
+let wordle_height = 600;
 
 let layout;
 let wordle_svg;
@@ -25,7 +25,7 @@ function update_XScale(){
     keywords.map(function(d){
         x_min = Math.min(x_min, Math.sqrt(d.size));
         x_max = Math.min(x_max, Math.sqrt(d.size));
-    })
+    });
     xScale = d3.scale.linear()
         .domain([x_min, x_max]) 
         .range([min_size, max_size]); 
@@ -57,24 +57,24 @@ d3.json("./data/wordle-info.json", function(data){
 
 function wordCloud() {
     //Construct the word cloud's SVG element
-    wordle_svg = d3.select("body")
+    wordle_svg = d3.select("#panel_4")
         .append("div")
         .append("svg")
-        .attr("viewBox", [0, 0, width, height])
+        .attr("viewBox", [0, 0, wordle_width, wordle_height])
         .attr("preserveAspectRatio", "xMidYMid slice")
-        .attr("width", width)
-        .attr("height", height)
+        .attr("width", wordle_width)
+        .attr("height", wordle_height)
         .style("fill","white")
         .call(d3.zoom().scaleExtent([1 / 2, 8]).on("zoom", function () {
             wordle_svg.attr("transform", d3.event.transform);
         }))
         .append("g")
-        .attr("id", "wordcloud")
+        .attr("id", "wordcloud");
 
     //Draw the word cloud
     function draw(words) {
         word_cloud = wordle_svg.selectAll("text")
-                        .data(words)
+                        .data(words);
 
         //Entering words
         word_cloud.enter()
@@ -90,7 +90,7 @@ function wordCloud() {
                 .duration(600)
                 .style("font-size", function(d) { return d.size + "px"; })
                 .attr("transform", function(d) {
-                    return "translate(" + [d.x + width / 2, d.y + height / 2] + ")rotate(" + d.rotate + ")";
+                    return "translate(" + [d.x + wordle_width / 2, d.y + wordle_height / 2] + ")rotate(" + d.rotate + ")";
                 })
                 .style("fill-opacity", 1);
 
@@ -105,7 +105,7 @@ function wordCloud() {
 
     return {
         update: function(words) {
-            d3.layout.cloud().size([width, height])
+            d3.layout.cloud().size([wordle_width, wordle_height])
                 // .words(words.map(function(d){
                 //     return {text: d.text, size: xScale(d.size)};
                 // }))
@@ -132,7 +132,7 @@ $('.range-slider').jRange({
     isRange : true
 });
 
-$("#wordle_button").click(function(){
+function update_wordle(){
     var aa = $(".range-slider").val();
     let from = parseInt(aa.substr(0, 4));
     let to = parseInt(aa.substr(5, 9));
@@ -166,12 +166,11 @@ $("#wordle_button").click(function(){
         return second[1] - first[1];
     });
     for (let i = 0;i < show_size;i++){
-        tmp = {}
+        tmp = {};
         tmp['text'] = items[i][0];
         tmp['size'] = items[i][1];
         keywords.push(tmp);
     }
     update_XScale();
     myWordCloud.update(keywords);
-});
-
+}

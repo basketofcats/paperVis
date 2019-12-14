@@ -1,0 +1,126 @@
+body {
+    font-family: Cambria, Arial;
+    background: #333;
+}
+
+.logo {
+    color: #ffffff;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 300;
+    font-size: 3rem;
+    letter-spacing: 1px;
+    position: fixed;
+    right: 5rem;
+}
+
+.tabs {
+    width: 90%;
+    margin: 50px auto;
+}
+
+.tab-input {
+    opacity: 0;
+}
+
+.tab-label {
+    cursor: pointer;
+    background: -webkit-linear-gradient(#666, #555);
+    color: #eee;
+    border-radius: 5px 5px 0 0;
+    padding: 1.5% 3%;
+    float: left;
+    margin-right: 2px;
+    font: italic 1em cambria;
+}
+
+.tab-label:hover {
+    background: -webkit-linear-gradient(#777, #666);
+}
+
+.tab-input:checked + label {
+    background: #fff;
+    color: #333;
+}
+
+.tabs input:nth-of-type(1):checked ~ .panels .panel:first-child,
+.tabs input:nth-of-type(2):checked ~ .panels .panel:nth-child(2),
+.tabs input:nth-of-type(3):checked ~ .panels .panel:nth-child(3),
+.tabs input:nth-of-type(4):checked ~ .panels .panel:last-child {
+    opacity: 1;
+    -webkit-transition: .3s;
+}
+
+.panels {
+    float: left;
+    clear: both;
+    position: relative;
+    width: 100%;
+    background: #fff;
+    border-radius: 0 10px 10px 10px;
+    min-height: 315px;
+}
+
+.panel {
+    width: 100%;
+    opacity: 0;
+    position: absolute;
+    background: #fff;
+    border-radius: 0 10px 10px 10px;
+    padding: 4%;
+    box-sizing: border-box;
+}
+
+.panel h2 {
+    margin: 0;
+    font-family: Arial;
+}
+
+.image {
+    max-width: 1048px;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 300px;
+    height: 100px auto;
+    padding: 5px;
+    font: 12px sans-serif;
+    background: lightgrey;
+    border-radius: 8px;
+    pointer-events: none;
+}
+
+.myButton {
+    outline: 0;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+    border: 1px solid #dcdcdc;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.myButton:hover {
+    background-color: #e9e9e9;
+}
+
+.wordle_slider {
+    left: 200px;
+    top: 50px;
+    width: 400px;
+    margin: 30px;
+}
+
+#wordle_button {
+    left: 400px;
+    top: 65px;
+    width: 100px;
+    position: absolute;
+}
