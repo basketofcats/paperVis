@@ -117,10 +117,3 @@ div.tooltip {
     width: 400px;
     margin: 30px;
 }
-
-#wordle_button {
-    left: 400px;
-    top: 65px;
-    width: 100px;
-    position: absolute;
-}

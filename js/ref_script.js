@@ -1,4 +1,5 @@
 var paperData = {},
+    allPaperData = {},
     titleBegin = 1000,  // svg高度
     selectedPaper,      // 当前选择论文
     searchResult,       // 搜索结果
@@ -22,7 +23,7 @@ function clearSelectedPaper() {
     references = [];
     citedBy = [];
     updateText();
-    updatePaperDetails();
+    updatePaperDetails(selectedPaper);
 }
 
 function showCitation() {
@@ -186,36 +187,42 @@ function updateText() {
 
 }
 
-function updatePaperDetails() {
+function updatePaperDetails(paperDetail) {
     d3.select("#pDetails").selectAll("div").remove();
 
     let div = d3.select("#pDetails").append("div");
     let span20 = "<span style=\"padding-left:20px\"></span>";
-    if (selectedPaper) {
-        let abstract = selectedPaper.abstract;
+    if (paperDetail) {
+        let abstract =paperDetail.abstract;
 
-        let authorsList = selectedPaper.authors[0];
-        for (let i = 1; i < selectedPaper.authors.length; i++)
-            authorsList += (span20 + selectedPaper.authors[i]);
-        let keywordStringList = selectedPaper.keywords;
+        let authorsList =paperDetail.authors[0];
+        for (let i = 1; i <paperDetail.authors.length; i++)
+            authorsList += (span20 +paperDetail.authors[i]);
+        let keywordStringList =paperDetail.keywords;
 
-        let keywordsList = selectedPaper.keywords[0];
+        let keywordsList =paperDetail.keywords[0];
         for (let i = 1; i < keywordStringList.length; i++)
             keywordsList += ', ' + keywordStringList[i];
 
         div.html(
-            "<h1>" + (selectedPaper.title) + "</h1>" +
+            "<h1>" + (paperDetail.title) + "</h1>" +
             "<p>" + (authorsList) + "</p>" +
             "<h3> Abstract </h3>" +
             "<p  align=\"left\">" + (abstract) + "</p>" +
             "<p  align=\"left\">" + "Keywords: " + keywordsList + "</p>" +
-            "<p  align=\"left\">" + "Year: "+ selectedPaper.year + span20 + "Cited by " + selectedPaper.cited_count + "</p>" +
+            "<p  align=\"left\">" + "Year: "+paperDetail.year + span20 + "Cited by " +paperDetail.cited_count + "</p>" +
             "<p  align=\"left\">" + "External Link: " +
-            "<a href=\"" + selectedPaper.link + "\">" + selectedPaper.link + "</a></p>"
+            "<a href=\"" +paperDetail.link + "\">" +paperDetail.link + "</a></p>"
         );
     } else {
         div.html("<h1>" + "No paper selected" + "</h1>");
     }
+}
+
+function updatePaperDetail(paperId) {
+    let year = paperId.substring(6, 10);
+    let id = paperId.substring(11);
+    updatePaperDetails(allPaperData[year][id]);
 }
 
 function yearBar() {
@@ -360,7 +367,7 @@ function yearBar() {
                 citedBy = d3.select(this)._groups[0][0].__data__.cited_by;
 
                 updateText();
-                updatePaperDetails();
+                updatePaperDetails(selectedPaper);
                 d3.event.stopPropagation();
             })
             .on("mouseover", function (d) {
@@ -392,8 +399,8 @@ function yearBar() {
                     "<a style=\"font-size:10px; color:" + colorText + "\">" + d.year + "</a><br/>" +
                     "<a style=\"font-size:15px; color:" + colorText + "\">" + (d.title) + "</a><br/>" +
                     "<a style=\"font-size:8px; color:" + colorText + "\">" + authorsList + "</a>")
-                    .style("left", (d3.event.pageX) + "px")
-                    .style("top", (d3.event.pageY - 28) + "px")
+                    .style("left", (d3.event.pageX - 70) + "px")
+                    .style("top", (d3.event.pageY - 110) + "px")
                     .style("background", 'LightGrey')
                 ;
 
@@ -539,8 +546,14 @@ d3.json("data/paper_info.json", function (error, data) {
     paperData = data;
     getMaxCitations();
     yearBar();
-    updatePaperDetails();
+    updatePaperDetails(selectedPaper);
 
     d3.select("#citationCheckbox").on("change", showCitation);
 });
+
+d3.json("data/paper_detail.json", function (error, data) {
+    if (error) throw error;
+    allPaperData = data;
+});
+
 

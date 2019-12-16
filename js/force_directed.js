@@ -221,6 +221,7 @@ function showForce(strengh_force = -10, node_id = ""){
         })
         .on("click", function (d){
             click_update(d.node_name, d.node_id);
+            updatePaperDetail(d.node_id);
         })
         .call(d3.drag()
                 .on("start", dragstarted)
@@ -236,10 +237,10 @@ function showForce(strengh_force = -10, node_id = ""){
         .attr("dx", 5)
         .attr("dy", 5)
         .text(function(d, i) {
-            if (d.node_id == node_id){
+            if (d.node_id === node_id){
                 idx = i;
             }
-            if (d.node_id[0] == "a") {
+            if (d.node_id[0] === "a") {
                 return d.node_name;
             } else{
                 return "";
